@@ -14525,3 +14525,65 @@ Highest Stat Value - Sort from highest to lowest Stat Value change of equipping 
 Highest Stat Value / Price - Sorts from highest to lowest Stat Value per currency,屬性值 / 价格 - 按單位價格對應的屬性值由高至低排序  
 Lowest Price - Sorts from lowest to highest price of retrieved items,最低价格 - 按檢索到的商品價格從低到高排序  
 Highest Weight - displays the order retrieved from trade,最高權重 - 顯示從交易接口獲取的原始排序
+Doryani (Corrupted Soul),多里亞尼: 腐化之魂
+Xibaqua (Divine Flesh),賽巴昆: 神聖血肉
+Ahuana (Immortal Ambition),阿呼阿娜: 不朽野望
+Kaom (Strength of Blood),岡姆: 血之力量
+Rakiata (Tempered by War),拉其塔: 戰爭淬煉
+Akoya (Chainbreaker),阿冦亞: 除鏈師
+Asenath (Dance with Death),安賽娜絲: 與死共舞
+Nasima (Second Sight),納西瑪: 先見之明
+Balbala (The Traitor),貝爾巴拉: 叛徒
+Avarius (Power of Purpose),伊爾莉斯: 力量之意
+Dominus (Inner Conviction),神主: 內觀信念
+Maxarius (Transcendence),瑪薩里歐斯: 超凡脫俗
+Cadiro (Supreme Decadence),卡迪羅: 至高．頹廢
+Victario (Supreme Grandstanding),維多里奧: 至高．譁眾
+Caspiro (Supreme Ostentation),卡斯皮羅: 至高．炫耀
+Sort by Full DPS,按全體 DPS 排序
+Sort by Combined DPS,按組合 DPS 排序
+Sort by Hit DPS,按命中 DPS 排序
+Sort by Impale + Hit DPS,按穿刺 + 命中 DPS 排序
+Sort by Average HIT,按平均命中傷害排序
+Sort by Attack/Cast Speed,按攻擊/施法速度排序
+Sort by DoT DPS,按持續傷害 DPS 排序
+Sort by Bleed DPS,按流血 DPS 排序
+Sort by Ignite DPS,按點燃 DPS 排序
+Sort by Poison DPS,按中毒 DPS 排序
+Sort by Life,按生命排序
+Sort by Life regen,按生命回復排序
+Sort by Life leech,按生命偷取排序
+Sort by Armour,按護甲排序
+Sort by Evasion,按閃避排序
+Sort by Energy Shield,按能量護盾排序
+Sort by Recoverable ES,按可回復能量護盾排序
+Sort by Energy Shield regen,按能量護盾回復排序
+Sort by Energy Shield leech,按能量護盾偷取排序
+Sort by Mana,按魔力排序
+Sort by Mana regen,按魔力回復排序
+Sort by Mana leech,按魔力偷取排序
+Sort by Ward,按守護值排序
+Sort by Strength,按力量排序
+Sort by Dexterity,按敏捷排序
+Sort by Intelligence,按智慧排序
+Sort by Total Attributes,按總屬性排序
+Sort by Melee avoid chance,按近戰閃避機率排序
+Sort by Spell avoid chance,按法術閃避機率排序
+Sort by Projectile avoid chance,按投射物閃避機率排序
+Sort by Effective Hit Pool,按有效承傷池排序
+Sort by Eff. Maximum Hit Taken,按可承受最大傷害排序
+Sort by Taken Phys dmg,按所受物理傷害排序
+Sort by Taken Lightning dmg,按所受閃電傷害排序
+Sort by Taken Cold dmg,按所受冰冷傷害排序
+Sort by Taken Fire dmg,按所受火焰傷害排序
+Sort by Taken Chaos dmg,按所受混沌傷害排序
+Sort by Crit Chance,按暴擊機率排序
+Sort by Crit Multiplier,按暴擊加成排序
+Sort by Bleed Chance,按流血機率排序
+Sort by Freeze Chance,按冰凍機率排序
+Sort by Ignite Chance,按點燃機率排序
+Sort by Shock Chance,按感電機率排序
+Sort by Move speed,按移動速度排序
+Sort by Block Chance,按格擋機率排序
+Sort by Spell Block Chance,按法術格擋機率排序
+Sort by Spell Suppression Chance,按法術壓制機率排序
