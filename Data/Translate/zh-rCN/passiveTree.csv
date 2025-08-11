@@ -207,3 +207,5 @@ Pitfighter,深渊斗士
 "(Bone Armour applies a buff to you and each of your minions, which will take some of the damage from enemy hits before being depleted. The buff also grants immunity to bleeding. Shares a cooldown with other Guard skills)",（骨制战甲给你和你的每个召唤生物施加一个增益效果，在其耗尽之前替你承受部分敌人的击中伤害。该增益效果还免疫流血。和其它防卫技能共用冷却时间）
 "(Ravenous consumes a targeted corpse, granting you a buff that causes you to deal more damage to, and take less damage from, enemies of the same Monster Category as the corpse)",（贪噬会吞噬一个目标灵柩，使你获得一项增益，在对抗与灵柩怪物类型相同的敌人时能造成更高的伤害，并降低受到该类怪物造成的伤害）
 "(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)",（召唤两个会跟随你移动的触发机器人，它们会冲向你的敌人。你的触发法术在每个触发机器人的位置各触发一次，共两次）
+"Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier",异常状态的持续伤害加成等同于暴击加成
+"Non-Critical Strikes cannot inflict Ailments",非暴击无法造成异常状态
