@@ -31350,3 +31350,4 @@ Divined,命运所示
 "{0}% increased Smelting Speed","冶炼速度提高 {0}%"
 "Tier {0}+ Maps have either Maven, Searing Exarch or Eater of Worlds Influence","{0} 阶及以上地图拥有贤主、焚界者或灭界者影响"
 "Cursed Enemies grant {0} Rage when Stunned","被诅咒的敌人晕眩时获得 {0} 点怒火"
+"Grants a random Divination Buff for {0} seconds when Used","使用时，赋予一个随机命运卡增益效果，持续 {0} 秒"
