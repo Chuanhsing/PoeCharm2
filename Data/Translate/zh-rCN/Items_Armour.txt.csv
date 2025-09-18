@@ -218,7 +218,7 @@ Chestplate,胸甲
 Tricorne,三角帽
 "Leather Hood",革兜
 "Wolf Pelt",狼首皮盔
-"Hunter Hood",猎者之兜
+"Hunter Hood",猎者兜帽
 "Noble Tricorne",贵族三角帽
 "Ursine Pelt",熊首皮盔
 "Silken Hood",绸缎之兜
@@ -830,7 +830,7 @@ Gamblesprint,博运步伐
 "Lich's Circlet",巫妖之冠
 "Knight Helm",骑士之盔
 "Admiral's Arrogance",提督的傲慢
-"Spinehail",棘雹
+Spinehail,棘雹
 "Vile Arrow Quiver",恶矢箭袋
 "Kaom's Command",冈姆的命令
 "Mightblood Ire",威血之怒
@@ -856,5 +856,534 @@ Gamblesprint,博运步伐
 "Martyr Gloves",先烈手套
 "The Hateful Accuser",憎恨控诉
 "Nameless Ring",无名指环
-"Howlcrack",惊啸裂痕
-"Kaom's Command",冈姆的命令
+Howlcrack,惊啸裂痕
+"Stocky Mitts",敦实护手
+"Riveted Mitts",铆接护手
+"Tempered Mitts",淬炼护手
+"Bolstered Mitts",增固护手
+"Moulded Mitts",铸锻护手
+"Detailed Mitts",精工护手
+"Titan Mitts",泰坦护手
+"Grand Mitts",堂皇护手
+"Suede Bracers",绒皮护腕
+"Firm Bracers",牢固护腕
+"Bound Bracers",缚革护腕
+"Sectioned Bracers",截片护腕
+"Spined Bracers",精纺护腕
+"Fine Bracers",精工护腕
+"Hardened Bracers",硬化护腕
+"Engraved Bracers",雕饰护腕
+"Torn Gloves",破碎手套
+"Sombre Gloves",肃穆手套
+"Stitched Gloves",缝合手套
+"Jewelled Gloves",宝石手套
+"Intricate Gloves",精致手套
+"Pauascale Gloves",海灵鳞缀手套
+"Adorned Gloves",华饰手套
+"Ringmail Gauntlets",环锁手甲
+"Layered Gauntlets",垫层护手
+"Doubled Gauntlets",合钢手甲
+"Plate Gauntlets",铁板护手
+"Burnished Gauntlets",冷芒手甲
+"Ornate Gauntlets",华贵护手
+"Rope Cuffs",绳索袖带
+"Aged Cuffs",风霜袖带
+"Goldcast Cuffs",金索袖带
+"Verisium Cuffs",维金袖带
+"Righteous Cuffs",正义袖带
+"Signet Cuffs",纹饰袖带
+"Gauze Wraps",薄纱裹手
+"Linen Wraps",亚麻裹手
+"Spiral Wraps",螺旋裹手
+"Buckled Wraps",扣带裹手
+"Furtive Wraps",鬼祟裹手
+"Utility Wraps",万用裹手
+"Grand Manchettes",恢弘袖口
+"Plated Mitts",坚铁护手
+"Elegant Mitts",优雅护手
+"Ancient Mitts",远古护手
+"Feathered Mitts",羽饰护手
+"Hunting Bracers",狩猎护腕
+"Swift Bracers",迅捷护腕
+"Refined Bracers",精制护腕
+"Spiked Bracers",尖刺护腕
+"Ominous Gloves",噩兆手套
+"Embellished Gloves",华饰手套
+"Baroque Gloves",巴洛克手套
+"Gold Gloves",黄金手套
+"Ironmail Gauntlets",铁甲手套
+"Captain Gauntlets",队长手套
+"Zealot Gauntlets",狂热者手套
+"Braided Cuffs",编织袖带
+"Heirloom Cuffs",传家袖带
+"Ornate Cuffs",华丽袖带
+"Bandage Wraps",绷带裹手
+"Cambric Wraps",细麻布裹手
+"Adorned Wraps",华饰裹手
+"Knightly Mitts",骑士护手
+"Ornate Mitts",华丽护手
+"Vaal Mitts",瓦尔护手
+"Massive Mitts",巨型护手
+"Stalking Bracers",潜行护腕
+"Grand Bracers",宏伟护腕
+"Barbed Bracers",倒刺护腕
+"Polished Bracers",闪耀护腕
+"Grim Gloves",冷酷手套
+"Opulent Gloves",丰裕手套
+"Vaal Gloves",瓦尔手套
+"Sirenscale Gloves",海妖之鳞手套
+"Steelmail Gauntlets",钢甲手甲
+"Commander Gauntlets",军官手甲
+"Cultist Gauntlets",密会手甲
+"Blacksteel Gauntlets",黑钢手甲
+"Bound Cuffs",缚革袖带
+"Ancient Cuffs",远古袖带
+"Gleaming Cuffs",闪亮袖带
+"Adherent Cuffs",信徒袖带
+"War Wraps",战争裹手
+"Elegant Wraps",雅致裹手
+"Vaal Wraps",瓦尔裹手
+"Secured Wraps",坚固裹手
+"Rough Greaves",粗制胫甲
+"Bronze Greaves",青铜胫甲
+"Trimmed Greaves",镶边胫甲
+"Stone Greaves",坚石胫甲
+"Reefsteel Greaves",卷钢胫甲
+"Monument Greaves",典范胫甲
+"Totemic Greaves",图腾胫甲
+"Laced Boots",花边靴
+"Embossed Boots",浮雕靴
+"Steeltoe Boots",钢趾靴
+"Lizardscale Boots",蜥鳞靴
+"Flared Boots",宽口靴
+"Leatherplate Boots",覆皮板靴
+"Embroidered Boots",刺绣靴
+"Straw Sandals",稻草鞋履
+"Wrapped Sandals",裹布鞋履
+"Lattice Sandals",硬框鞋履
+"Feathered Sandals",羽饰鞋履
+"Flax Sandals",麻布鞋履
+"Studded Sandals",镶钉鞋履
+"Elaborate Sandals",精美鞋履
+"Mail Sabatons",锁链战靴
+"Braced Sabatons",加固战靴
+"Stacked Sabatons",层钢战靴
+"Covered Sabatons",掩护战靴
+"Flexile Sabatons",灵便战靴
+"Bold Sabatons",光鲜战靴
+"Padded Leggings",衬垫绑腿
+"Secured Leggings",牢靠绑腿
+"Pelt Leggings",毛皮绑腿
+"Weaver Leggings",织履绑腿
+"Gilt Leggings",镀金护腿
+"Pious Leggings",虔信护腿
+"Frayed Shoes",磨损便鞋
+"Threaded Shoes",线缝便鞋
+"Hunting Shoes",狩猎便鞋
+"Steelpoint Shoes",钢缘便鞋
+"Velour Shoes",鹅绒便鞋
+"Bladed Shoes",嵌刃便鞋
+"Grand Cuisses",恢弘腿甲
+"Golden Greaves",金色护胫
+"Lionheart Greaves",狮心胫甲
+"Elegant Greaves",雅致胫甲
+"Carved Greaves",雕饰胫甲
+"Bound Boots",缚革长靴
+"Sleek Boots",滑布长靴
+"Studded Boots",镶钉长靴
+"Laced Sandals",花边鞋履
+"Bangled Sandals",手镯鞋履
+"Elegant Slippers",雅致便鞋
+"Dunerunner Sandals",沙丘行者鞋履
+"Soldiering Sabatons",士兵战靴
+"Goldwork Sabatons",金工战靴
+"Bastion Sabatons",坚城壁垒战靴
+"Adherent Leggings",联排绑腿
+"Bound Leggings",缚革绑腿
+"Shamanistic Leggings",萨满绑腿
+"Wayfarer Shoes",远行者便鞋
+"Silverbuckled Shoes",银扣便鞋
+"Treerunner Shoes",林奔者便鞋
+"Bulwark Greaves",堡垒胫甲
+"Ornate Greaves",华丽胫甲
+"Tasalian Greaves",塔萨里奥胫甲
+"Cinched Boots",束带长靴
+"Cavalry Boots",骑兵长靴
+"Drakeskin Boots",龙皮长靴
+"Bound Sandals",缚革鞋履
+"Luxurious Slippers",奢华便鞋
+"Sandsworn Sandals",沙誓鞋履
+"Sekhema Sandals",丝克玛便鞋
+"Veteran Sabatons",老兵战靴
+"Noble Sabatons",贵族战靴
+"Fortress Sabatons",要塞战靴
+"Blacksteel Sabatons",黑钢战靴
+"Faithful Leggings",信仰护腿
+"Apostle Leggings",使徒护腿
+"Warlock Leggings",术士护腿
+"Cryptic Leggings",隐秘绑腿
+"Wanderer Shoes",游荡者便鞋
+"Charmed Shoes",魅力便鞋
+"Quickslip Shoes",急迅便鞋
+"Daggerfoot Shoes",捷足便鞋
+"Rusted Cuirass",锈蚀胸甲
+"Fur Plate",覆皮之铠
+"Iron Cuirass",铁锻胸甲
+"Raider Plate",劫掠之铠
+"Maraketh Cuirass",马拉克斯胸甲
+"Steel Plate",冷钢之铠
+"Vaal Cuirass",瓦尔胸甲
+"Juggernaut Plate",巨灵之铠
+"Chieftain Cuirass",酋长胸甲
+"Champion Cuirass",冠军胸甲
+"Conqueror Plate",霸王战铠
+"Abyssal Cuirass",深渊胸甲
+"Leather Vest",皮革背心
+"Quilted Vest",菱纹背心
+"Pathfinder Coat",寻路者外套
+"Shrouded Vest",蔽影背心
+"Rhoahide Coat",恐喙鸟皮外套
+"Studded Vest",嵌饰背心
+"Scout's Vest",斥候背心
+"Serpentscale Coat",蛇鳞外套
+"Corsair Vest",海贼背心
+"Smuggler Coat",走私者外套
+"Strider Vest",疾行者背心
+"Hardleather Coat",硬皮外套
+"Exquisite Vest",浮华背心
+"Mail Coat",锁环外套
+"Armoured Vest",铠装背心
+"Tattered Robe",破烂长袍
+"Feathered Robe",羽饰长袍
+"Hexer's Robe",魔蛊长袍
+"Bone Raiment",坠饰之衣
+"Keth Raiment",克斯之衣
+"Votive Raiment",奉愿之衣
+"Altar Robe",祭坛长袍
+"Elementalist Robe",元素使长袍
+"Mystic Raiment",密士之衣
+"Imperial Robe",帝国长袍
+"Plated Raiment",嵌板之衣
+"Havoc Raiment",劫难之衣
+"Enlightened Robe",启迪长袍
+"Arcane Raiment",秘法之衣
+"Chain Mail",环锁甲
+"Rogue Armour",盗贼护甲
+"Vagabond Armour",漂泊者护甲
+"Cloaked Mail",披风锁甲
+"Explorer Armour",探索者护甲
+"Scale Mail",嵌鳞锁甲
+"Knight Armour",骑士护甲
+"Ancestral Mail",先祖锁甲
+"Lamellar Mail",层叠锁甲
+"Gladiator Armour",角斗士护甲
+"Heroic Armour",英武护甲
+"Tournament Mail",演武锁甲
+"Slayer Armour",惩罚者护甲
+"Pilgrim Vestments",朝圣者长衣
+"Pelt Mantle",毛皮斗篷
+"Mail Vestments",锁子长衣
+"Shaman Mantle",萨满斗篷
+"Ironclad Vestments",武装长衣
+"Sacrificial Mantle",献祭斗篷
+"Cleric Vestments",圣徒长衣
+"Tideseer Mantle",潮贤斗篷
+"Gilded Vestments",鎏金长衣
+"Venerated Mantle",崇圣斗篷
+"Revered Vestments",崇礼长衣
+"Corvus Mantle",灵鸦斗篷
+"Zenith Vestments",天顶长衣
+"Hermit Garb",隐士束衣
+"Waxed Jacket",防水外衣
+"Marabout Garb",遁世束衣
+"Wayfarer Jacket",远行者外衣
+"Anchorite Garb",隐士束衣
+"Scalper's Jacket",猎头者外衣
+"Scoundrel Jacket",流贼外衣
+"Ascetic Garb",苦修束衣
+"Clandestine Jacket",无影外衣
+"Monastic Garb",修行束衣
+"Torment Jacket",磨难外衣
+"Devout Garb",虔心束衣
+"Assassin Garb",暗影束衣
+Garment,华服装束
+"Grand Regalia",恢弘盛装
+"Barbarian Plate",野蛮人战铠
+"Rugged Cuirass",粗糙胸甲
+"Sandsworn Cuirass",沙誓胸甲
+"Elegant Plate",优雅战铠
+"Heavy Plate",重型战铠
+"Stone Cuirass",石制胸甲
+"Patchwork Vest",拼接背心
+"Hunting Coat",狩猎外套
+"Riding Coat",骑行外套
+"Layered Vest",分层背心
+"Runner Vest",跑者背心
+"Lizardscale Coat",蜥鳞外套
+"Avian Robe",飞羽长袍
+"Cursespeaker's Robe",诅咒术士长袍
+"Luxurious Robe",奢华长袍
+"River Raiment",河流之衣
+"Adherent's Raiment",信徒之衣
+"Ceremonial Robe",仪式长袍
+"Ring Mail",锁环甲
+"Scoundrel Armour",恶棍护甲
+"Wanderer Armour",流浪者护甲
+"Mantled Mail",斗篷锁甲
+"Trailblazer Armour",开拓者护甲
+"Golden Mail",黄金锁甲
+"Templar Vestments",圣堂武僧长衣
+"Bearskin Mantle",熊皮斗篷
+"Chain Vestments",链甲长衣
+"Occultist Mantle",秘术家斗篷
+"Plated Vestments",嵌板长衣
+"Heartcarver Mantle",刻心斗篷
+"Oiled Jacket",油蜡外衣
+"Evangelist Garb",传道士束衣
+"Itinerant Jacket",流浪外衣
+"Hatungo Garb",哈图纳格斯束衣
+"Hawker's Jacket",小贩外衣
+"Soldier Cuirass",士兵胸甲
+"Ornate Plate",华丽战铠
+"Utzaal Cuirass",乌扎尔胸甲
+"Warlord Cuirass",督军胸甲
+"Swiftstalker Coat",迅捷潜行者外套
+"Slipstrike Vest",滑击背心
+"Wyrmscale Coat",巨龙鳞外套
+"Corsair Coat",海盗外套
+"Vile Robe",邪恶束衣
+"Flowing Raiment",飘逸之衣
+"Sacramental Robe",圣礼束衣
+"Feathered Raiment",羽饰之衣
+"Dastard Armour",懦夫护甲
+"Shrouded Mail",蔽影锁甲
+"Death Mail",死亡锁甲
+"Thane Mail",领主锁甲
+"Wolfskin Mantle",狼皮斗篷
+"Conjurer Mantle",咒者斗篷
+"Death Mantle",死亡斗篷
+"Seastorm Mantle",海洋风暴斗篷
+"Sleek Jacket",滑布外衣
+"Rambler Jacket",漫步者外衣
+"Falconer's Jacket",猎鹰师外衣
+"Austere Garb",简朴束衣
+"Rusted Greathelm",锈蚀巨盔
+"Soldier Greathelm",兵卒巨盔
+"Wrapped Greathelm",裹布巨盔
+"Spired Greathelm",螺旋巨盔
+"Elite Greathelm",精锐巨盔
+"Warrior Greathelm",战士巨盔
+"Commander Greathelm",军官巨盔
+"Fierce Greathelm",刚烈巨盔
+"Sentinel Greathelm",哨卫巨盔
+"Goliath Greathelm",歌利亚巨盔
+"Guardian Greathelm",守护者巨盔
+"Shabby Hood",破旧兜帽
+"Felt Cap",毛毡帽
+"Lace Hood",花边兜帽
+"Swathed Cap",缠丝帽
+"Viper Cap",毒蝰帽
+"Corsair Cap",海贼帽
+"Leatherbound Hood",皮缚兜帽
+"Velvet Cap",丝绒帽
+"Covert Hood",匿踪兜帽
+"Armoured Cap",覆甲帽
+"Twig Circlet",细枝头冠
+"Wicker Tiara",柳枝冠冕
+"Beaded Circlet",珠饰头冠
+"Chain Tiara",锁链冠冕
+"Feathered Tiara",羽饰冠冕
+"Gold Circlet",烁金头冠
+"Vermeil Circlet",朱砂头冠
+"Jade Tiara",翠玉冠冕
+"Noble Circlet",贵族头冠
+"Twilight Tiara",暮光冠冕
+"Magus Tiara",术士冠冕
+"Brimmed Helm",宽沿之盔
+"Guarded Helm",守护之盔
+"Visored Helm",护面之盔
+"Cowled Helm",掩面之盔
+"Shielded Helm",卫护之盔
+"Closed Helm",封闭之盔
+"Decorated Helm",华饰之盔
+"Gallant Helm",英武之盔
+"Iron Crown",铁锻王冠
+"Horned Crown",犄角王冠
+"Cultist Crown",密教头冠
+"Martyr Crown",英烈之冠
+"Heavy Crown",沉重王冠
+"Spiritbone Crown",灵骨王冠
+"Lavish Crown",奢华王冠
+"Archon Crown",执政官王冠
+"Hewn Mask",凿制之面
+"Face Mask",覆颜面具
+"Hooded Mask",兜帽之面
+"Veiled Mask",蒙纱之面
+"Tribal Mask",部族之面
+"Solid Mask",坚固之面
+"Shaded Mask",影蔽之面
+"Death Mask",死神之面
+"Grand Visage",恢弘面罩
+"Corroded Greathelm",腐蚀巨盔
+"Mercenary Greathelm",佣兵巨盔
+"Homeguard Greathelm",族卫巨盔
+"Elegant Greathelm",雅致巨盔
+"Noble Greathelm",贵族巨盔
+"Rotted Hood",腐烂兜帽
+"Wool Cap",羊毛帽
+"Narrow Hood",窄型兜帽
+"Wrapped Cap",包裹帽
+"Deerstalker Hood",猎踪兜帽
+"Druidic Circlet",德鲁伊头冠
+"Avian Tiara",飞羽冠冕
+"Desert Circlet",沙漠头冠
+"Sandsworn Tiara",沙誓冠冕
+"Jungle Tiara",丛林冠冕
+"Domed Helm",圆顶头盔
+"Engraved Helm",雕饰头盔
+"Soldier Helm",士兵头盔
+"Cabalist Helm",秘法家头盔
+"Gladiatoral Helm",角斗士头盔
+"Mailed Crown",锁甲王冠
+"Forest Crown",森林王冠
+"Zealot Crown",狂热者王冠
+"Hallowed Crown",神圣王冠
+"Inquisitor Crown",判官王冠
+"Oak Mask",欧克面具
+"Bandit Mask",盗贼面具
+"Skulking Mask",潜行面具
+"Pariah Mask",贱民面具
+"Avian Mask",飞羽面具
+"Warmonger Greathelm",好战者巨盔
+"Masked Greathelm",蒙面巨盔
+"Paragon Greathelm",典范巨盔
+"Imperial Greathelm",帝国巨盔
+"Woven Cap",编织帽
+"Desert Cap",沙漠帽
+"Trapper Hood",猎人兜帽
+"Freebooter Cap",劫掠者之帽
+"Skycrown Tiara",天冠冠冕
+"Sorcerous Tiara",法术冠冕
+"Kamasan Tiara",卡马萨冠冕
+"Ancestral Tiara",先祖冠冕
+"Warded Helm",掩蔽头盔
+"Cryptic Helm",神秘头盔
+"Champion Helm",勇士头盔
+"Gladiatorial Helm",角斗士头盔
+"Druidic Crown",德鲁伊王冠
+"Saintly Crown",圣洁王冠
+"Divine Crown",神礼王冠
+"Cryptic Crown",隐秘之冠
+"Brigand Mask",驱灵面具
+"Faridun Mask",法里顿面具
+"Soaring Mask",翱翔面具
+"Grinning Mask",狞笑面罩
+Bristleboar,棘体猪肤
+Innsmouth,印斯茅斯
+"The Black Doubt",疑心暗惑
+"The Knight-errant",豪侠骑士
+"Erian's Cobble",阿里安的拼凑
+"Kitoko's Current",奇托克的洪流
+Corpsewade,涉灵
+"Sands of Silk",流丝之沙
+"Apron of Emiran",艾米兰的兜裙
+Treefingers,树之指
+"Couture of Crimson",赤红礼装
+Gloomform,幽邃之躯
+"The Barrow Dweller",荒坟寄主
+"Radiant Grief",辉煌遗恨
+"Enfolding Dawn",遍洒晨辉
+Dustbloom,尘绽
+"Quatl's Molt",羽蛇之带
+"The Dancing Mirage",跃舞蜃影
+"Redflare Conduit",赫耀导体
+"Zerphi's Serape",泽佛伊的毛披肩
+"The Velvet Orchestra",丝柔合奏
+Necromantle,通灵披风
+"Prayers for Rain",祈雨祷告
+"Tetzlapokal's Desire",特兹拉波卡尔的欲望
+Blackbraid,黑髻
+"Edyrn's Tusks",艾丁的獠牙
+"Titanrot Cataphract",巨人灾星甲胄
+"Coat of Red",赤红外套
+Irongrasp,铁腕
+"Pariah's Embrace",贱民之拥
+"Widow's Reign",寡妇的统治
+"Husk of Dreams",幻梦躯壳
+Waveshaper,塑成惊涛
+Briarpatch,荆皮护靴
+"Sibling Rivalry",兄弟相争
+Powertread,神力靴
+Legionstride,军团的进击
+Trampletoe,踏趾靴
+"Birth of Fury",怒火降生
+"Obern's Bastion",欧本的壁垒
+Shankgonne,藏锋
+Timberwolf,灰狼之灵
+"Keeper of the Arc",弧光守护者
+Northpaw,北境凶爪
+"Grip of Winter",凛冬之握
+"Idle Hands",光阴虚度
+Plaguefinger,毒疫之指
+Killjoy,败兴灾星
+"Painter's Servant",画师之侍
+Candlemaker,塑烛者
+Nightscale,夜鳞
+Dreadfist,恐惧之拳
+Jarngreipr,金石手甲
+Deathblow,死神的袭击
+"Aerisvane's Wings",艾瑞斯维恩之翼
+"Constricting Command",收缩指令
+"Visage of Ayah",阿雅的面目
+"Forbidden Gaze",荆棘凝视
+"Atziri's Disdain",阿兹里的蔑视
+"Wings of Caelyn",凯琳飞翼
+"Corona of the Red Sun",赤红艳阳之冠
+"Gravis Grimace",愁容鬼面
+Greymake,苍髯皓首
+"The Smiling Knight",笑面骑士
+"The Vile Knight",厄难骑士
+"Crown of the Victor",胜者桂冠
+Bronzebeard,青铜须髯
+Cornathaum,锋锥之帽
+"The Deepest Tower",深邃幽塔
+"Solus Ipse",形单影只
+"Sine Aequo",公理不存
+"Ab Aeterno",无始之时
+"Blessed Bonds",蒙福的羁绊
+"The Mutable Star",易变星辰
+Bushwhack,踏林长靴
+"Horns of Bynden",柏安登的犄角
+"Luminous Pace",流光步履
+"The Hollow Mask",空洞面罩
+"Wandering Reliquary",流浪圣柜
+"Hand of Wisdom and Action",智行之手
+"Atsak's Sight",阿萨克的凝视
+Thunderstep,雷鸣步伐
+"Garuk's Current",加鲁克的洪流
+Ironride,铁驭
+Bitterbloom,苦涩之花
+"Sierran Inheritance",山岭的传承
+"Myris Uxor",迈里斯之妇
+"Mask of the Sanguimancer",血咒师面罩
+"Blueflame Bracers",蓝焰护腕
+"Morior Invictus",无生之辱
+Temporalis,时空之肌
+Beetlebite,甲虫之口
+"Demigod's Virtue",升华之美德
+"The Road Warrior",征途之士
+"Demigod's Duty",升华之职责
+"Demigod's Loyalty",升华之忠诚
+"Demigod's Valor",升华之神勇
+Seastrider,跨海
+"Silks of Veneration",敬奉之绸
+Gloamgown,薄暮罩袍
+"The Fallen Formation",溃灭之阵
+Sacrosanctum,奉圣庇护所
+"Death Articulated",死神铰链
+"Black Vise",黑钳
+"Essentia Sanguis",精华收割器
+"Leopold's Applause",利奥波德的赞许
+"Valako's Vice",瓦拉库的离奇
+"The Prisoner's Manacles",囚徒的镣铐
+"The Black Insignia",黑盗勋章

@@ -162,7 +162,7 @@ Tomahawk,征戰之斧
 "Barbed Club",銳刺木棒
 "Rock Breaker",破岩錘
 "Battle Hammer",強化戰錘
-"Flanged Mace",護體之錘
+"Flanged Mace",輪緣之錘
 "Ornate Mace",華麗之錘
 "Phantom Mace",幻象之錘
 "Dragon Mace",龍之錘
@@ -325,7 +325,7 @@ Sekhem,威能權杖
 "Oscillating Sceptre",猶疑權杖
 "Stabilising Sceptre",安定權杖
 "Alternating Sceptre",輪迴權杖
-"Fishing Rod",魚竿
+"Fishing Rod",釣竿
 "Carving Knife",雕刻刀
 "Boot Knife",戰亂刀
 "Copper Kris",銅器波刃
@@ -859,7 +859,7 @@ Greatmace,巨釘錘
 "Devotional Sceptre",虔誠權杖
 "Wrath Sceptre",暴怒權杖
 "Aromatic Sceptre",芳香權杖
-"Pious Sceptre",虔誠權杖
+"Pious Sceptre",敬神權杖
 "Hallowed Sceptre",聖潔權杖
 "Wrapped Quarterstaff",纏繞細杖
 "Long Quarterstaff",加長細杖
@@ -993,3 +993,107 @@ Skysliver,天銀
 INCOMPLETE,未完成
 "Splinter of Loratta",蘿拉塔裂片
 "Solar Lance",日耀長槍
+"Kalguuran Forgehammer",卡爾葛鍛造錘
+"Calescent Hammer",升溫之錘
+"Flared Mace",閃光之錘
+"Battle Pick",戰鬥鎬
+"Marching Mace",行軍之錘
+"Bandit Mace",盜賊之錘
+"Structured Hammer",建構之錘
+"Crown Mace",皇冠之錘
+"Molten Hammer",熔火之錘
+"Strife Pick",鬥爭鎬
+"Fortified Hammer",強化之錘
+"Marauding Mace",劫掠之錘
+"Akoyan Club",艾古亞棍棒
+"Snakewood Shortbow",蛇木短弓
+"Protector Bow",保衛者之弓
+"Rider Bow",騎士之弓
+"Twin Bow",雙生之弓
+"Adherent Bow",信徒之弓
+"Militant Bow",好戰者之弓
+"Ironwood Shortbow",鐵木短弓
+"Cavalry Bow",騎兵之弓
+"Guardian Bow",防衛者之弓
+"Gemini Bow",雙子之弓
+"Fanatic Bow",盲信之弓
+"Warmonger Bow",狂戰者之弓
+"Obliterator Bow",毀滅者之弓
+"Sanctified Staff",神化長杖
+"Ravenous Staff",貪婪長杖
+"Permafrost Staff",永凍長杖
+"Snakewood Greathammer",蛇木巨錘
+"Blacksmith Maul",鐵匠重錘
+"Zealot Greathammer",狂熱巨錘
+"Solemn Maul",莊嚴重錘
+"Heavy Greathammer",重型巨錘
+"Disintegrating Maul",崩解重錘
+"Anvil Maul",鐵砧重錘
+"Sacred Maul",神聖重錘
+"Ironwood Greathammer",鐵木巨錘
+"Fanatic Greathammer",盲信巨錘
+"Ruination Maul",毀滅重錘
+"Massive Greathammer",巨型巨錘
+"Tawhoan Greatclub",塔赫亞巨棍棒
+"Reaching Quarterstaff",延伸細杖
+"Barbarous Quarterstaff",野蠻細杖
+"Arcing Quarterstaff",電弧細杖
+"Waxing Quarterstaff",白蠟細杖
+"Bladed Quarterstaff",帶刃細杖
+"Guardian Quarterstaff",守護細杖
+"Sinister Quarterstaff",邪惡細杖
+"Lunar Quarterstaff",月神細杖
+"Striking Quarterstaff",打擊細杖
+"Bolting Quarterstaff",雷霆細杖
+"Aegis Quarterstaff",神禦細杖
+"Razor Quarterstaff",剃刃細杖
+"Dreaming Quarterstaff",夢境細杖
+"Steelhead Spear",鋼尖長鋒
+"Coursing Spear",追獵長鋒
+"Swift Spear",迅疾長鋒
+"Branched Spear",分支長鋒
+"Jagged Spear",鋸齒長鋒
+"Massive Spear",巨型長鋒
+"Orichalcum Spear",山銅長鋒
+"Pronged Spear",尖叉長鋒
+"Stalking Spear",潛獵長鋒
+"Flying Spear",翱翔長鋒
+"Grand Spear",宏偉長鋒
+"Spiked Spear",尖刺長鋒
+"Akoyan Spear",艾古亞長鋒
+"Taut Crossbow",緊繃十字弓
+"Robust Crossbow",強健十字弓
+"Painted Crossbow",彩繪十字弓
+"Twin Crossbow",成雙十字弓
+"Cannonade Crossbow",砲擊十字弓
+"Bleak Crossbow",無情十字弓
+"Stout Crossbow",牢固十字弓
+"Engraved Crossbow",紋刻十字弓
+"Flexed Crossbow",屈曲十字弓
+"Gemini Crossbow",雙子十字弓
+"Siege Crossbow",攻城十字弓
+"Desolate Crossbow",蒼涼十字弓
+"Elegant Crossbow",優雅十字弓
+"Guiding Palm of the Heart",引導之掌：心
+"Splinter of Lorrata",蘿拉塔裂片
+"Tyranny's Grip",暴政之握
+Chainsting,鏈鎖之刺
+"The Hammer of Faith",信仰之錘
+"Demigod's Judgement",半神的決斷
+"Saitha's Spear",賽塔的長鋒
+"The Grand Design",宏偉設計
+Windpiercer,穿風者
+"Double Vision",雙重視界
+"Rhoa Reaver",恐喙鳥掠奪者
+"Strike of Inspiration",啟發打擊
+"Spire of Ire",怒火之塔
+Tangletongue,縛舌
+"Courtly Discord",宮廷亂事
+Cursecarver,咒刻者
+"The Last Lament",臨終悲歌
+"Guiding Palm of the Eye",引導之掌：眼
+"Guiding Palm of the Mind",引導之掌：靈
+"Adonia's Ego",艾多尼亞的自負
+"Palm of the Dreamer",幻夢者之掌
+"Fairgraves' Curse",費爾的詛咒
+"The Unborn Lich",未誕生的巫妖

@@ -77,7 +77,7 @@ Cleaver,切割者
 "Barbed Club",锐刺木棒
 "Rock Breaker",破岩锤
 "Battle Hammer",强化战锤
-"Flanged Mace",护体之锤
+"Flanged Mace",钉头锤
 "Ornate Mace",华丽之锤
 "Phantom Mace",幻象之锤
 "Ancestral Club",祖灵之杵
@@ -124,7 +124,7 @@ Sekhem,威能短杖
 "Stag Sceptre",灵鹿短杖
 "Sambar Sceptre",恶魔短杖
 "Rusted Sword",锈剑
-Cutlass,军用长刃
+Cutlass,军用长刀
 Baselard,冷光长剑
 "Battle Sword",士兵长剑
 "Elder Sword",智者长剑
@@ -211,7 +211,7 @@ Smallsword,小剑
 "Imperial Bow",帝国之弓
 "Harbinger Bow",先驱者之弓
 "Long Bow",长弓
-"Composite Bow",合成弓
+"Composite Bow",复合弓
 "Recurve Bow",反曲弓
 "Bone Bow",骨制弓
 "Royal Bow",皇家猎弓
@@ -283,7 +283,7 @@ Sledgehammer,冷铁重锤
 "Fright Maul",恐惧重锤
 "Totemic Maul",图腾巨锤
 "Great Mallet",刚猛巨锤
-"Morning Star",晨星
+"Morning Star",流星锤
 "Solar Maul",日光锤
 "Coronal Maul",花冠重锤
 "Corroded Blade",锈斑巨剑
@@ -678,3 +678,357 @@ Widowhail,遗孀之雹
 "The Burden of Shadows",暗影的重负
 Nametaker,掳名之锋
 "Grace of the Goddess",女神的恩典
+"Crude Claw",粗制利爪
+"Pict Claw",绘彩利爪
+"Wolfbone Claw",狼骨利爪
+"Forked Claw",分叉利爪
+"Plated Claw",护板利爪
+"Edged Claw",锋刃利爪
+"Arced Claw",弧形利爪
+"Hooked Claw",钩齿利爪
+"Razorglass Claw",琉锋利爪
+"Armoured Claw",重装利爪
+"Piercing Claw",洞穿利爪
+"Talon Claw",猛禽利爪
+"Crone Knife",巫妪小刀
+"Simple Dagger",朴实匕首
+"Moon Dagger",月刃匕首
+"Engraved Knife",雕纹小刀
+"Obsidian Dagger",黑曜石匕首
+"Bloodletting Dagger",放血匕首
+"Mail Breaker",拆信刀
+"Kris Knife",波刃小刀
+"Parrying Dagger",格挡匕首
+"Arcane Dirk",秘术短匕
+Cinquedea,五指剑
+"Withered Wand",凋零法杖
+"Bone Wand",钙石法杖
+"Attuned Wand",调谐法杖
+"Siphoning Wand",虹吸法杖
+"Volatile Wand",易变法杖
+"Galvanic Wand",电流法杖
+"Acrid Wand",刻薄法杖
+"Offering Wand",供奉法杖
+"Frigid Wand",严寒法杖
+"Torture Wand",煎熬法杖
+"Critical Wand",批判法杖
+"Primordial Wand",始源法杖
+"Dueling Wand",决斗法杖
+Shortsword,短剑
+Broadsword,阔剑
+"Vampiric Blade",喋血之刃
+Scimitar,弯刀
+"Charred Shortsword",焦痕短剑
+"Sickle Sword",镰刃剑
+Falchion,弯刃大刀
+"Treasured Blade",珍奇之刃
+"Runic Shortsword",符文短剑
+Messer,大砍刀
+"Commander Sword",统帅利剑
+"Dark Blade",黑暗之锋
+"Dull Hatchet",钝锋手斧
+"Hook Axe",钩斧
+"Bearded Axe",钩刃斧
+"Extended Cleaver",长柄战斧
+"Bandit Hatchet",盗匪手斧
+"Crescent Axe",月牙斧
+"Carving Hatchet",刨肉手斧
+"Sacrificial Axe",奉献之斧
+"Boarding Hatchet",跳帮手斧
+"Fury Cleaver",暴怒战斧
+"Battle Axe",鏖战之斧
+"Profane Cleaver",亵渎战斧
+"Dread Hatchet",恐惧手斧
+"Wooden Club",木棒
+"Smithing Hammer",锻铸之锤
+"Slim Mace",细柄钉锤
+Warpick,战镐
+"Plated Mace",板锤
+"Brigand Mace",驱灵之锤
+"Construct Hammer",施工锤
+"Jade Club",翠玉战棒
+"Lumen Mace",流明之锤
+"Execratus Hammer",秽咒之锤
+"Torment Club",劫难战棒
+"Kalguuran Forgehammer",卡古兰锻造锤
+"Calescent Hammer",升温之锤
+"Flared Mace",耀焰之锤
+"Battle Pick",战镐
+"Marching Mace",行军之锤
+"Bandit Mace",强盗之锤
+"Structured Hammer",构造之锤
+"Crown Mace",冠首之锤
+"Molten Hammer",熔火之锤
+"Strife Pick",纷争之镐
+"Fortified Hammer",强固之锤
+"Marauding Mace",劫掠之锤
+"Akoyan Club",阿科扬战棒
+Shortbow,短弓
+"Warden Bow",监守弓
+"Dualstring Bow",双弦弓
+"Cultist Bow",教徒弓
+"Zealot Bow",狂热弓
+"Artillery Bow",轰击弓
+"Tribal Bow",部族弓
+Greatbow,巨弓
+"Double Limb Bow",双臂弓
+"Heavy Bow",重装强弓
+"Snakewood Shortbow",蛇纹短弓
+"Protector Bow",保护者之弓
+"Rider Bow",骑射之弓
+"Twin Bow",双生之弓
+"Adherent Bow",联排之弓
+"Militant Bow",军用战弓
+"Ironwood Shortbow",铁木短弓
+"Cavalry Bow",骑兵之弓
+"Guardian Bow",守护者之弓
+"Gemini Bow",双子之弓
+"Fanatic Bow",狂热之弓
+"Warmonger Bow",寻战之弓
+"Obliterator Bow",毁灭者之弓
+"Ashen Staff",枯灰长杖
+"Gelid Staff",冰寒长杖
+"Voltaic Staff",雷霆长杖
+"Spriggan Staff",鬼灵长杖
+"Pyrophyte Staff",耐火长杖
+"Chiming Staff",鸣谐长杖
+"Rending Staff",撕裂长杖
+"Reaping Staff",收割长杖
+"Icicle Staff",冰柱长杖
+"Roaring Staff",咆哮长杖
+"Paralysing Staff",麻痹长杖
+"Sanctified Staff",神圣长杖
+"Dark Staff",暗黑长杖
+"Ravenous Staff",饕餮法杖
+"Permafrost Staff",永霜法杖
+"Corroded Longsword",锈斑长剑
+"Iron Greatsword",钢铁巨剑
+"Blessed Claymore",蒙福大剑
+"Broad Greatsword",阔刃巨剑
+"Rippled Greatsword",波纹巨剑
+"Arced Longsword",弧刃长剑
+"Stone Greatsword",磐石巨剑
+"Obsidian Greatsword",黑曜巨剑
+"Keen Greatsword",寒芒巨剑
+"Ancient Greatblade",上古巨剑
+"Flanged Greatblade",焰刃巨剑
+"Regalia Longsword",君威长剑
+"Ultra Greatsword",超凡巨剑
+"Splitting Greataxe",裂刃大斧
+"Light Halberd",轻装戟斧
+"Executioner Greataxe",惩罚者大斧
+"Arched Greataxe",弧刃大斧
+"Elegant Glaive",典雅战刃
+"Savage Greataxe",狂放大斧
+"Rending Halberd",裂肉戟斧
+"Jagged Greataxe",锯齿大斧
+"Reaver Glaive",掠夺者战刃
+"Ember Greataxe",飞烬大斧
+"Ceremonial Halberd",祭仪长戟
+"Monument Greataxe",丰碑大斧
+"Vile Greataxe",厄难大斧
+"Felled Greatclub",伐采巨棍
+"Oak Greathammer",橡木大锤
+"Forge Maul",锻炉巨锤
+"Studded Greatclub",镶钉巨棍
+"Cultist Greathammer",教徒大锤
+"Temple Maul",神殿巨锤
+"Leaden Greathammer",灌铅大锤
+"Crumbling Maul",摧枯巨锤
+"Pointed Maul",钉头巨锤
+"Totemic Greatclub",图腾巨棍
+Greatmace,狼牙巨锤
+"Precise Greathammer",精准大锤
+"Giant Maul",伟岸巨锤
+"Snakewood Greathammer",蛇纹大锤
+"Blacksmith Maul",锻造巨锤
+"Zealot Greathammer",狂热大锤
+"Solemn Maul",肃穆巨锤
+"Heavy Greathammer",沉重大锤
+"Disintegrating Maul",破军巨锤
+"Anvil Maul",铁砧巨锤
+"Sacred Maul",神圣巨锤
+"Ironwood Greathammer",铁木大锤
+"Fanatic Greathammer",狂乱大锤
+"Ruination Maul",毁灭巨锤
+"Massive Greathammer",庞然大锤
+"Tawhoan Greatclub",塔赫亚巨棍
+"Rattling Sceptre",罪孽短杖
+"Stoic Sceptre",克己短杖
+"Lupine Sceptre",幽狼短杖
+"Omen Sceptre",预兆短杖
+"Shrine Sceptre",圣地短杖
+"Devouring Sceptre",吞噬短杖
+"Clasped Sceptre",握扣短杖
+"Devotional Sceptre",虔诚短杖
+"Wrath Sceptre",愤怒短杖
+"Aromatic Sceptre",芳香短杖
+"Pious Sceptre",虔信短杖
+"Hallowed Sceptre",崇圣短杖
+"Wrapped Quarterstaff",裹布节杖
+"Long Quarterstaff",长柄节杖
+"Gothic Quarterstaff",哥特节杖
+"Crackling Quarterstaff",霹雳节杖
+"Crescent Quarterstaff",月牙节杖
+"Steelpoint Quarterstaff",钢缘节杖
+"Slicing Quarterstaff",锋缘节杖
+"Barrier Quarterstaff",护身节杖
+"Hefty Quarterstaff",沉重节杖
+"Smooth Quarterstaff",优雅节杖
+"Anima Quarterstaff",心能节杖
+"Graceful Quarterstaff",风雅节杖
+"Wyrm Quarterstaff",腾龙节杖
+"Reaching Quarterstaff",延伸节杖
+"Barbarous Quarterstaff",蛮族节杖
+"Arcing Quarterstaff",弧影节杖
+"Waxing Quarterstaff",蜡饰节杖
+"Bladed Quarterstaff",锋刃节杖
+"Guardian Quarterstaff",守护者节杖
+"Sinister Quarterstaff",邪恶节杖
+"Lunar Quarterstaff",月光节杖
+"Striking Quarterstaff",打击节杖
+"Bolting Quarterstaff",霹雳节杖
+"Aegis Quarterstaff",神盾节杖
+"Razor Quarterstaff",刀锋节杖
+"Dreaming Quarterstaff",梦境节杖
+"Hardwood Spear",硬木长矛
+"Ironhead Spear",铁头长矛
+"Hunting Spear",狩猎长矛
+"Winged Spear",飞翼长矛
+"War Spear",历战长矛
+"Forked Spear",分叉长矛
+"Barbed Spear",倒刺长矛
+"Broad Spear",宽首长矛
+"Crossblade Spear",十字长矛
+"Seaglass Spear",海琉长矛
+"Sword Spear",剑刃长矛
+"Striking Spear",精标长矛
+"Helix Spear",螺旋长矛
+"Steelhead Spear",钢头战矛
+"Coursing Spear",追击战矛
+"Swift Spear",迅捷战矛
+"Branched Spear",分叉战矛
+"Jagged Spear",锯齿战矛
+"Massive Spear",重型战矛
+"Orichalcum Spear",奥利哈刚战矛
+"Pronged Spear",叉尖战矛
+"Stalking Spear",潜行战矛
+"Flying Spear",飞行战矛
+"Grand Spear",宏伟战矛
+"Spiked Spear",尖刺战矛
+"Akoyan Spear",阿科扬战矛
+"Makeshift Crossbow",拼凑战弩
+"Tense Crossbow",紧弦战弩
+"Sturdy Crossbow",坚固战弩
+"Varnished Crossbow",浸漆战弩
+"Dyad Crossbow",双联战弩
+"Alloy Crossbow",合金战弩
+"Bombard Crossbow",轰炸战弩
+"Construct Crossbow",构造战弩
+"Blackfire Crossbow",黯焰战弩
+"Piercing Crossbow",穿刺战弩
+"Cumbrous Crossbow",重装战弩
+"Dedalian Crossbow",机巧战弩
+"Esoteric Crossbow",玄奥战弩
+"Taut Crossbow",绷紧战弩
+"Robust Crossbow",坚固战弩
+"Painted Crossbow",彩绘战弩
+"Twin Crossbow",双生战弩
+"Cannonade Crossbow",轰鸣战弩
+"Bleak Crossbow",刺骨战弩
+"Stout Crossbow",粗壮战弩
+"Engraved Crossbow",雕饰战弩
+"Flexed Crossbow",弯曲战弩
+"Gemini Crossbow",双灵战弩
+"Siege Crossbow",摧城弩
+"Desolate Crossbow",苍凉战弩
+"Elegant Crossbow",典雅战弩
+"Splintered Flail",碎裂连枷
+"Chain Flail",精索连枷
+"Holy Flail",神祝连枷
+"Iron Flail",钢铁连枷
+"Twin Flail",双首连枷
+"Slender Flail",长鞭连枷
+"Stone Flail",巨石连枷
+"Ring Flail",环锁连枷
+"Guarded Flail",卫甲连枷
+"Icicle Flail",冰刺连枷
+"Tearing Flail",碎肉连枷
+"Great Flail",巨型连枷
+"Abyssal Flail",深渊连枷
+"Clay Trap",黏土陷阱
+"Clamping Trap",铁颚陷阱
+"Shrapnel Trap",破片陷阱
+"Urn Trap",古瓮陷阱
+"Incense Trap",熏香陷阱
+"Bladed Trap",利刃陷阱
+"Dart Trap",飞镖陷阱
+"Spike Trap",尖刺陷阱
+"Coiled Trap",盘曲陷阱
+"Lead Trap",铅链陷阱
+"Medallion Trap",纹章陷阱
+"Intricate Trap",巧妙陷阱
+"Refined Trap",精工陷阱
+"The Endless Night",无止长夜
+"Winter's Bite",寒冬噬咬
+"Wylund's Stake",怀伦德之桩
+Hoghunt,猎猪大棒
+"Dusk Vigil",暮色守望
+"Sanguine Diviner",赤红占卜师
+"Enezun's Charge",恩纳尊的职责
+"Falling Snow",飘零飞雪
+Ironbound,铁箍战弓
+Splinterheart,裂心之弦
+"Dealer's Hand",商人之手
+"Mist Whisper",迷雾低语者
+"Rampart Raptor",要塞的猛禽
+Olrovasara,欧罗瓦萨拉
+"Brynhand's Mark",布琳翰德印记
+"Pulpit Pulper",讲坛粉碎者
+Trenchtimbre,战壕砥柱
+"Sculpted Suffering",雕琢的苦难
+"Seeing Stars",迷星之锤
+Goldshaper,塑金者
+Bluetongue,幽蓝毒舌
+"The Sentry",哨望
+Matsya,摩蹉
+"Nazir's Judgement",纳吉尔的审判
+"Rhea's Rhythm",利亚的旋律
+"Font of Power",力量的源泉
+Heartseeker,寻心者
+Earthbound,地缚杖
+Grimgrasp,恐惧之握
+Trephina,穿洞奇械
+"The Empty Roar",空荡怒吼
+Shyaba,席亚巴
+"The Wicked Quill",邪恶之翎
+"Rod of Enervation",衰弱魔棒
+"The Dark Defiler",黑暗渎神
+"Collapsing Horizon",崩塌视界
+"Sacred Flame",神圣之火
+"Guiding Palm of the Heart",心脏之指引之掌
+Skysliver,苍穹裂片
+INCOMPLETE,未完成
+"Splinter of Lorrata",罗瑞塔的破片
+"Daevata's Wind",戴瓦塔的幻风
+"Tyranny's Grip",暴政之握
+Chainsting,缚链之针
+"The Hammer of Faith",信仰之锤
+"Demigod's Judgement",升华之审判
+"Saitha's Spear",赛萨之矛
+"The Grand Design",宏伟设计
+Windpiercer,破风之弦
+"Double Vision",双生视界
+"Rhoa Reaver",恐喙鸟收割者
+"Strike of Inspiration",灵光乍现
+"Spire of Ire",怨怒塔矛
+Tangletongue,纠缠之舌
+"Courtly Discord",宫廷乱事
+Cursecarver,刻咒
+"The Last Lament",末后哀歌
+"Guiding Palm of the Eye",眼目之指引之掌
+"Guiding Palm of the Mind",意念之指引之掌
+"Adonia's Ego",阿多尼娅的自我
+"Palm of the Dreamer",幻梦者之掌
+"Fairgraves' Curse",命运之手
+"The Unborn Lich",未生巫妖

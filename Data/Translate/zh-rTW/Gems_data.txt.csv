@@ -32,7 +32,7 @@ Barrage,彈幕
 "Barrel Explosion",火力爆裂
 "Battlemage's Cry",戰法戰吼
 "Bear Trap",捕熊陷阱
-Berserk,狂戰士
+Berserk,狂戰
 "Blade Blast",劍刃爆破
 "Blade Flurry",刀鋒亂舞
 "Blade Trap",刀鋒陷阱
@@ -263,7 +263,7 @@ Ignite,點燃
 "Illusory Warp",幻影傳送
 "Immortal Call",不朽怒嚎
 "Inca Boss Freezing Pulse",印加頭目急凍波
-Incinerate,燃火燒盡
+Incinerate,燒毀
 "Increased Damage Taken Aura",增加受到傷害光環
 "Infernal Blow",煉獄之擊
 "Infernal Cry",煉獄戰吼
@@ -280,7 +280,7 @@ Lacerate,破空斬
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
 "Lightning Bolt",雷彈
-"Lightning Clone Retaliation",閃電複製體反擊
+"Lightning Clone Retaliation",閃電複製體復仇
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
 "Lightning Strike",閃電打擊
@@ -360,8 +360,8 @@ Riptide,激流
 "Shield Shatter",盾牌碎裂
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
-Shockwave,衝擊波
-"Shockwave Totem",圖騰：震波
+Shockwave,震波
+"Shockwave Totem",震波圖騰
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
 "Sigil of Power",咒符之力
@@ -380,7 +380,7 @@ Spark,電球
 "Spectral Spinning Weapon",靈製武器
 "Spectral Spirits",幽魂之靈
 "Spectral Throw",靈體投擲
-Spellslinger,法術回音
+Spellslinger,拋法者
 "Spirit Burst",靈體爆破
 "Spirit Offering",靈魂奉獻
 "Split Arrow",分裂箭矢
@@ -397,7 +397,7 @@ Steelskin,鋼筋鐵骨
 "Storm of Judgement",審判風暴
 "Storm Rain",暴風雷雨
 Stormbind,風暴術符
-"Stormblast Mine",風爆地雷
+"Stormblast Mine",風暴地雷
 "Summon Arbalists",召喚弩兵
 "Summon Bestial Rhoa",召喚兇猛恐喙鳥
 "Summon Bestial Snake",召喚兇猛蟒蛇
@@ -451,7 +451,7 @@ Tornado,龍捲風
 "Touch Of God",天譴之拳
 "Toxic Rain",腐蝕毒雨
 Twister,旋風
-Unearth,破墳術
+Unearth,屍術矢
 Unhinge,錯亂
 Unnamed2,未命名
 "Unseen Strike",隱匿突擊
@@ -518,10 +518,10 @@ Vitality,活力
 "Volatile Dead",致命之息
 "Volcanic Fissure",炎火脈動
 "Voltaxic Burst",魔痕爆發
-Vortex,旋渦
+Vortex,漩渦
 Vulnerability,脆弱
 "Wand Teleport",傳送法杖
-"War Banner",征戰之旗
+"War Banner",戰爭之旗
 "Warlord's Mark",督軍印記
 "Wave of Conviction",信念浪湧
 "Whirling Blades",迴旋之刃
@@ -822,7 +822,7 @@ Attrition,損耗
 "Basic Attack",基礎攻擊
 "Basic Bolt",基礎弩箭
 "Bind Spectre",束縛幽魂
-Blasphemy,詛咒光環
+Blasphemy,瀆神
 "Blazing Lance",熾烈之槍
 "Bleeding Concoction",流血混合物
 Blink,閃現
@@ -844,7 +844,7 @@ BurningNova,燃燒新星
 "Cast on Melee Kill",近戰擊殺時施放
 "Cast on Melee Stun",近戰擊暈時施放
 "Cast on Minion Death",召喚物死亡時施放
-"Cast on Shock",電擊時施放
+"Cast on Shock",感電時施放
 "Cast when Damage Taken",受傷時施放
 "Cast when Stunned",暈眩時施放
 "Cast while Channelling",引導時施放
@@ -876,7 +876,7 @@ Decompose,分解
 "Ember Fusillade",餘燼齊射
 "Emergency Reload",緊急裝填
 "Encase in Jade",包覆於翠玉中
-Enrage,激怒
+Enrage,暴怒
 "Escape Shot",逃脫之矢
 "Explosive Demise",爆炸之亡
 "Explosive Grenade",爆炸擲彈
@@ -895,7 +895,7 @@ Firebolt,火彈
 "Freezing Salvo",凍結齊射
 "Freezing Shards",冰凍裂片
 "Freezing Word",冰凍之語
-"Frozen Locus",寒冰蝗蟲
+"Frozen Locus",寒冰軌跡
 "Fulminating Concoction",烈性混合物
 "Furious Slam",狂暴重擊
 "Gale Force",颶風之力
@@ -914,11 +914,11 @@ Generosity,和善
 "Herald of Plague",瘟疫之捷
 "High Velocity Rounds",高速彈藥
 "Hydra Familiar",九頭蛇近親
-Hypothermia,凍傷
+Hypothermia,急凍
 "Ice Bomb",寒冰炸彈
 "Ice Shard",寒冰碎片
 "Ice Shards",寒冰碎片
-"Ice Strike",冰之打擊
+"Ice Strike",冰擊
 Impale,穿刺
 "Incendiary Shot",烈焰射擊
 "Incendiary Siege Cascade",烈焰圍城爆發
@@ -956,7 +956,7 @@ Malice,絕滅恨惡
 "Mana Tempest",魔力暴風
 "Manifest Dancing Dervish",幻化狂舞德爾維希
 "Mantra of Destruction",毀滅神咒
-Maul,重錘
+Maul,爪擊
 Meditate,冥想
 "Molten Blast",熔火爆破
 "Oil Grenade",燃油擲彈
@@ -1050,10 +1050,9 @@ Volcano,火山
 "Wind Blast",破風爆裂
 "Wind Blast (Quarterstaff)",破風爆裂（細杖）
 "Wind Blast (Unarmed)",破風爆裂（空手）
-"Wind Dancer",疾風之舞
+"Wind Dancer",風魔舞者
 "Wind Wave",疾風之波
 "Withering Presence",凋零光環
-"Perfect Strike",完美打擊
 Disengage,脫離戰鬥
 Brink,邊緣
 "Abiding Hex",永久咒術
@@ -1063,7 +1062,7 @@ Acrimony,毒辣
 Adhere,堅守
 Aftershock,餘震
 Alignment,聯合
-Ambrosia,艾布蘿西雅 
+Ambrosia,艾布蘿西雅
 "Ammo Conservation",彈藥保存
 "Ancestral Aid",先祖援助
 "Ancestral Call",先祖怒嚎輔助
@@ -1361,7 +1360,7 @@ Syzygy,朔望
 Tear,撕裂
 "Temper Weapon",鍛鍊武器
 Thornskin,荊棘之皮
-"Thundergod's Wrath",擊中時閃電法術
+"Thundergod's Wrath",雷神之怒
 "Thunderous Leap",雷霆跳躍
 Tireless,孜孜不倦
 "Trail of Caltrops",蒺藜之徑
@@ -1390,3 +1389,72 @@ Wildshards,野性碎片
 "Window of Opportunity",機會之窗
 "Withering Touch",凋零之觸
 Zenith,極盛之尊
+"Abyssal Apparition",深淵幻象
+"Acidic Concoction",酸性靈藥
+"Black Powder Blitz",火藥疾行
+"Bloodhound's Mark Explosion",鮮血獵犬印記爆炸
+"Bone Shrapnel Explosion",骨片爆炸
+Brambles,荊棘
+"Bursting Fen Toad",爆發沼地蟾蜍
+"Called Shots",預告射擊
+"Cast on Elemental Ailment",元素異常狀態時施放
+"Chaotic Surge",混沌波動
+"Compose Requiem",安魂之奏
+"Crackling Palm",閃光掌
+Crater,隕石坑
+"Cull the Weak",撲殺弱者
+"Curse on Block",格擋時詛咒
+"Death From Above",死從天降
+"Doedre's Dark Design",德瑞的黑暗謀略
+"Elemental Surge",元素波動
+"Enervating Nova",超能新星
+"Fire Spell on Melee Hit",近戰擊中時火焰法術
+"Flame Pillar",火炎之柱
+"Forge Hammer",鍛造之錘
+"Fortifying Cry",堅韌之吼
+"Frost Darts",寒霜之鏢
+Fulmination,劇烈爆發
+Future-Past,未來昔日
+"Gemini Surge",雙靈波動
+"Grim Resurrection",冷酷復活
+"Grisly Pyre",恐怖燃焰
+"Heart of Ice",冰雪之心
+"His Dark Horizon",他的黑暗視界
+"His Foul Emergence",他的惡臭降臨
+"His Grave Command",他的緊急命令
+"His Scattering Calamity",他的散布災禍
+"His Vile Intrusion",他的惡毒入侵
+"His Winnowing Flame",他的飛舞烈焰
+"Ice Armour",寒冰護甲
+"Ice Fragments",寒冰碎片
+"Ice-Tipped Arrows",冰鏃箭矢
+Impurity,不淨
+"Inevitable Agony",命定苦痛
+"Iron Ward",鋼鐵守護
+"Lightless Stalker",黯光懼靈
+"Living Bolt",復甦弩箭
+"Living Lightning",活躍閃電
+"Mark as prey",標記為獵物
+"Mirage Archer",幻影射手
+"Mortar Cannon",迫擊砲
+Parry,招架
+"Phantasmal Arrow",幻影箭矢
+"Pinnacle of Power",力量巔峰
+Projectile,投射物
+"Ravenous Swarm",貪婪蟲群
+Requiem,安魂曲
+"Runic Tempering",符文冶鍊
+"Scorching Cleave",灼燒劈砍
+"Set Shark Bait",設為鯊魚餌
+"Shattering Roar",粉碎咆哮
+"Shield Wave",盾之波動
+"Siphon Elements",虹吸元素
+"Skittering Stone",飛掠之石
+Snap,迸裂
+"Tawhoa's Vengeance",塔赫亞的復仇
+"Toggle Mount Minion",切換騎乘召喚物
+"Toxic Domain",毒素領域
+"Triggered Caustic Cloud",觸發腐蝕之雲
+"Valako's Charge",瓦拉庫的衝鋒
+"Void Illusion",虛空幻影
+"Volcanic Steps",火山之步

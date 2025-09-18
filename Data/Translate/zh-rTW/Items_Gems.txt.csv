@@ -166,7 +166,7 @@ Convocation,號召
 "Pyroclast Mine",炎爆新星地雷
 "Tornado Shot",龍捲射擊
 "Vaal Lightning Trap",瓦爾．閃電陷阱
-"Herald of Blood",赤血之捷
+"Herald of Blood",鮮血之捷
 "Herald of Ash",灰燼之捷
 "Herald of Ice",冰霜之捷
 "Herald of Thunder",閃電之捷
@@ -247,7 +247,7 @@ Smite,雷鳴重擊
 "Rending Steel",鋼之裂化
 "Lancing Steel",鋼之突刺
 "Storm Brand",風暴烙印
-"War Banner",征戰之旗
+"War Banner",戰爭之旗
 "Dread Banner",恐懼之旗
 "Shattering Steel",鋼之碎擊
 "Armageddon Brand",末日烙印
@@ -264,7 +264,7 @@ Steelskin,鋼筋鐵骨
 Dash,幻步
 Bladestorm,旋天劍舞
 "Blood and Sand",血腥沙戮
-Berserk,狂戰士
+Berserk,狂戰
 Perforate,裂地刺穿
 "Chain Hook",奪魂勾索
 Frostblink,霜漣之瞬
@@ -282,7 +282,7 @@ Pride,驕傲
 "Shrapnel Ballista",彈片砲塔
 "Ensnaring Arrow",誘捕箭矢
 "Artillery Ballista",火砲砲塔
-Spellslinger,法術回音
+Spellslinger,拋法者
 "Arcane Cloak",秘能披風
 "Kinetic Bolt",力量穿引
 "Blade Blast",劍刃爆破
@@ -365,9 +365,9 @@ Tornado,龍捲風
 Inspiration,啟發
 "Increased Critical Strikes",增加暴擊率輔助
 "Increased Critical Damage",增加暴擊傷害輔助
-Knockback,擊退輔助
+Knockback,擊退
 "Life Leech",生命偷取輔助
-"Mana Leech",魔力偷取輔助
+"Mana Leech",魔力偷取
 "Added Chaos Damage",附加混沌傷害輔助
 Stun,擊暈輔助
 Pierce,穿透
@@ -457,15 +457,15 @@ Maim,癱瘓
 Immolate,犧牲
 "Unbound Ailments",無邊異能輔助
 Brutality,野性殘暴
-Ruthless,無情
+Ruthless,殘暴
 Onslaught,猛攻輔助
 "Arcane Surge",秘能波動
 "Infused Channelling",注入引導輔助
 Volley,齊射輔助
-"Spell Cascade",秘能爆發
+"Spell Cascade",法術湧流
 "Ancestral Call",先祖怒嚎輔助
 "Summon Phantasm",召喚幻影輔助
-"Mirage Archer",幻影射手輔助
+"Mirage Archer",幻影射手
 "Charged Traps",陷阱充能輔助
 "Charged Mines",地雷充能輔助
 "Withering Touch",凋零之觸
@@ -532,7 +532,7 @@ Swiftbrand,迅速烙印輔助
 "Urgent Orders",緊急詔令輔助
 "Impending Doom",末日厄運
 Pinpoint,精確輔助
-Trinity,三體輔助
+Trinity,三相
 Bloodthirst,渴血輔助
 Cruelty,殘酷輔助
 Lifetap,活栓
@@ -575,7 +575,7 @@ Sacrifice,獻祭
 "Locus Mine",定位地雷輔助
 Sadism,虐待輔助
 "Controlled Blaze",精準烈火輔助
-Volatility,易變輔助
+Volatility,易變
 Automation,自動化
 "Call to Arms",武裝召喚
 "Sacred Wisps",聖潔妖精輔助
@@ -613,7 +613,7 @@ Spearfield,長鋒之錐
 "Wind Blast",破風爆裂
 "Wave of Frost",寒冰波
 "Ice Strike",冰擊
-Maul,重錘
+Maul,爪擊
 "Chaos Bolt",混沌弩箭
 Firebolt,火彈
 Comet,彗星
@@ -634,14 +634,14 @@ Rampage,暴怒
 "Ghost Dance",鬼魂之舞
 "Bind Spectre",束縛幽魂
 Shroud,幽影
-"Pain Offering",劇痛奉獻
+"Pain Offering",劇痛獻祭
 "Tempest Flurry",暴風亂舞
 "Staggering Palm",撼敵之掌
 "Charged Staff",充能長杖
 "Siphoning Strike",虹吸打擊
 "Tempest Bell",風暴之鐘
 "Frozen Locus",寒冰軌跡
-Bonestorm,骨之風暴
+Bonestorm,骸骨風暴
 "Bone Cage",骨牢
 "Detonating Arrow",爆破箭矢
 "Poisonburst Arrow",毒爆箭矢
@@ -663,8 +663,8 @@ Decompose,分解
 "Raging Spirits",怒炎之靈
 "Detonate Minion",引爆召喚物
 "Storm Surge",風暴洶湧
-"Wind Dancer",疾風之舞
-"Profane Ritual",粗陋祭祀
+"Wind Dancer",風魔舞者
+"Profane Ritual",瀆神祭祀
 "Soul Offering",靈魂獻祭
 "Dark Effigy",黑暗雕像
 "Grim Feast",冷酷之宴
@@ -676,7 +676,7 @@ Blink,閃現
 "Molten Blast",熔火爆破
 Malice,絕滅恨惡
 "Hammer of the Gods",眾神之錘
-"Living Bomb",鮮活炸彈
+"Living Bomb",活體炸彈
 Stampede,踐踏
 "Shield Wall",盾牆
 "Shielding Cry",防護戰吼
@@ -686,7 +686,7 @@ Stampede,踐踏
 "Siege Cascade",圍城爆發
 "Armour Piercing Rounds",穿甲彈藥
 "Explosive Shot",爆炸矢
-"Incendiary Shot",烈焰矢
+"Incendiary Shot",烈焰射擊
 "Rapid Shot",疾射
 "Glacial Bolt",冰川弩箭
 "Permafrost Bolts",永凍弩箭
@@ -811,7 +811,7 @@ Lockdown,封鎖
 "Lasting Shock",持續感電
 "Lightning Infusion",閃電灌注
 "Life Drain",生命吸取
-"Soul Drain",靈魂吸取
+"Soul Drain",魂魄吸取
 "Martial Tempo",武術節奏
 Bullseye,正中紅心
 Profusion,滿盈
@@ -829,7 +829,7 @@ Discombobulate,迷惑
 Ingenuity,獨創
 Glaciation,急凍化
 "Energy Barrier",能量屏障
-"Frost Nexus",冰霜核心
+"Frost Nexus",冰霜匯聚
 "Coursing Current",奔竄電流
 "Magnified Effect",增幅效果
 "Biting Frost",刺骨冰霜
@@ -927,3 +927,483 @@ Impetus,動力
 "Elemental Invocation",元素祈願
 "Reaper's Invocation",收割者的祈願
 "Cast on Block",格擋時施放
+"Enervating Nova",超能新星
+"His Vile Intrusion",他的惡毒入侵
+Impurity,不淨
+Disengage,脫離戰鬥
+"Blood Hunt",鮮血狩獵
+"Lightning Spear",閃電長鋒
+"Glacial Lance",冰川之槍
+"His Dark Horizon",他的黑暗視界
+"Phantasmal Arrow",幻影箭矢
+Snap,迸裂
+"Rhoa Mount",恐喙鳥坐騎
+Twister,旋風
+"Explosive Spear",爆炸長鋒
+"Elemental Siphon",元素虹吸
+"Thunderous Leap",雷霆跳躍
+"Black Powder Blitz",火藥疾行
+"Fortifying Cry",堅韌之吼
+"His Scattering Calamity",他的散布災禍
+"Spear Throw",長鋒投擲
+"Acidic Concoction",酸性靈藥
+"Ritual Sacrifice",儀式獻祭
+"Blood Boil",鮮血沸騰
+"Inevitable Agony",命定苦痛
+"Charge Regulation",充能調節
+"Ravenous Swarm",貪婪蟲群
+"Whirlwind Lance",旋風之槍
+"Primal Strikes",原始打擊
+"Cull The Weak",撲殺弱者
+"Fangs of Frost",刺骨寒冰
+"Wind Serpent's Fury",勁風蝮蛇之怒
+Rake,陰爪
+"Bloodhound's Mark",鮮血獵犬印記
+"Tame Beast",馴獸
+"Spear of Solaris",日耀長鋒
+"Storm Lance",風暴之槍
+Parry,招架
+"Elemental Sundering",元素崩裂
+"Companion: {0}",盟友：{0}
+"Trail of Caltrops",蒺藜之徑
+"Elemental Surge",元素波動
+"Chaotic Surge",混沌波動
+"Manifest Weapon",幻化武器
+"Supporting Fire",支援火力
+"Temper Weapon",鍛鍊武器
+"Void Illusion",虛空幻影
+Convalescence,恢復期
+"Removed Skill",已移除技能
+"Gemini Surge",雙靈波動
+"Bursting Fen Toad",爆發沼地蟾蜍
+"Iron Ward",鋼鐵守護
+"Ice Fragments",寒冰碎片
+Icestorm,冰風暴
+"Pinnacle of Power",力量巔峰
+Requiem,安魂曲
+"Heart of Ice",冰雪之心
+"Forge Hammer",鍛造之錘
+Fulmination,劇烈爆發
+"Feast of Flesh",血肉盛宴
+"Toxic Domain",毒素領域
+"Ice-Tipped Arrows",冰鏃箭矢
+"Valako's Charge",瓦拉庫的衝鋒
+"Crackling Palm",閃光掌
+Future-Past,未來昔日
+"Runic Tempering",符文冶鍊
+"His Winnowing Flame",他的飛舞烈焰
+"His Foul Emergence",他的惡臭降臨
+"Siphon Elements",虹吸元素
+"Frost Darts",寒霜之鏢
+"His Grave Command",他的緊急命令
+"Soul Crystal: {0}",靈魂水晶：{0}
+"Abyssal Apparition",深淵幻象
+"Close Combat I","近身戰 I"
+"Close Combat II","近身戰 II"
+"Ignite I","點燃 I"
+"Ignite II","點燃 II"
+"Ignite III","點燃 III"
+"Bleed I","流血 I"
+"Bleed II","流血 II"
+"Bleed III","流血 III"
+"Bleed IV","流血 IV"
+"Stun I","暈眩 I"
+"Stun II","暈眩 II"
+"Stun III","暈眩 III"
+"Prolonged Duration I","延長持續時間 I"
+"Prolonged Duration II","延長持續時間 II"
+"Prolonged Duration III","延長持續時間 III"
+"Compressed Duration I","縮短持續時間 I"
+"Compressed Duration II","縮短持續時間 II"
+"Rage I","盛怒 I"
+"Rage II","盛怒 II"
+"Rage III","盛怒 III"
+"Atalui's Bloodletting",阿特路伊的出血
+"Execute I","處刑 I"
+"Execute II","處刑 II"
+"Execute III","處刑 III"
+"Searing Flame I","燒灼烈焰 I"
+"Searing Flame II","燒灼烈焰 II"
+"Behead I","斬首 I"
+"Behead II","斬首 II"
+"Einhar's Beastrite",埃哈的野獸儀式
+"Jagged Ground I","碎裂地面 I"
+"Jagged Ground II","碎裂地面 II"
+"Fire Penetration I","火焰穿透 I"
+"Fire Penetration II","火焰穿透 II"
+"Enraged Warcry I","激怒戰吼 I"
+"Enraged Warcry II","激怒戰吼 II"
+"Fist of War I","拳霸 I"
+"Fist of War II","拳霸 II"
+"Fist of War III","拳霸 III"
+"Life Leech I","生命偷取 I"
+"Life Leech II","生命偷取 II"
+"Life Leech III","生命偷取 III"
+"Brutality I","野性殘暴 I"
+"Brutality II","野性殘暴 II"
+"Brutality III","野性殘暴 III"
+"Meat Shield I","肉盾 I"
+"Meat Shield II","肉盾 II"
+"Brutus' Brain",布魯特斯的腦
+"Eternal Flame I","永恆烈焰 I"
+"Eternal Flame II","永恆烈焰 II"
+"Eternal Flame III","永恆烈焰 III"
+"Infernal Legion I","煉獄軍團 I"
+"Infernal Legion II","煉獄軍團 II"
+"Infernal Legion III","煉獄軍團 III"
+"Fire Attunement",火焰同調
+"Efficiency I","效率 I"
+"Efficiency II","效率 II"
+"Armour Demolisher I","護甲破壞者 I"
+"Armour Demolisher II","護甲破壞者 II"
+"Uruk's Smelting",厄羅克的鍛鍊
+"Rageforged I","盛怒鍛造 I"
+"Rageforged II","盛怒鍛造 II"
+"Corrupting Cry I","汙染戰吼 I"
+"Corrupting Cry II","汙染戰吼 II"
+"Paquate's Pact",帕科特的協議
+"Deep Cuts I","深度切割 I"
+"Deep Cuts II","深度切割 II"
+"Armour Break I","護甲破壞 I"
+"Armour Break II","護甲破壞 II"
+"Armour Break III","護甲破壞 III"
+"Elemental Armament I","元素武裝 I"
+"Elemental Armament II","元素武裝 II"
+"Elemental Armament III","元素武裝 III"
+"Vitality I","活力 I"
+"Vitality II","活力 II"
+"Herbalism I","藥草學 I"
+"Herbalism II","藥草學 II"
+"Cannibalism I","食人 I"
+"Cannibalism II","食人 II"
+"Aftershock I","餘震 I"
+"Aftershock II","餘震 II"
+"Aftershock III","餘震 III"
+Shock,感電
+"Pierce I","穿透 I"
+"Pierce II","穿透 II"
+"Pierce III","穿透 III"
+"Multishot I","多重射擊 I"
+"Multishot II","多重射擊 II"
+"Nova Projectiles",新星投射物
+"Poison I","中毒 I"
+"Poison II","中毒 II"
+"Poison III","中毒 III"
+"Blind I","致盲 I"
+"Blind II","致盲 II"
+"Projectile Acceleration I","投射物加速 I"
+"Projectile Acceleration II","投射物加速 II"
+"Projectile Acceleration III","投射物加速 III"
+"Projectile Deceleration I","投射物減速 I"
+"Projectile Deceleration II","投射物減速 II"
+"Vilenta's Propulsion",范尼達的奮進
+"Overabundance I","過剩 I"
+"Overabundance II","過剩 II"
+"Overabundance III","過剩 III"
+"Pin I","釘身 I"
+"Pin II","釘身 II"
+"Pin III","釘身 III"
+"Chain I","連鎖 I"
+"Chain II","連鎖 II"
+"Chain III","連鎖 III"
+"Second Wind I","恢復 I"
+"Second Wind II","恢復 II"
+"Second Wind III","恢復 III"
+"Bounty I","寶物 I"
+"Bounty II","寶物 II"
+"Lightning Attunement",閃電同調
+"Rapid Attacks I","疾速攻擊 I"
+"Rapid Attacks II","疾速攻擊 II"
+"Rapid Attacks III","疾速攻擊 III"
+"Heightened Accuracy I","強化命中 I"
+"Heightened Accuracy II","強化命中 II"
+"Charge Profusion I","充能滿盈 I"
+"Charge Profusion II","充能滿盈 II"
+"Escalating Poison",遞增之毒
+"Crescendo I","逐漸增強 I"
+"Crescendo II","逐漸增強 II"
+"Crescendo III","逐漸增強 III"
+"Deadly Poison I","致命毒藥 I"
+"Deadly Poison II","致命毒藥 II"
+"Window of Opportunity I","機會之窗 I"
+"Window of Opportunity II","機會之窗 II"
+"Swift Affliction I","極速苦痛 I"
+"Swift Affliction II","極速苦痛 II"
+"Swift Affliction III","極速苦痛 III"
+"Combo Finisher I","連擊終結輔助 I"
+"Combo Finisher II","連擊終結輔助 II"
+"Ailith's Chimes",艾里絲的管鐘
+"Slow Potency",緩速強度
+"Longshot I","遠程射擊 I"
+"Longshot II","遠程射擊 II"
+"Culling Strike I","撲殺 I"
+"Culling Strike II","撲殺 II"
+Daze,目眩
+"Cooldown Recovery I","冷卻時間恢復 I"
+"Cooldown Recovery II","冷卻時間恢復 II"
+"Precision I","精準 I"
+"Precision II","精準 II"
+Freeze,冰凍
+"Shock Conduction",感電傳導
+"Magnified Area I","增幅光環 I"
+"Magnified Area II","增幅光環 II"
+"Concentrated Area",集中光環
+"Fortress I","堡壘 I"
+"Fortress II","堡壘 II"
+"Ahn's Citadel",安的城塞
+"Feeding Frenzy I","豢養狂熱 I"
+"Feeding Frenzy II","豢養狂熱 II"
+"Cold Attunement",冰冷同調
+"Rapid Casting I","疾速施法 I"
+"Rapid Casting II","疾速施法 II"
+"Rapid Casting III","疾速施法 III"
+"Minion Pact I","召喚物契約 I"
+"Minion Pact II","召喚物契約 II"
+"Tecrod's Revenge",特克羅德的復仇
+"Chaos Attunement",混沌同調
+"Doedre's Undoing",德瑞的毀滅
+"Clarity I","清晰 I"
+"Clarity II","清晰 II"
+"Double Barrel I","雙管 I"
+"Double Barrel II","雙管 II"
+"Double Barrel III","雙管 III"
+"Ratha's Assault",菈妲的強襲
+"Ammo Conservation I","彈藥保存 I"
+"Ammo Conservation II","彈藥保存 II"
+"Ammo Conservation III","彈藥保存 III"
+"Arjun's Medal",亞瓊的獎章
+"Fresh Clip I","全新彈夾 I"
+"Fresh Clip II","全新彈夾 II"
+"Sacrificial Lamb I","獻祭羔羊 I"
+"Sacrificial Lamb II","獻祭羔羊 II"
+"Branching Fissures I","分岔裂縫 I"
+"Branching Fissures II","分岔裂縫 II"
+"Upheaval I","動亂 I"
+"Upheaval II","動亂 II"
+"Kaom's Madness",岡姆的癲狂
+"Lasting Ground",持續性地面
+"Ricochet I","彈射 I"
+"Ricochet II","彈射 II"
+"Ricochet III","彈射 III"
+"Urgent Totems I","應急圖騰 I"
+"Urgent Totems II","應急圖騰 II"
+"Urgent Totems III","應急圖騰 III"
+"Long Fuse I","長引線 I"
+"Long Fuse II","長引線 II"
+"Potent Exposure",強力曝曬
+"Reinforced Totems I","強化圖騰 I"
+"Reinforced Totems II","強化圖騰 II"
+"Wildshards I","野性碎片 I"
+"Wildshards II","野性碎片 II"
+"Sione's Temper",西奧妮的鍛鍊
+"Culmination I","頂點 I"
+"Culmination II","頂點 II"
+"Sacrificial Offering",犧牲奉獻
+"Energy Capacitor",儲能
+"Boundless Energy I","無盡能量 I"
+"Boundless Energy II","無盡能量 II"
+"Harmonic Remnants I","和諧的痕跡 I"
+"Harmonic Remnants II","和諧的痕跡 II"
+Fluke,僥倖
+"Ixchel's Torment",薩雷許的折磨
+"Zenith I","極盛 I"
+"Zenith II","極盛 II"
+"Bidding I","出價 I"
+"Bidding II","出價 II"
+"Bidding III","出價 III"
+Flow,流動
+"Adhesive Grenades I","黏性擲彈 I"
+"Adhesive Grenades II","黏性擲彈 II"
+"Adhesive Grenades III","黏性擲彈 III"
+Commandment,誡命
+"Retaliate I","報復 I"
+"Retaliate II","報復 II"
+Tremors,威震
+Salvo,齊射
+Cadence,終止
+Volt,電壓
+"Bone Shrapnel",骨片
+"Alignment I","聯合 I"
+"Alignment II","聯合 II"
+"Alignment III","聯合 III"
+Derange,精神錯亂
+"Charged Shots I","充能射擊 I"
+"Charged Shots II","充能射擊 II"
+"Profanity I","褻瀆 I"
+"Profanity II","褻瀆 II"
+"Burgeon I","萌發 I"
+"Burgeon II","萌發 II"
+"Steadfast I","穩若泰山 I"
+"Steadfast II","穩若泰山 II"
+Flamepierce,烈焰穿透
+Freezefork,冰凍之叉
+Stormchain,風暴之鏈
+Verglas,冰淞
+Embitter,激怒
+Battershout,猛擊吶喊
+Nadir,消沉
+"Abiding Hex",永久咒術
+"Rusted Spikes",銹蝕尖刺
+"Crazed Minions",發狂召喚物
+"Spectral Volley",靈體齊射
+Rally,集結
+Hoarfrost,白霜
+Deathmarch,死亡行進
+Acrimony,毒辣
+"Concoct I","調製 I"
+"Concoct II","調製 II"
+Ambrosia,"艾布蘿西雅 "
+"Persistent Ground I","持續地面 I"
+"Persistent Ground II","持續地面 II"
+"Persistent Ground III","持續地面 III"
+"Selfless Remnants",無私痕跡
+"Remnant Potency I","痕跡強度 I"
+"Remnant Potency II","痕跡強度 II"
+"Remnant Potency III","痕跡強度 III"
+Reverberate,回響
+Clash,交鋒
+Malady,疾病
+Dazzle,目眩
+Syzygy,朔望
+Unyielding,屹立不搖
+Desperation,絕望
+Overextend,過分擴張
+Excoriate,痛斥
+Unbending,永不屈服
+"Retreat I","撤退 I"
+"Retreat II","撤退 II"
+"Retreat III","撤退 III"
+"Pursuit I","追擊 I"
+"Pursuit II","追擊 II"
+"Pursuit III","追擊 III"
+Overreach,無遠弗屆
+Commiserate,憐憫
+Blindside,偷襲
+"Hit and Run",打帶跑
+"Defy I","違抗 I"
+"Defy II","違抗 II"
+"Crackling Barrier",電流屏障
+Muster,召集
+"Hulking Minions",巨大召喚物
+Caltrops,蒺藜
+Haemocrystals,血晶
+Spar,打擊練習
+Dauntless,無畏
+"Magnetic Remnants",磁性痕跡
+"Ancestral Call I","先祖怒嚎 I"
+"Ancestral Call II","先祖怒嚎 II"
+"Ancestral Call III","先祖怒嚎 III"
+"Quill Burst",驟羽爆發
+"Unsteady Tempo",不穩節奏
+"Ancestral Aid",先祖援助
+"Shocking Leap",震擊之躍
+"Barbs I","倒刺 I"
+"Barbs II","倒刺 II"
+"Barbs III","倒刺 III"
+Rime,霧淞
+"Arms Length",伸手可及
+"Charm Bounty",護符恩惠
+"Thornskin I","荊棘之皮 I"
+"Thornskin II","荊棘之皮 II"
+"Mysticism I","秘術 I"
+"Mysticism II","秘術 II"
+"Direstrike I","極惡打擊 I"
+"Direstrike II","極惡打擊 II"
+"Upwelling I","湧升流 I"
+"Upwelling II","湧升流 I"
+"Warm Blooded",滿腔熱血
+"Cool Headed",冷靜
+"Strong Hearted",不屈之心
+"Refraction I","折射 I"
+"Refraction II","折射 II"
+"Refraction III","折射 III"
+"Greatwood I","大森林 I"
+"Greatwood II","大森林 II"
+Untouchable,無法觸碰
+Unabating,勢頭不減
+"Punch Through",透勁拳
+Rip,撕毀
+Tear,撕裂
+"Brink I","邊緣 I"
+"Brink II","邊緣 II"
+Tireless,孜孜不倦
+"Volcanic Eruption",火山迸發
+"First Blood",浴血鬥士
+"Frenzied Riposte",狂亂反擊
+Hobble,跛行
+"Heightened Charges",增強詛咒
+Incision,切割
+Catharsis,宣洩
+"Delayed Gratification",延遲滿足感
+Loyalty,忠誠
+"Romira's Requital",羅米拉的報復
+"Rearm I","重新佈署 I"
+"Rearm II","重新佈署 II"
+"Delayed Reaction",延遲反應
+"Volatile Power",不穩定的力量
+Gambleshot,博弈射擊
+"Unerring Power",精準力量
+Perfection,完美
+Deliberation,審慎
+"See Red",赤紅目光
+"Short Fuse I","易怒 I"
+"Short Fuse II","易怒 II"
+Undermine,破壞
+Outmaneuver,出奇制勝
+"Mark for Death",死亡標記
+Tumult,紛亂
+Admixture,混合劑
+"Stoicism I","堅忍 I"
+"Stoicism II","堅忍 II"
+"Relentless Rage",無盡怒火
+Brambleslam,荊棘猛擊
+Inhibitor,抑制劑
+"Hardy Totems I","堅韌圖騰 I"
+"Hardy Totems II","堅韌圖騰 II"
+"Tawhoa's Tending",塔赫亞的照顧
+"Encroaching Ground",進逼地面
+"Living Lightning",活躍閃電
+"Living Lightning II","活躍閃電 II"
+"Frozen Spite",凍結怨恨
+"Piety's Mercy",派蒂的慈悲
+"Flame Pillar",火炎之柱
+"Streamlined Rounds",子彈如流
+"Perfected Endurance",絕對堅毅
+"Enduring Impact I","堅忍衝擊 I"
+"Enduring Impact II","堅忍衝擊 II"
+Crater,隕石坑
+"Vanguard I","無懼先鋒 I"
+"Vanguard II","無懼先鋒 II"
+"Crystalline Shards",結晶碎片
+"Skittering Stone I","飛掠之石 I"
+"Skittering Stone II","飛掠之石 II"
+"Dialla's Desire",達拉的渴望
+"Kalisa's Crescendo",卡莉莎的漸強
+Durability,耐久
+"Xoph's Pyre",索伏的燃焰
+"Esh's Radiance",艾許的光芒
+"Tul's Stillness",托沃的寧靜
+"Uul-Netol's Embrace",烏爾尼多的擁抱
+"Rakiata's Flow",萊基亞塔的流動
+"Rigwald's Ferocity",瑞佛的狂暴
+"Uhtred's Exodus",烏特雷的出走
+"Uhtred's Omen",烏特雷的徵兆
+"Uhtred's Augury",烏特雷的占卜術
+"Daresso's Passion",德瑞索的熱情
+"Atziri's Allure",阿茲里的魅惑
+"Tacati's Ire",特卡蒂的憤怒
+"Zarokh's Refrain",澤洛克的克制
+"Garukhan's Resolve",卡洛翰的決心
+"Kurgal's Leash",柯戈的繩索
+"Kulemak's Dominion",骷髏馬克的支配
+"Amanamu's Tithe",阿姆那姆的稅賦
+"Varashta's Blessing",瓦拉什塔的祝福
+"Arbiter's Ignition",仲裁者的燃灼
+"Arakaali's Lust",艾爾卡莉之慾
+"Cast on Elemental Ailment",元素異常狀態時施放
+"Called Shots",預告射擊
+"Curse on Block",格擋時詛咒
+"Cast on Charm Use",使用護符時施放
+"Thundergod's Wrath",雷神之怒
+"Fire Spell on Hit",擊中時火焰法術
+"Mortar Cannon",迫擊砲

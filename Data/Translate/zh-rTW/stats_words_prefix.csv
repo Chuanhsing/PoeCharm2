@@ -451,48 +451,48 @@
 " Determination",堅定
 " Gambit",策略
 " Carving",雕刻的
-" Full DPS", 完整秒傷
-" Combined DPS", 綜合秒傷
-" Hit DPS", 擊中秒傷
-" Impale + Hit DPS", 穿體 + 擊中秒傷
-" Average Hit", 平均擊中傷害
-" DoT DPS", 持續秒傷
-" Bleed DPS", 流血秒傷
-" Ignite DPS", 點燃秒傷
-" Poison DPS", 中毒秒傷
-" Life", 生命
-" Life regen", 生命回復
-" life leech", 生命偷取
-" Armour", 護甲
-" Evasion", 閃避
-" Energy Shield", 能量護盾
-" Recoverable ES", 可恢復的能盾
-" Energy Shield regen", 能量護盾回復
-" Energy Shield leech", 能量護盾偷取
-" Mana", 魔力
-" Mana regen", 魔力回復
-" Mana leech", 魔力偷取
-" Strength", 力量
-" Dexterity", 敏捷
-" Intelligence", 智慧
-" Total Attributes", 總能力值
-" Melee avoid chance", 避免近戰傷害機率
-" Spell Avoid chance", 避免法術傷害機率
-" Projectile Avoid chance", 避免投射傷害機率
-" Effective Hit Pool", 有效擊中血池
-" Eff. Maximum Hit Taken", 承受有效大傷
-" Taken Phys dmg", 承受物理傷害
-" Taken Lightning dmg", 承受閃電傷害
-" Taken Cold dmg", 承受冰凍傷害
-" Taken Fire dmg", 承受火焰傷害
-" Taken Chaos dmg", 承受混沌傷害
-" Crit Chance", 暴擊率
-" Crit Multiplier", 暴擊傷害
-" Bleed Chance", 流血機率
-" Freeze Chance", 冰凍機率
-" Ignite Chance", 點燃機率
-" Shock Chance", 感電機率
-" Move Speed", 移動速度
-" Block Chance", 格擋率
-" Spell Block Chance", 法術格擋機率
-" Spell Suppression Chance", 法術壓抑機率
+" Full DPS",完整秒傷
+" Combined DPS",綜合秒傷
+" Hit DPS",擊中秒傷
+" Impale + Hit DPS","穿體 + 擊中秒傷"
+" Average Hit",平均擊中傷害
+" DoT DPS",持續秒傷
+" Bleed DPS",流血秒傷
+" Ignite DPS",點燃秒傷
+" Poison DPS",中毒秒傷
+" Life",生命
+" Life regen",生命回復
+" life leech",生命偷取
+" Armour",護甲
+" Evasion",閃避
+" Energy Shield",能量護盾
+" Recoverable ES",可恢復的能盾
+" Energy Shield regen",能量護盾回復
+" Energy Shield leech",能量護盾偷取
+" Mana",魔力
+" Mana regen",魔力回復
+" Mana leech",魔力偷取
+" Strength",力量
+" Dexterity",敏捷
+" Intelligence",智慧
+" Total Attributes",總能力值
+" Melee avoid chance",避免近戰傷害機率
+" Spell Avoid chance",避免法術傷害機率
+" Projectile Avoid chance",避免投射傷害機率
+" Effective Hit Pool",有效擊中血池
+" Eff. Maximum Hit Taken",承受有效大傷
+" Taken Phys dmg",承受物理傷害
+" Taken Lightning dmg",承受閃電傷害
+" Taken Cold dmg",承受冰凍傷害
+" Taken Fire dmg",承受火焰傷害
+" Taken Chaos dmg",承受混沌傷害
+" Crit Chance",暴擊率
+" Crit Multiplier",暴擊傷害
+" Bleed Chance",流血機率
+" Freeze Chance",冰凍機率
+" Ignite Chance",點燃機率
+" Shock Chance",感電機率
+" Move Speed",移動速度
+" Block Chance",格擋率
+" Spell Block Chance",法術格擋機率
+" Spell Suppression Chance",法術壓抑機率
