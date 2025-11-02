@@ -130,7 +130,7 @@ Dash,幻步
 Desecrate,褻瀆
 Despair,絕望
 "Destructive Link",連結：破壞
-Determination,堅定
+Determination,瓦爾．堅定
 "Detonate Dead",屍體爆破
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬圖騰
@@ -214,7 +214,7 @@ Focus,專注
 "Forbidden Rite",禁忌儀式
 "Freeze Mine",冰凍地雷
 "Freezing Pulse",冰霜脈衝
-Frenzy,狂怒
+Frenzy,狂怒球
 "Frost Blades",冰霜之刃
 "Frost Bolt Channel",持續施法寒冰彈
 "Frost Bomb",寒霜爆
@@ -279,7 +279,7 @@ Lacerate,破空斬
 "Leap Slam",躍擊
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
-"Lightning Bolt",雷彈
+"Lightning Bolt",雷擊
 "Lightning Clone Retaliation",閃電複製體復仇
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
@@ -360,7 +360,7 @@ Riptide,激流
 "Shield Shatter",盾牌碎裂
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
-Shockwave,震波
+Shockwave,衝擊波
 "Shockwave Totem",震波圖騰
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
@@ -380,7 +380,7 @@ Spark,電球
 "Spectral Spinning Weapon",靈製武器
 "Spectral Spirits",幽魂之靈
 "Spectral Throw",靈體投擲
-Spellslinger,拋法者
+Spellslinger,法術回音
 "Spirit Burst",靈體爆破
 "Spirit Offering",靈魂奉獻
 "Split Arrow",分裂箭矢
@@ -397,7 +397,7 @@ Steelskin,鋼筋鐵骨
 "Storm of Judgement",審判風暴
 "Storm Rain",暴風雷雨
 Stormbind,風暴術符
-"Stormblast Mine",風暴地雷
+"Stormblast Mine",風爆地雷
 "Summon Arbalists",召喚弩兵
 "Summon Bestial Rhoa",召喚兇猛恐喙鳥
 "Summon Bestial Snake",召喚兇猛蟒蛇
@@ -439,7 +439,7 @@ Taunt,嘲諷
 "Tawhoa's Chosen",塔赫亞的抉擇
 "Tectonic Slam",破體之擊
 "Tempest Shield",暴風之盾
-"Temporal Chains",時空鎖鏈
+"Temporal Chains",時空鎖鍊
 "Temporal Rift",時空裂隙
 "Tentacle Whip",觸手鞭擊
 "Thirst for Blood",嗜血
@@ -795,8 +795,8 @@ Eviscerate,剔骨
 "Glacial Shield Swipe",冰川盾擊
 "Jet of Flame",烈焰噴射
 "Puncture of Shanking",腿脛放血
-"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的幻影
-"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻影
+"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的形象
+"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的形象
 "Summon Demon Beast",召喚惡魔野獸
 "Summon Demon Harpy",召喚惡魔鷹身
 "Summon Demon Imp",召喚惡魔小鬼
@@ -1458,3 +1458,71 @@ Snap,迸裂
 "Valako's Charge",瓦拉庫的衝鋒
 "Void Illusion",虛空幻影
 "Volcanic Steps",火山之步
+"Arm Whack",手臂揮擊
+"Bladefall of Trarthus",特拉特斯虛空刀雨
+"Blast Rain of Trarthus",特拉特斯爆裂箭雨
+"Call the Pyre",炎葬之喚
+"Chain Hook of Trarthus",特拉特斯奪魂勾索
+"Command Graft",號令接肢
+Conflagration,燎原箭矢
+"Dance in the White",白中之舞
+"Dark Pact of Trarthus",特拉特斯暗夜血契
+"Enervating Grasp",虛弱之握
+"Falling Crystals",碎晶墜落
+"Glowing Silhouette",閃爍剪影
+"Heart of Flame",烈炎之心
+"Heavy Strike of Trarthus",特拉特斯沉重之擊
+"Herald of the Hive",巢裔之捷
+"His Burning Message",他的焚炎句語
+Icicles,碎霜彈幕
+"Ignition Blast",燃炎爆
+"Kinetic Anomaly",力量反常
+"Kinetic Flux",力量流束
+"Kinetic Fusillade",力量齊射
+"Kinetic Rain",力量驟雨
+"Kinetic Rain of Impact",力量驟雨．衝擊
+"Living Lightning Zap",活躍閃電電擊
+"Memory of Desire",渴望的記憶
+"Memory of Disbelief",不信的記憶
+"Memory of Familiarity",親近的記憶
+"Memory of Impatience",急躁的記憶
+"Memory of Impulsiveness",衝動的記憶
+"Memory of Mocking",嘲諷的記憶
+"Memory of Panic",恐慌的記憶
+"Memory of Suspicion",懷疑的記憶
+"Misty Reflection",迷霧映射
+"Order: To me!",命令：過來！
+"Overcharged Sinews",過載筋腱
+"Preserving Stillness",靜守不移
+"Return to Dust",回歸塵土
+"Seize the Flesh",肉身奪取
+"Shaper's Despair",塑界者的絕望
+"Shaper's Devastation",塑界者的毀滅
+"Shaper's Ire",塑界者的憤怒
+"Siege Ballista of Trarthus",特拉特斯攻城炮台
+"Somatic Shell",心靈壁壘
+"Spectral Helix of Trarthus",特拉特斯靈體旋武
+"Spectral Shield Throw of Trarthus",特拉特斯盾靈投擲
+"Spectral Throw of Trarthus",特拉特斯靈體投擲
+Starfall,星空殞落
+"Storm Call of Trarthus",特拉特斯風暴呼喚
+"Summon Living Lightning",召喚活躍閃電
+"Summon Shaper Memory",召喚塑界者的記憶
+"Summon Spectral Tiger",召喚幽靈虎
+"Summon Visiting Harbinger of Focus",召喚來訪的專注神諭
+"Summon Visiting Harbinger of the Arcane",召喚來訪的秘能神諭
+"Summon Visiting Harbinger of Time",召喚來訪的時間神諭
+"Summon Void Spawn",召喚虛空幼蟲
+"Sunder of Trarthus",特拉特斯大地震擊
+"Tender Embrace",慈愛之擁
+"The Great Avalanche",浩劫雪崩
+"The Grey Wind Howls",灰風咆嘯
+Thunderburst,雷霆爆裂
+Thunderstorm,天雷暴雨
+"Violent Desire",暴力渴望
+"Wall of Force",力量之壁
+"Ward Shatter",保護碎裂
+"Wave of Conviction of Trarthus",特拉特斯信念浪湧
+"Will of the Lords",君主意志
+Windburst,風破
+"Wreathed in Light",光暈纏繞
