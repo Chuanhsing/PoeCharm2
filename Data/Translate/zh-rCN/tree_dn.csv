@@ -432,7 +432,7 @@ Gemini,双灵刃
 "Hunter's Gambit",猎人之势
 "Bow Damage",弓类伤害
 Fervour,激情
-"Evasion Per Frenzy Charge",每个狂怒球的闪避值
+"Evasion Per Frenzy Charge",狂怒球闪避
 "Frenzy Charge Duration",狂怒球持续时间
 Frenetic,狂热
 "Blood Drinker",汲血者
@@ -529,7 +529,7 @@ Disemboweling,开肠剖肚
 "Melee Critical Strike Chance",近战暴击率
 "Melee Critical Mastery",近战暴击专精
 "Damage Over Time and Life Regeneration",持续伤害与生命回复
-"Damage Over Time",持续伤害加成
+"Damage Over Time",持续伤害
 "Growth and Decay",成长与衰变
 "Chaos Mastery",混沌专精
 "Lethal Assault",王牌射手
@@ -1917,9 +1917,9 @@ Introspection,内省
 "Doedre's Apathy",德瑞的冷漠
 "Master of the Maelstrom",大漩涡之主
 "Aggressive Defence",以攻为守
-"Minion Life",召唤生物生命
+"Minion Life",召唤物生命
 "Minion Life and Chaos Resistance",召唤生物生命和混沌抗性
-"Minion Damage",召唤生物伤害
+"Minion Damage",召唤物伤害
 "Lightning Critical Strike Multiplier",闪电暴击伤害加成
 "Lightning Damage",闪电伤害
 "Fire Damage",火焰伤害
@@ -2925,8 +2925,8 @@ Chronomancy,时占术
 "Hindered Capabilities",机能阻碍
 "Lasting Boons",持久恩惠
 "Waning Hindrances",衰落妨碍
-"Debuff Expiry Rate",减益状态消减速度
-"Cooldown Recovery Rate",专精点数
+"Debuff Expiry Rate",减益效果衰退速度
+"Cooldown Recovery Rate",冷却回复率
 "Temporal Mastery",时光掌控
 "Slow Effect on You and Debuff Expiry Rate",增益状态和减益状态消减速度
 "Steady Footing",稳固立足
@@ -3030,7 +3030,7 @@ Unsight,视若无睹
 "Mark Effect and Blind Effect",印记效果和致盲效果
 "Mark Effect and Blind Chance",印记效果和致盲几率
 "Offering Life",奉献生命
-"Offering Duration",奉献持续时间
+"Offering Duration",奉献效果持续时间
 Corpses,灵盒
 Stigmata,圣痕
 "Meat Recycling",血肉回收
@@ -3252,7 +3252,7 @@ Frostwalker,冰霜行者
 Stormwalker,风暴行者
 "The Great Boar",魁梧野猪
 "The Spring Hare",春日野兔
-"Charge Duration",充能持续时间
+"Charge Duration",充能时间
 "Charge Duration and Dexterity",充能持续时间和敏捷
 "The Fabled Stag",传说之鹿
 "Reduced Attribute Requirements and All Attributes",降低属性需求和所有属性
@@ -3300,7 +3300,7 @@ Infernalist,驱炎使
 Stormweaver,风暴编织者
 Chronomancer,塑时术师
 "Disciple of the Djinn",巨灵门徒
-Deathmarked,死印
+Deathmarked,死亡印记
 Tactician,战术家
 Witchhunter,猎巫人
 Gambler,博弈者
@@ -3637,3 +3637,76 @@ Incorporeal,无影无形
 "Arsenal of Vengeance",复仇军库
 "Seasoned Hunter",资深猎手
 "Bloodsoaked Blade",喋血之刃
+"Chaos Resistance and Minion Damage",混沌抗性与召唤生物伤害
+"Critical Strike Chance, Mark Effect",暴击率、印记效果
+"Knife in the Back",背刺
+"Critical Strike Chance, Poison Chance",暴击率、中毒几率
+"Critical Strike Chance, Spell Damage",暴击率、法术伤害
+"Mystical Infusion",神秘注入
+"Critical Strike Chance, Life",暴击率、生命
+"Shadowed Blood",暗影之血
+"Assassination Style",暗杀风格
+"Infused Toxins",灌注毒素
+"Chaos Bloodline",混沌血脉
+"Corruption's Embrace",腐化之拥
+"Deceitful Servant",狡诈仆从
+"Priest of Yaomac",夭马克的祭司
+"Priest of Kopec",科佩克祭司
+"Priest of Kamasa",卡马萨祭司
+"Vaal Souls",瓦尔之灵
+"Oshabi Bloodline",欧莱娜血脉
+"The Primal Owl",原始猫头鹰
+"Seal gain frequency",灵记获取频率
+"The Wild Bear",荒野巨熊
+Rage,怒气
+"The Vivid Cat",鲜活猎豹
+"Elusive effect",灵巧效果
+"Nameless Bloodline",无名血脉
+"The Unseen Hand",无形之手
+"Toad's Price",蟾蜍的代价
+"Serpent's Price",毒蛇的代价
+"Beetle's Price",甲虫的代价
+"Unlight Silhouette",暗蚀剪影
+"Catarina Bloodline",卡塔莉娜血脉
+" Death Offering",死亡奉献
+"Umbral Army",暗影军团
+"Prolonged Servitude",奴役延长
+"Aul Bloodline",奥尔血脉
+" Precursor's Release",先驱的解放
+Defences,防御
+"Legacy of the King",王者传承
+"The King's Contempt",王之蔑视
+"The King's Heritage",王之遗赠
+"The King's Might",王之威能
+"Lycia Bloodline",莉西娅血脉
+"Bitter Heresy",苦涩异端
+"Sinner Saint",罪人之圣
+"Farewell to Flesh",告别血肉
+"Herald and Minion Damage",捷技能和召唤生物伤害
+"Olroth Bloodline",欧罗什血脉
+"Enhanced Starlight",强化星辉
+Ward,结界
+"Volatile Runes",不稳定符文
+"Runic Boon",符文赐福
+"Boon of the River",河流赐福
+"Boon of the Mountain",山岳赐福
+"Boon of the Sun",烈日赐福
+"Farrul Bloodline",法瑞尔血脉
+Huntleader,猎群首领
+"Primal Roar",原始咆哮
+"Farrul's Will",法瑞尔的意志
+"Farric Will",大地意志
+"Fertile Will",丰沃意志
+"Wild Will",狂野意志
+"Maximum Spectres and Minion Life",灵体和召唤生物生命上限
+Delirious,亢奋
+"You're the crazy one!",你才疯了！
+"It wasn't me!",不是我干的！
+"That didn't happen!",根本没这回事！
+"Life Recovery rate",生命回复速度
+Breachlord,裂隙领主
+"Esh of the Storm",风暴之艾许
+" Lightning Damage",闪电伤害
+"Tul of the Blizzard",暴雪之托沃
+"Otherworldly Appendages",异界附肢
+"Maximum Life",生命上限

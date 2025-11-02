@@ -268,7 +268,7 @@ Enhance,增幅(辅)
 Fork,分裂(辅)
 "Greater Multiple Projectiles",高阶多重投射(辅)
 Hypothermia,急冻(辅)
-Impale,尖刺战杖
+Impale,穿刺
 "Ice Bite",霜咬(辅)
 "Lesser Multiple Projectiles",低阶多重投射（辅）
 "Lesser Poison",低阶毒化(辅)
@@ -1266,7 +1266,7 @@ Inhibitor,抑制器
 "Hardy Totems II","坚韧图腾 II"
 "Tawhoa's Tending",塔赫亚的照料
 "Encroaching Ground",侵蚀地面
-"Living Lightning",活体闪电
+"Living Lightning",活体闪电（辅）
 "Living Lightning II","活体闪电 II"
 "Frozen Spite",冰冻怨恨
 "Piety's Mercy",派蒂的怜悯
@@ -1340,3 +1340,27 @@ Autoexertion,自动增助
 Overexertion,超能增助（辅）
 "Expert Retaliation",专擅反击（辅）
 "Focused Channelling",专注吟唱（辅）
+"Wall of Force",力场之墙
+Conflagration,燃火箭雨
+"Kinetic Rain",念动之雨
+"Somatic Shell",念动壁垒
+Thunderstorm,雷霆风暴
+"Kinetic Fusillade",念动齐射
+"Return to Dust",归于尘土
+"Seize the Flesh",攫取血肉
+"Violent Desire",暴烈欲望
+"Tender Embrace",温柔之拥
+"Heart of Flame",烈焰之心
+"His Burning Message",焚世箴言
+"Call the Pyre",苍焰火柱
+"The Grey Wind Howls",灰风呼号
+"Wreathed in Light",辉耀加身
+"Glowing Silhouette",光铸剪影
+"Enervating Grasp",虚弱之握
+"Overcharged Sinews",血肉过载
+"Dance in the White",白霜漫舞
+"Falling Crystals",天坠冰晶
+"The Great Avalanche",崩塌盛雪
+"Preserving Stillness",静谧守恒
+Windburst,风爆术（辅）
+"Kinetic Instability",念动失稳（辅）

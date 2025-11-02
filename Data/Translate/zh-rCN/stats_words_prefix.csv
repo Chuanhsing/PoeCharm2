@@ -3,7 +3,7 @@ Fulcent,耀眼
 " Abyss"," 深渊"
 " Apex"," 绝境"
 " Bind"," 羁绊"
-" Cage"," 囚笼"
+" Cage",禁锢
 " Chambers"," 密室"
 " Coffers"," 冥棺"
 " Core"," 星核"
@@ -38,7 +38,7 @@ Fulcent,耀眼
 " Slag"," 残石"
 " Solitude"," 孤独之境"
 " Spires"," 尖塔"
-" Trap"," 陷阱"
+" Trap",陷阱
 " Vault"," 宝库"
 " View"," 美景"
 " Vine"," 藤壁"
@@ -85,13 +85,13 @@ Fulcent,耀眼
 " Butcher"," 屠斧"
 " Call"," 灵唤"
 " Carapace"," 魔甲"
-" Caress"," 加护"
+" Caress",抚触
 " Chant"," 圣曲"
 " Charm"," 礼器"
 " Choker"," 圣符"
 " Circle"," 魔环"
 " Clasp"," 扣环"
-" Claw",暗影爪
+" Claw",利爪
 " Cloak"," 隐袍"
 " Clutches"," 灵掌"
 " Coat"," 神袍"
@@ -127,9 +127,9 @@ Fulcent,耀眼
 " Gnash"," 石崩"
 " Goad"," 风唤"
 " Gorget"," 安魂符"
-" Grasp"," 魂掌"
+" Grasp",抓握
 " Grinder"," 灵杵"
-" Grip"," 灵指"
+" Grip",紧攥
 " Guard"," 军卫"
 " Guardian"," 守卫者"
 " Guide"," 真眼"
@@ -151,7 +151,7 @@ Fulcent,耀眼
 " Jack"," 保身"
 " Knell"," 丧仪"
 " Knot"," 魔语"
-" Knuckle"," 灵具"
+" Knuckle",指节
 " Lash"," 饰带"
 " League"," 盟誓"
 " Leash"," 护绳"
@@ -186,7 +186,7 @@ Fulcent,耀眼
 " Rain"," 之雨"
 " Ram"," 冲撞者"
 " Razor"," 剃刃"
-" Reach"," 目光"
+" Reach",触及
 " Rend"," 斩刃"
 " Road"," 之途"
 " Roar"," 咆哮"
@@ -210,7 +210,7 @@ Fulcent,耀眼
 " Shroud"," 幽影"
 " Siege"," 破城弩"
 " Skewer"," 锐刃"
-" Skin"," 钢肤"
+" Skin",表皮
 " Slayer"," 裂劈"
 " Slicer"," 斩灭"
 " Slippers"," 凉靴"
@@ -219,7 +219,7 @@ Fulcent,耀眼
 " Sole"," 之足"
 " Song"," 之曲"
 " Span"," 漫幕"
-" Spark"," 夜星"
+" Spark",火花
 " Spawn"," 再生"
 " Spear"," 长锋"
 " Spell"," 之术"
@@ -248,7 +248,7 @@ Fulcent,耀眼
 " Touch"," 温存"
 " Tower"," 之塔"
 " Track"," 踪迹"
-" Trail"," 远道"
+" Trail",踪痕
 " Tread"," 漫步"
 " Turn"," 弯环"
 " Twine"," 无尽之弦"
@@ -331,7 +331,7 @@ Fulcent,耀眼
 " Pact"," 协约"
 " Covenant"," 协议"
 " Testament"," 证据"
-" Vow"," 誓言"
+" Vow",誓约
 " Tool"," 工具"
 " Kit"," 工具包"
 " Gear"," 道具"
@@ -477,3 +477,44 @@ Fulcent,耀眼
 " Valley"," 峡谷"
 " Wasteland"," 荒地"
 " Ruins"," 废墟"
+" Tendon",肌腱
+" Phalange",指骨
+" Gesture",手势
+" Husk",空壳
+" Blaze",烈焰
+" Pyre",焚堆
+" Cinder",燃屑
+" Furnace",熔炉
+" Kiln",窑炉
+" Torus",环体
+" Eclipse",蚀变
+" Obsidian",黑曜石
+" Coal",焦煤
+" Agony",苦痛
+" Surge",奔涌
+" Discharge",放电
+" Thought",思绪
+" Impulse",脉冲
+" Epiphany",顿悟
+" Slave",奴役
+" Curiousity",好奇
+" Envy",妒羡
+" Repose",沉眠
+" Undeath",亡灵
+" Dormancy",蛰伏
+" Inertia",惰性
+" Trance",恍惚
+" Coma",昏睡
+" Submersion",沉溺
+" Isolation",孤寂
+" Prison",囚牢
+" Eternity",永恒
+" Confinement",困囿
+" Mother",母体
+" Womb",子宫
+" Dust",尘芥
+" Pursuit",追逐
+" Anticipation",期许
+" Surrender",臣服
+" Kiss",亲吻
+" Embrace",拥抱
