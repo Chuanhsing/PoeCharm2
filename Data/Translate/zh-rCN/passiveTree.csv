@@ -182,10 +182,10 @@ Pitfighter,深渊斗士
 "(Enemies standing in Smoke Clouds are Blinded)","( 站在迷雾中的敌人将被致盲 )"
 "(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second)",（友军在你产生的奉献地面上按照百分比每秒再生最大生命）
 "(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","（秘术增强可以在 4 秒内使法术伤害总增 10%， 魔力再生率提高 30%）"
-"(Crushed lowers Physical Damage Reduction by 15%)","（垮压使物理伤害减免降为 15%）"
+"(Crushed lowers Physical Damage Reduction by 15%)","（碾压使物理伤害减免降低 15%）"
 "(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","（被致盲时命中和闪避在接下来 4 秒总降 20%）"
 "(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds)","（承受的击中伤害按照每层护体效果总降 1%。护体最多 20 层，它持续 5 秒）"
-"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","（友军在你产生的奉献地面上按照百分比每秒再生生命上限，并且他们身上的诅咒效果降低 50%）"
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","（友军在你产生的奉献地面上按照生命上限百分比每秒再生生命，并且他们身上的诅咒效果降低 50%）"
 "(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)",（受到的击中伤害按照每层护体效果总降1%。最多20层护体。护身持续6秒）
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)",（肾上腺素会增加100%伤害，提高25%攻击速度、施法速度和移动速度，并且获得10%额外物理伤害减免。如果你已经有肾上腺素就不能再获得肾上腺素。）
 "(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)",(防止50%被压制的击中和击中造成的异常状态的伤害)
@@ -196,7 +196,7 @@ Pitfighter,深渊斗士
 "(You can only take one of the three Warlock Power passives)",（你只能在术士之力的三个天赋中选择一个）
 "(Characters inherently gain +12 Life per Level)","（角色本身每级获得 +12 生命）"
 "(Pacify curses all targets in an area, having no effect at first, but causing them to deal no damage once 60% of the curse's duration has expired)","（宁心会诅咒区域中的所有目标，最初没有效果，但在诅咒的持续时间消减 60% 后使其无法造成伤害）"
-"(Affliction permanently Afflicts any of your damageable minions in a targeted area, causing them to take physical damage over time, at an accelerating rate. Each such minion causes you to regenerate life at a rate based on the current damage of its Affliction debuff. Afflicted Minions explode if their life is lowered to a fifth of maximum)",（折磨会永久性地影响你在目标区域内可受伤害的召唤生物，使其持续受到越来越高的物理伤害。每个受到该效果影响的召唤生物使你回复生命，效果根据折磨减益的当前伤害决定。受折磨的召唤生物的生命值低于五分之一时会爆炸）
+"(Affliction permanently Afflicts any of your damageable minions in a targeted area, causing them to take physical damage over time, at an accelerating rate. Each such minion causes you to regenerate life at a rate based on the current damage of its Affliction debuff. Afflicted Minions explode if their life is lowered to a fifth of maximum)",（折磨会永久性地影响你在目标区域内可受伤害的召唤生物，使其持续受到越来越高的物理伤害。每个受到该效果影响的召唤生物使你再生生命，再生速度由折磨减益效果造成的伤害决定。受折磨的召唤生物的生命低于上限的五分之一时会爆炸）
 "(Penance Mark curses a single enemy, causing them to spawn multiple phantasms when hit. The phantasms will be allies of the marked enemy with the same monster level. They cast a projectile spell which deals physical damage, and are immune to curses. You can only have one Mark at a time)",（忏悔印记会诅咒一名敌人，使其被击中时产生多个幽影。幽影被视作被标记的敌人的盟友，拥有相同的怪物等级，会施放造成物理伤害的投射物法术，并且免疫诅咒。你同时只能施加一个印记）
 "(Adopt the power of the Viridian Wildwood, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You have higher armour the more bark builds up, but higher chance to evade when less covered in bark)",（汲取维里迪安荒林的力量，逐渐用树皮覆盖你的身体。被敌人的攻击击中会移除树皮。覆盖的树皮越多，你的护甲越高。覆盖的树皮越少，你的闪避率越高）
 "(Summon two Triggerbots which follow you around and run towards enemies. our Triggered Spells Trigger twice, once from each Triggerbot's location)",（召唤两个会跟随你移动的触发机器人，它们会冲向你的敌人。你的触发法术在每个触发机器人的位置各触发一次，共两次）
@@ -209,3 +209,31 @@ Pitfighter,深渊斗士
 "(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)",（召唤两个会跟随你移动的触发机器人，它们会冲向你的敌人。你的触发法术在每个触发机器人的位置各触发一次，共两次）
 "Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier",异常状态的持续伤害加成等同于暴击加成
 "Non-Critical Strikes cannot inflict Ailments",非暴击无法造成异常状态
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is 200% higher while moving)","（流血造成持续物理伤害，伤害取决于技能初始的物理伤害，移动时受到的流血伤害总增 200%）"
+"(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds)","（每点怒火使攻击伤害总增 1%。怒火上限为 30 点。若过去 2 秒内没有被击中或获得怒火，则每秒失去 10 点怒火）"
+"(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds)","（由于过去 2 秒内你没有被击中或获得怒火，正在以每秒 10 点的速度失去怒火）"
+"(Base Maximum Rage is 30)","（基础怒气上限为 30 点）"
+"(Arcane Surge grants 20% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)","（秘术增强可以在 4 秒内使施法速度提高 20%，魔力恢复速度提高 30%）"
+"(Adopt the power of the forest, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You take reduced damage from physical attack hits the more bark builds up, but higher chance to evade when less covered in bark)",（汲取森林的力量，逐渐用树皮覆盖你的身体。被敌人的攻击击中会移除树皮。覆盖的树皮越多，你受到的物理攻击击中伤害越低。覆盖的树皮越少，你的闪避率越高）
+"(Choose one of the two attached options)",（请在两个选项中选择一项）
+"(Unbound Avatar requires 100 Unbound Fury to use and causes you to become Unbound for 10 seconds, which has no effects beyond those listed here)","（不羁化身需要 100 点不羁狂怒才能使用，使你在 10 秒内获得不羁状态，其效果皆已在此列出）"
+"(Summons an immortal chieftain minion of the Kitava tribe to fight alongside you for a duration. This minion grants you a buff which makes a percentage of your leech recover instantly)",（召唤一个不死的奇塔弗部落酋长，与你并肩作战一段时间。该召唤生物会给你提供一个增益效果，使一定比例的生命偷取立即生效）
+"(Summons an immortal chieftain minion of the Tasalio tribe to fight alongside you for a duration. This minion grants you a buff which prevents your action speed being lowered)",（召唤一个不死的塔萨里奥部落酋长，与你并肩作战一段时间。该召唤生物会给你提供一个增益效果，使你的行动速度无法被降低）
+"(Summons an immortal chieftain minion of the Valako tribe to fight alongside you for a duration. This minion grants you a buff which recovers life, mana and energy shield when you block)",（召唤一个不死的瓦拉克部落酋长，与你并肩作战一段时间。该召唤生物会给你提供一个增益效果，在你格挡时回复生命、魔力和能量护盾）
+"(Summons an immortal chieftain minion of the Ngamahu tribe to fight alongside you for a duration. This minion grants you a buff which allows totems to take some damage from hits for you)",（召唤一个不死的努葛玛呼部落酋长，与你并肩作战一段时间。该召唤生物会给你提供一个增益效果，让图腾替你承受部分击中伤害）
+"(Summons an immortal chieftain minion of the Rongokurai tribe to fight alongside you for a duration. This minion grants you a buff which lets a percentage of your armour protect against all damage types)",（召唤一个不死的隆戈库莱部落酋长，与你并肩作战一段时间。该召唤生物会给你提供一个增益效果，让你的部分护甲值能够抵御所有伤害类型）
+"(Creates a Lesser Shrine, which will grant a bonus when touched. The Lesser Shrine will disappear after a short duration, or when used)",（创造一个低等神龛，触摸即可获得加成。使用后或是放置一段时间后低等神殿即会消失。）
+"(Summons a spectral wolf companion that attacks nearby enemies and dies after a duration. Each spectral wolf grants you a buff that adds damage to your attacks. If you have the maximum number of them, refreshes the duration and life of an existing one instead)",（召唤一头幽狼伙伴攻击周围的敌人，持续一段时间后消失。每头幽狼都会给你提供增加攻击伤害的增益效果。达到召唤上限时使用会刷新其中一头的生命和持续时间）
+"(Summons an immortal Harbinger minion. The minion will occasionally create an aura on you that increases the Action Speed of you and all allies near you)",（召唤一个不死的先驱者。它会偶尔对你施放光环，增加你和你周围所有队友的行动速度）
+"(Summons an immortal Harbinger minion. The minion has two buff spells it will cast on you: Arcane Surge, granting increased Cast Speed and Mana Regeneration, and a buff that grants Chance to Shock and Lightning Penetration)",（召唤一个不朽的先驱者。它会偶尔对你施放两个下列增益法术：秘术增强，提高施法速度和魔力再生率，以及一个有几率导致感电并穿透闪电抗性的增益效果）
+"(Summons an immortal Harbinger minion. While you are channelling, the minion will occasionally cast a buff on you that reduces the Damage you take, makes you avoid all Stuns and Elemental Ailments, and prevents Curses affecting you)",（召唤一个不死的先驱者。它会在你持续吟唱时偶尔会对你施放一个增益效果，减少你受到的伤害，使你避免所有晕眩和元素异常状态，并免受诅咒影响）
+"(Makes you immune to physical damage, and harder for enemies to detect, for a duration)",（在一段时间内使你对物理伤害免疫，同时很难被敌人发现）
+"(While you run, this skill creates a small explosion with each step, dealing fire damage in an area around you)",（奔跑时每踏下一步都造成一次小爆炸，对周围造成火焰伤害）
+"(Raise two spectral spiders from each nearby corpse that will attack your enemies with Viper Strike. Each raised spider grants you increased Attack Speed and increased Damage with Poison. Enemies will not engage the spiders directly, and they are immune to damage)",（周围每具灵柩召唤两只幽魂巨蛛，用毒蛇打击攻击你的敌人。每只幽魂巨蛛使你的攻击速度加快，并提高中毒的伤害。敌人将不会主动攻击你的蜘蛛，并且它们免疫伤害）
+"(Casts an aura that grants evasion to you and your allies)",（施放一个光环，使你与受光环影响友军获得额外的闪避）
+"(Casts an aura that adds chaos damage to the attacks and spells of you and your allies)",（施放一个光环，使你与受光环影响友军在攻击和施放法术时额外附带混沌伤害）
+"(Casts an aura that grants additional energy shield and increased energy shield recharge rate to you and your allies)",（施放一个光环，使你与受光环影响友军获得额外的能量护盾）
+"(Casts an aura that grants armour to you and your allies)",（施放一个光环，使你与受光环影响友军获得额外的护甲）
+"(While active, periodically applies a Spider's Web debuff to nearby Enemies, and Hinders them. Each Spider's Web on an Enemy increases the Damage they take. Hinder reduces their movement speed. You can only have one Aspect active at a time)",（当生效时，每隔一段时间对周围敌人施加蜘蛛网减益效果，并减缓他们的移动速度。每层敌人身上的蜘蛛网会增加他们受到的伤害。同一时间只能激活一种势）
+"(While active, grants the Cat's Stealth and Cat's Agility buffs in sequence. Cat's Stealth increases your critical strike chance, makes you harder to see, and gives you a chance to avoid damage for a short duration. Cat's Agility increases your attack and cast speed for a longer secondary duration. You can only have one Aspect active at a time)",（当生效时，依次轮流赋予玩家猫之隐匿和猫之敏捷。猫之隐匿会提高暴击率，短时间内有一定几率避免伤害，并使你更难被敌人发现。猫之敏捷会在一段时间内增加你的攻击和施法速度。同一时间只能激活一种势）
+"(While active, grants the Avian's Might and Avian's Flight buffs in sequence. Avian's Might grants you and your minions a chance to deal Double Damage with hits for a duration. Avian's Flight grants you and your minions increased Movement Speed for a secondary duration. You can only have one Aspect active at a time)",（当生效时，依次轮流赋予玩家鸟之力量和鸟之斗魄。鸟之力量会让你和你的召唤生物在一定时间内的击中有几率造成双倍伤害。鸟之斗魄会让你和你的召唤生物移动速度增加。同一时间只能激活一种）

@@ -218,7 +218,7 @@ Chestplate,胸甲
 Tricorne,三角帽
 "Leather Hood",革兜
 "Wolf Pelt",狼首皮盔
-"Hunter Hood",猎者兜帽
+"Hunter Hood",猎者之兜
 "Noble Tricorne",贵族三角帽
 "Ursine Pelt",熊首皮盔
 "Silken Hood",绸缎之兜
@@ -675,7 +675,7 @@ Shadowstitch,暗影缝合
 "Command of the Pit",巨坑之令
 "Crown of the Tyrant",暴君王冠
 "Demon Stitcher",恶魔缝补者
-"Doryani's Delusion",多利亚尼的幻想
+"Doryani's Delusion",多里亚尼的幻想
 "Geofri's Legacy",吉尔菲的遗产
 "Curtain Call",夜幕召唤
 "The Iron Fortress",钢铁要塞
@@ -818,13 +818,13 @@ Gamblesprint,博运步伐
 "The Apostate",破弃信仰
 "The Devourer of Minds",噬心饕餮
 "The Tempest Rising",骤起狂岚
-"Apprentice Gloves",手部外观:幻影佣兵
-"Warlock Gloves",手部外观：邪异术士
-"Warlock Boots",脚部外观：邪异术士
-"Conquest Helmet",头部外观：远征
+"Apprentice Gloves",学徒手套
+"Warlock Gloves",咒士手套
+"Warlock Boots",咒士之靴
+"Conquest Helmet",征服之盔
 "Necrotic Armour",幽魂之甲
 "General's Helmet",将军战盔
-"Conqueror's Helmet",征服者头盔
+"Conqueror's Helmet",霸王战盔
 "Giantslayer Helmet",巨人屠夫战盔
 "Dire Pelt",恐兽皮盔
 "Lich's Circlet",巫妖之冠
@@ -1272,7 +1272,7 @@ Garment,华服装束
 "Gladiatorial Helm",角斗士头盔
 "Druidic Crown",德鲁伊王冠
 "Saintly Crown",圣洁王冠
-"Divine Crown",神礼王冠
+"Divine Crown",神启头冠
 "Cryptic Crown",隐秘之冠
 "Brigand Mask",驱灵面具
 "Faridun Mask",法里顿面具
@@ -1387,3 +1387,59 @@ Sacrosanctum,奉圣庇护所
 "Valako's Vice",瓦拉库的离奇
 "The Prisoner's Manacles",囚徒的镣铐
 "The Black Insignia",黑盗勋章
+"Precursor Gauntlets",先驱护手
+"Leviathan Gauntlets",海怪护手
+"Preserving Gauntlets",历战手甲
+"Guarding Gauntlets",护卫手甲
+"Thwarting Gauntlets",御敌护手
+"Harpyskin Gloves",鹰妖皮手套
+"Velour Gloves",丝绒手套
+"Tinker Gloves",工匠手套
+"Trapsetter Gloves",布陷者手套
+"Sage Gloves",贤者手套
+"Chimerascale Gauntlets",奇美拉鳞手套
+"Wyvernscale Gauntlets",腾龙鳞手套
+"Paladin Gloves",圣骑士手套
+"Infiltrator Mitts",渗透者护手
+"Phantom Mitts",幻影护手
+"Precursor Greaves",先驱胫甲
+"Leviathan Greaves",海怪胫甲
+"Harpyskin Boots",鹰妖皮靴
+"Velour Boots",丝绒之靴
+"Sage Slippers",贤者便鞋
+"Chimerascale Boots",奇美拉鳞长靴
+"Wyvernscale Boots",腾龙鳞长靴
+"Martyr Boots",先烈长靴
+"Paladin Boots",圣骑士长靴
+"Infiltrator Boots",渗透者长靴
+"Phantom Boots",幻影长靴
+"Titan Plate",泰坦战铠
+"Legion Plate",军团战铠
+"Royal Plate",皇家战铠
+"Supreme Leather",至尊皮甲
+"Astral Leather",星界皮甲
+"Syndicate's Garb",辛迪加之装
+"Arcane Vestment",秘法长衣
+"Nightweave Robe",夜纹之袍
+"Twilight Regalia",暮光法衣
+"Full Wyvernscale",连身腾龙鳞甲
+"Marshall's Brigandine",元帅锁铠
+"Conquest Lamellar",征服盔甲
+"Grand Ringmail",雄壮环甲
+"Paladin's Hauberk",圣骑士链甲
+"Sacred Chainmail",神圣锁甲
+"Sanguine Raiment",血痕之衣
+"Torturer Garb",刑罚者束衣
+"Grizzly Pelt",灰熊皮盔
+"Majestic Pelt",威武皮盔
+"Moonlit Circlet",月辉之冠
+"Sunfire Circlet",阳炎之冠
+"Haunted Bascinet",魂萦战盔
+"Faithful Helmet",信仰之盔
+"Paladin Crown",圣骑士头冠
+"Jester Mask",弄臣之面
+"Ancient Mask",上古之面
+"Torturer's Mask",刑罚者之面
+Scornflux,蔑视之流
+"Servant of Decay",腐朽仆从
+"Seven Teachings",七大教义

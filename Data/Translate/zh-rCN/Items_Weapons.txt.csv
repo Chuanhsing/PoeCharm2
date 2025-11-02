@@ -77,7 +77,7 @@ Cleaver,切割者
 "Barbed Club",锐刺木棒
 "Rock Breaker",破岩锤
 "Battle Hammer",强化战锤
-"Flanged Mace",钉头锤
+"Flanged Mace",护体之锤
 "Ornate Mace",华丽之锤
 "Phantom Mace",幻象之锤
 "Ancestral Club",祖灵之杵
@@ -124,7 +124,7 @@ Sekhem,威能短杖
 "Stag Sceptre",灵鹿短杖
 "Sambar Sceptre",恶魔短杖
 "Rusted Sword",锈剑
-Cutlass,军用长刀
+Cutlass,军用长刃
 Baselard,冷光长剑
 "Battle Sword",士兵长剑
 "Elder Sword",智者长剑
@@ -211,7 +211,7 @@ Smallsword,小剑
 "Imperial Bow",帝国之弓
 "Harbinger Bow",先驱者之弓
 "Long Bow",长弓
-"Composite Bow",复合弓
+"Composite Bow",合成弓
 "Recurve Bow",反曲弓
 "Bone Bow",骨制弓
 "Royal Bow",皇家猎弓
@@ -283,7 +283,7 @@ Sledgehammer,冷铁重锤
 "Fright Maul",恐惧重锤
 "Totemic Maul",图腾巨锤
 "Great Mallet",刚猛巨锤
-"Morning Star",流星锤
+"Morning Star",晨星
 "Solar Maul",日光锤
 "Coronal Maul",花冠重锤
 "Corroded Blade",锈斑巨剑
@@ -1032,3 +1032,10 @@ Cursecarver,刻咒
 "Palm of the Dreamer",幻梦者之掌
 "Fairgraves' Curse",命运之手
 "The Unborn Lich",未生巫妖
+"The Living Blade",活木之刃
+"Tawhoa's Felling",塔赫亚的砍伐
+"Serle's Masterwork",瑟蕾的杰作
+Starcaller,唤星
+"Mystic Refractor",神秘折射镜
+"Cadigan's Authority",卡迪甘的权威
+"Legacy of the Rose",玫瑰遗产
