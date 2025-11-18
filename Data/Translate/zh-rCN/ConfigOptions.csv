@@ -77,8 +77,8 @@ Sets the EHP calc to pretend its unlucky and reduce the effects of random events
 	Avoidance Chance,	避免几率
 Unlucky,不幸
 Very Unlucky,非常不幸
-Disable EHP gain on block/suppress:,禁用格挡/压制时回复的有效生命值:
-Sets the EHP calc to not apply gain on block and suppress effects,对有效生命值计算进行设置以禁用格挡/压制时回复效果
+Disable EHP gain when hit:,禁用受击时回复的有效生命值:
+"Sets the EHP calc to not apply gain on block, suppress or Defiance of Destiny effects",对有效生命值计算进行设置以禁用格挡/压制/命运抗争时的回复效果
 Armour calculation mode:,护甲计算模式:
 Controls how Defending with Double Armour is calculated:,控制如何计算使用双倍护甲防御:
 	Minimum: never Defend with Double Armour,	最小值：从不使用双倍护甲进行防御
@@ -554,6 +554,7 @@ This also implies that you are Poisoned.,这也意味着你【中毒】了。
 # of nearby Rare or Unique Enemies:,附近的稀有或传奇敌人数:
 Have you Hit Recently?,你近期有击中?
 "You will automatically be considered to have Hit Recently if your main skill Hits and is self-cast,","如果你的主技能是自施放的击中技能将自动启用此状态,"
+Have you Hit with a Spell Recently?,你近期有用法术击中?
 Have you Crit Recently?,你近期有造成暴击?
 This also implies that your Skills have Crit Recently.,这也意味着你的技能近期有暴击。
 Have your Skills Crit Recently?,你的技能近期有暴击?
@@ -574,6 +575,9 @@ Killed a poisoned enemy in the last 2 Seconds?,你2秒内有击杀中毒的敌�
 No summoned Totems in the past 2 seconds?,你2秒内没有召唤图腾?
 Have your Totems Killed Recently?,你的图腾近期有击杀?
 This also implies that your Totems have Killed Recently.,这也意味着你的图腾近期有击杀。
+Have your Totems Hit Recently?,你的图腾近期有击中?
+Have your Totems Hit with a Spell Recently?,你的图腾近期有用法术击中?
+This also implies that you Totems have Hit Recently.,这也意味着你的图腾近期有击中。
 Have you used a Brand Skill recently?,你近期有使用烙印技能?
 # of Enemies Killed by Totems Recently:,图腾近期击杀敌人数:
 Have your Minions Killed Recently?,你的召唤物近期有击杀?
