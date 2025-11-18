@@ -104,6 +104,7 @@ Impale DPS:,穿刺 DPS:
 Impale Damage:,穿刺伤害:
 Skill type-specific Stats:,技能特定类型数据:
 Gem Level:,宝石等级:
+Gem Quality:,宝石品质:
 Mana Cost:,魔力消耗:
 Mana % Cost:,魔力百分比消耗:
 Mana per second:,魔力每秒消耗:
@@ -143,6 +144,7 @@ Proj. Speed Mod:,投射物速度修正:
 Self hit Damage:,自击中伤害:
 Bounces Count:,弹跳次数:
 Aura Effect Mod:,光环效果修正:
+Herald Buff Mod:,捷增益修正:
 Mana Reserve Mod:,魔力保留修正:
 Life Reserve Mod:,生命保留修正:
 Curse Effect Mod:,诅咒效果修正:
@@ -466,7 +468,7 @@ Debuff Dur. Mult.:,负面效果时间加成:
 Stun Duration:,眩晕持续时间:
 Stun Avoid Chance:,避免眩晕几率:
 Stun Chance:,眩晕几率:
-Interupt Avoid Ch.:,避免打断几率:
+Interrupt Avoid Ch.:,避免打断几率:
 Block Stun Duration:,格挡眩晕持续时间:
 Damage Avoidance:,伤害避免:
 Avoid All Dmg Ch.:,所有伤害避免几率:
