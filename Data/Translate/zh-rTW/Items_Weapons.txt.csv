@@ -162,7 +162,7 @@ Tomahawk,征戰之斧
 "Barbed Club",銳刺木棒
 "Rock Breaker",破岩錘
 "Battle Hammer",強化戰錘
-"Flanged Mace",護體之錘
+"Flanged Mace",輪緣之錘
 "Ornate Mace",華麗之錘
 "Phantom Mace",幻象之錘
 "Dragon Mace",龍之錘
@@ -325,7 +325,7 @@ Sekhem,威能權杖
 "Oscillating Sceptre",猶疑權杖
 "Stabilising Sceptre",安定權杖
 "Alternating Sceptre",輪迴權杖
-"Fishing Rod",魚竿
+"Fishing Rod",釣竿
 "Carving Knife",雕刻刀
 "Boot Knife",戰亂刀
 "Copper Kris",銅器波刃
@@ -673,7 +673,7 @@ Widowhail,鰥寡之托
 "Maata's Teaching",瑪塔的教導
 "Rakiata's Dance",萊基亞塔的舞步
 "Ethereal Bow",以太之弓
-"The Burden of Shadows",沉重陰影
+"The Burden of Shadows",暗影重擔
 Nametaker,奪名
 "Grace of the Goddess",女神恩典
 "Serle's Masterwork",瑟雷的傑作
@@ -886,19 +886,19 @@ Greatmace,巨釘錘
 "Expert Crackling Quarterstaff",專家裂紋細杖
 "Expert Barrier Quarterstaff",專家屏障細杖
 "Expert Slicing Quarterstaff",專家斬割細杖
-"Hardwood Spear",硬木長鋒
-"Ironhead Spear",鐵木長鋒
-"Hunting Spear",狩獵長鋒
-"Winged Spear",羽翅長鋒
-"War Spear",戰爭長鋒
-"Forked Spear",叉狀長鋒
-"Barbed Spear",鉤刺長鋒
-"Broad Spear",闊刃長鋒
-"Crossblade Spear",十字刃長鋒
-"Seaglass Spear",海玻璃長鋒
-"Sword Spear",劍刃長鋒
-"Striking Spear",突擊長鋒
-"Helix Spear",螺旋長鋒
+"Hardwood Spear",硬木長矛
+"Ironhead Spear",鐵木長矛
+"Hunting Spear",狩獵長矛
+"Winged Spear",羽翅長矛
+"War Spear",戰爭長矛
+"Forked Spear",叉狀長矛
+"Barbed Spear",鉤刺長矛
+"Broad Spear",闊刃長矛
+"Crossblade Spear",十字刃長矛
+"Seaglass Spear",海玻璃長矛
+"Sword Spear",劍刃長矛
+"Striking Spear",突擊長矛
+"Helix Spear",螺旋長矛
 "Makeshift Crossbow",臨時十字弓
 "Tense Crossbow",緊繃十字弓
 "Sturdy Crossbow",堅固十字弓
@@ -1048,19 +1048,19 @@ INCOMPLETE,未完成
 "Aegis Quarterstaff",神禦細杖
 "Razor Quarterstaff",剃刃細杖
 "Dreaming Quarterstaff",夢境細杖
-"Steelhead Spear",鋼尖長鋒
-"Coursing Spear",追獵長鋒
-"Swift Spear",迅疾長鋒
-"Branched Spear",分支長鋒
-"Jagged Spear",鋸齒長鋒
-"Massive Spear",巨型長鋒
-"Orichalcum Spear",山銅長鋒
-"Pronged Spear",尖叉長鋒
-"Stalking Spear",潛獵長鋒
-"Flying Spear",翱翔長鋒
-"Grand Spear",宏偉長鋒
-"Spiked Spear",尖刺長鋒
-"Akoyan Spear",艾古亞長鋒
+"Steelhead Spear",鋼尖長矛
+"Coursing Spear",追獵長矛
+"Swift Spear",迅疾長矛
+"Branched Spear",分支長矛
+"Jagged Spear",鋸齒長矛
+"Massive Spear",巨型長矛
+"Orichalcum Spear",山銅長矛
+"Pronged Spear",尖叉長矛
+"Stalking Spear",潛獵長矛
+"Flying Spear",翱翔長矛
+"Grand Spear",宏偉長矛
+"Spiked Spear",尖刺長矛
+"Akoyan Spear",艾古亞長矛
 "Taut Crossbow",緊繃十字弓
 "Robust Crossbow",強健十字弓
 "Painted Crossbow",彩繪十字弓
@@ -1080,7 +1080,7 @@ INCOMPLETE,未完成
 Chainsting,鏈鎖之刺
 "The Hammer of Faith",信仰之錘
 "Demigod's Judgement",半神的決斷
-"Saitha's Spear",賽塔的長鋒
+"Saitha's Spear",賽塔的長矛
 "The Grand Design",宏偉設計
 Windpiercer,穿風者
 "Double Vision",雙重視界
@@ -1111,3 +1111,37 @@ Starcaller,喚星者
 "The Monastery Bell",修道院之鐘
 "Jiquani's Potential",吉卡尼的潛力
 "Unlight Extant",黯光存現
+"Reflecting Staff",映像之杖
+"Skullcrusher Quarterstaff",碎顱細杖
+"Soaring Spear",翱翔長矛
+"Guardian Spear",衛者長矛
+"Changeling Talisman",變形魔符
+"Nettle Talisman",蕁麻魔符
+"Cinderbark Talisman",灰樹皮魔符
+"Familial Talisman",家族魔符
+"Frenzied Talisman",狂亂魔符
+"Primal Talisman",原始魔符
+"Rabid Talisman",狂暴魔符
+"Vicious Talisman",惡毒魔符
+"Voltfang Talisman",伏特之牙魔符
+"Lumbering Talisman",笨重魔符
+"Roaring Talisman",咆哮魔符
+"Wingbeat Talisman",振翼魔符
+"Condemned Talisman",譴責魔符
+"Howling Talisman",狂嚎魔符
+"Fury Talisman",怒火魔符
+"Cruel Talisman",殘酷魔符
+"Spiny Talisman",尖錐魔符
+"Ashbark Talisman",燼木魔符
+"Fang Talisman",銳爪魔符
+"Fungal Talisman",真菌魔符
+"Alpha Talisman",統領魔符
+"Maji Talisman",聖賢魔符
+"Wildwood Talisman",荒林魔符
+"Thunder Talisman",天雷魔符
+"Jade Talisman",翠玉魔符
+"Amor Mandragora",阿莫爾．曼德拉戈拉
+"Fury of the King",帝王之怒
+"Atziri's Contempt",阿茲里的蔑視
+"Hysseg's Claw",希塞格之爪
+"The Flesh Poppet",血肉傀儡

@@ -79,7 +79,7 @@ Icestorm,冰风暴
 "Icicle Burst",爆环冰刺
 "Illusory Warp",幻象传送
 "Lightning Aegis",闪电护盾
-"Lightning Bolt",雷霆万钧
+"Lightning Bolt",雷光霹雳
 "Manifest Dancing Dervish",召唤幻化之刃德尔维希
 "Molten Burst"," 熔岩爆破"
 "Raise Spiders",召唤毒蛛
@@ -99,7 +99,7 @@ Icestorm,冰风暴
 "Summon Harbinger of Time",召唤时空先驱者
 "Summon Spectral Wolf",召唤幽狼
 "Tentacle Whip",藤蔓抽击
-"Bone Mortar",骇骨炮塔
+"Bone Mortar",白岩炮塔
 Plague,疫源
 "Rune Blast",爆裂符纹
 "Feast of Flesh",血肉盛宴
@@ -196,7 +196,7 @@ Unnamed2,未命名
 "Queen's Demand",女王敕令
 "Storm of Judgement",审判风暴
 "Summon Arbalists",召唤劲弩
-Twister,混沌之风
+Twister,旋龙
 Absolution,赦罪
 "Alchemist's Mark",炼金师印记
 Ambush,伏击
@@ -238,7 +238,7 @@ Blight,枯萎
 "Blood Rage",狂野怒火
 Bodyswap,灵体转换
 "Bone Armour",骨制战甲
-"Bone Offering",骸骨奉献
+"Bone Offering",装甲奉献
 Boneshatter,七伤破
 "Brand Recall",烙印召回
 "Burning Arrow",燃烧箭矢
@@ -252,16 +252,16 @@ Cleave,劈砍
 "Cold Snap",霜暴
 Conductivity,导电
 "Consecrated Path",奉献之路
-Contagion,瘟疫
+Contagion,顽疾
 "Conversion Trap",迷魅陷阱
 Convocation,号召
 "Corrupting Fever",腐灼热瘟
-"Crackling Lance",霹雳长枪
+"Crackling Lance",电殛长枪
 "Creeping Frost",电光寒霜
 Cremation,火葬
 Cyclone,旋风斩
 "Damage Infusion",伤害灌注
-"Dark Pact",暗夜血契
+"Dark Pact",暗夜契约
 Dash,冲刺
 "Death Aura",死神光环
 "Decoy Totem",诱饵图腾
@@ -269,7 +269,7 @@ Dash,冲刺
 Desecrate,亵渎
 Despair,绝望
 "Destructive Link",毁灭羁绊
-Determination,瓦尔.坚定
+Determination,坚定
 "Detonate Dead",爆灵术
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬图腾
@@ -291,7 +291,7 @@ Earthshatter,尖刺战吼
 Enfeeble,衰弱
 "Ensnaring Arrow",诱捕之箭
 Envy,嫉妒
-"Essence Drain",灵魂吸取
+"Essence Drain",精华吸取
 "Ethereal Knives",虚空匕首
 "Explosive Arrow",爆炸箭矢
 "Explosive Concoction",爆破灵药
@@ -354,8 +354,8 @@ Icefire,霜火
 "Icicle Mine",冰锥地雷
 "Immortal Call",不朽怒嚎
 Incinerate,烧毁
-"Infernal Blow",炼狱之击
-"Infernal Cry",炼狱战吼
+"Infernal Blow",炽焰之击
+"Infernal Cry",炽焰战吼
 "Infernal Sweep",炼狱裂击
 "Intimidating Cry",威吓战吼
 "Intuitive Link",直觉羁绊
@@ -372,7 +372,7 @@ Lacerate,破空斩
 "Lightning Trap",闪电陷阱
 "Lightning Warp",闪电传送
 Malevolence,怨毒光环
-Manabond,缚魔电场
+Manabond,缚魔电殛
 "Manifest Dancing Dervishes","召唤幻化之刃德尔维希  "
 "Mirror Arrow",镜像射击
 "Molten Shell",熔岩护盾
@@ -392,7 +392,7 @@ Portal,时空之门
 Precision,精准
 Pride,尊严
 "Protective Link",防御羁绊
-Puncture,放血
+Puncture,洞穿
 Punishment,惩戒
 "Purifying Flame",净化烈焰
 "Purity of Elements",元素净化
@@ -405,7 +405,7 @@ Punishment,惩戒
 "Raise Spectre",召唤灵体
 "Raise Zombie",魔卫复苏
 "Rallying Cry",激励战吼
-Reap,绝命之镰
+Reap,赤炼收割
 Reave,冲击波
 Reckoning,清算
 "Rejuvenation Totem",回春图腾
@@ -477,7 +477,7 @@ Sweep,横扫
 Tornado,龙卷旋风
 "Tornado Shot",龙卷射击
 "Toxic Rain",毒雨
-Unearth,亵渎之矛
+Unearth,开掘
 "Vaal Ancestral Warchief",瓦尔.先祖战士长
 "Vaal Arc",瓦尔.电弧
 "Vaal Blade Flurry",瓦尔：刀刃乱舞
@@ -584,7 +584,7 @@ Sit!,坐下！
 "Vaal Firestorm",瓦尔：烈炎风暴
 "Vaal Ice Shot",瓦尔：冰霜射击
 "Vaal Lightning Arrow",瓦尔：闪电箭矢
-"Vaal Reap",瓦尔：绝命之镰
+"Vaal Reap",瓦尔：赤炼收割
 "Vaal Rejuvenation Totem",瓦尔：回春图腾
 "Vaal Split Arrow",瓦尔：分裂箭矢
 "Who's a Good Doggy?",谁是好狗狗？
@@ -1000,7 +1000,7 @@ Malice,怨毒
 "Mana Tempest",魔力风暴
 "Manifest Weapon",显化武器
 "Mantra of Destruction",毁灭之兆
-"Mark as prey",标记猎物
+"Mark as prey",标记为猎物
 Maul,重殴
 Meditate,凝神思
 "Mirage Archer",幻影射手
@@ -1012,7 +1012,7 @@ Meditate,凝神思
 Parry,招架
 "Perfect Strike",完美一击
 "Permafrost Bolts",永冻弩箭
-"Phantasmal Arrow",幻影箭矢
+"Phantasmal Arrow",幻灵箭
 "Pinnacle of Power",力量巅峰
 "Plague Burst",灾难爆发
 "Plasma Blast",离子轰击

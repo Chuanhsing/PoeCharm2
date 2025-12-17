@@ -1,6 +1,6 @@
 "Animate Weapon",幻化武器
 "Arctic Armour",极地装甲
-Barrage,弹幕（辅）
+Barrage,弹幕
 "Bear Trap",捕熊陷阱
 "Blade Flurry",刀刃乱舞
 "Blade Vortex",飞刃风暴
@@ -50,7 +50,7 @@ Lacerate,破空斩
 "Mirror Arrow",魅影射击
 "Pestilent Strike",致疫打击
 "Phase Run",暗影迷踪
-"Plague Bearer",瘟疫使徒
+"Plague Bearer",灾难使徒
 "Poacher's Mark",盗猎者印记
 Precision,精准
 Puncture,放血
@@ -74,7 +74,7 @@ Riposte,击刃
 "Summon Ice Golem",召唤寒冰魔像
 "Temporal Chains",时空锁链
 "Tornado Shot",龙卷射击
-Unearth,亵渎之矛
+Unearth,开掘
 "Venom Gyre",剧毒旋风
 "Viper Strike",毒蛇打击
 "Volatile Dead",灵体火球
@@ -89,17 +89,17 @@ Bane,混沌之毒
 Blight,菌潮
 "Vaal Blight",瓦尔：枯萎
 Bodyswap,灵体转换
-"Bone Offering",骸骨奉献
+"Bone Offering",装甲奉献
 "Brand Recall",烙印召回
 Clarity,清晰
 "Vaal Clarity",瓦尔：清晰
 "Cold Snap",霜暴
 "Vaal Cold Snap",瓦尔：霜暴
 Conductivity,导电
-Contagion,瘟疫
+Contagion,顽疾
 "Conversion Trap",迷魅陷阱
 Convocation,号召
-"Dark Pact",暗夜血契
+"Dark Pact",暗夜契约
 Despair,绝望
 Discharge,解放
 Discipline,纪律
@@ -107,7 +107,7 @@ Discipline,纪律
 "Divine Ire",神圣寒冰
 "Elemental Weakness",元素要害
 Enfeeble,衰弱
-"Essence Drain",灵魂吸取
+"Essence Drain",精华吸取
 Fireball,火球
 "Vaal Fireball",瓦尔：火球
 Firestorm,烈炎风暴
@@ -229,7 +229,7 @@ Smite,惩击
 Steelskin,钢铁之肤
 "Summon Flame Golem",召唤烈焰魔像
 "Summon Stone Golem",召唤巨石魔像
-Sunder,残烬
+Sunder,大地震击
 Sweep,横扫
 "Tectonic Slam",破釜一击
 Vengeance,复仇
@@ -237,7 +237,7 @@ Vengeance,复仇
 Vitality,活力
 Vulnerability,脆弱
 "Warlord's Mark",督军印记
-Immolate,献祭(辅)
+Immolate,献祭
 "Detonate Mines",引爆地雷
 Portal,时空之门
 "Vaal Breach",瓦尔：裂隙
@@ -254,26 +254,26 @@ Tornado,龙卷旋风
 Blind,盲目（辅）
 "Block Chance Reduction",减少格挡几率(辅)
 "Cast On Critical Strike",暴击时施放(辅)
-"Cast on Death",死亡时施放（辅）
+"Cast on Death",被击败时施放
 Chain,连锁(辅)
 "Chance to Flee",几率逃跑(辅)
 "Charged Traps",充能陷阱（辅）
 "Close Combat",近战（辅）
 "Cluster Traps",散弹陷阱(辅)
-"Cold Penetration",冰霜穿透(辅)
+"Cold Penetration",冰霜穿透
 "Deadly Ailments",致命异常状态(辅)
 Enhance,增幅(辅)
 "Faster Attacks",快速攻击（辅）
 "Faster Projectiles",快速投射（辅）
-Fork,分裂(辅)
+Fork,分叉
 "Greater Multiple Projectiles",高阶多重投射(辅)
-Hypothermia,急冻(辅)
+Hypothermia,急冻
 Impale,穿刺
 "Ice Bite",霜咬(辅)
 "Lesser Multiple Projectiles",低阶多重投射（辅）
 "Lesser Poison",低阶毒化(辅)
-"Mana Leech",魔力偷取(辅)
-"Mirage Archer",幻影射手(辅)
+"Mana Leech",魔力偷取
+"Mirage Archer",幻影射手
 "Multiple Traps",多重陷阱(辅)
 Nightblade,夜刃（辅）
 Pierce,穿透(辅)
@@ -290,18 +290,18 @@ Trap,陷阱（辅）
 Volley,齐射（辅）
 "Added Chaos Damage",附加混沌伤害(辅)
 "Added Lightning Damage",附加闪电伤害（辅）
-"Arcane Surge",秘术增强(辅)
-Blasphemy,渎神（辅）
+"Arcane Surge",秘术增强
+Blasphemy,诅咒光环
 Bonechill,彻骨（辅）
-"Cast when Stunned",晕眩时施放(辅)
-"Cast while Channelling",吟唱时施放（辅）
+"Cast when Stunned",被晕眩时施放
+"Cast while Channelling",吟唱时施放
 Combustion,几率点燃(辅)
 "Charged Mines",充能地雷（辅）
 "Concentrated Effect",集中效应（辅）
-"Controlled Destruction",精准破坏(辅)
+"Controlled Destruction",精准破坏
 Decay,腐蚀(辅)
 Efficacy,效能(辅)
-"Elemental Focus",元素集中(辅)
+"Elemental Focus",元素集中
 "Elemental Proliferation",元素扩散(辅)
 "Energy Leech",能量偷取（辅）
 Enlighten,启蒙(辅)
@@ -314,29 +314,29 @@ Enlighten,启蒙(辅)
 "Increased Critical Strikes",提高暴击（辅）
 "Infernal Legion",炎军（辅）
 "Infused Channelling",灌能吟唱(辅)
-Innervate,闪电支配(辅)
+Innervate,亢奋
 Intensify,法术凝聚（辅）
 "Item Rarity",物品稀有度增幅(辅)
-"Lightning Penetration",闪电穿透(辅)
+"Lightning Penetration",闪电穿透
 "Meat Shield",肉盾（辅）
 Minefield,地雷网(辅)
 "Minion Damage",召唤生物伤害(辅)
 "Minion Life",召唤生物生命(辅)
 "Minion Speed",召唤生物速度(辅)
-"Elemental Army",元素大军（辅）
+"Elemental Army",元素大军
 "Physical to Lightning",物理转闪电(辅)
 "Power Charge On Critical",暴击获得暴击球(辅)
 "Blastchain Mine",链爆地雷（辅）
-"Spell Cascade",多重范围施法（辅）
-"Spell Echo",法术回响（辅）
+"Spell Cascade",多重范围施法
+"Spell Echo",施法回响
 "Unbound Ailments",异常爆发(辅)
 "Added Fire Damage",附加火焰伤害(辅)
 "Ancestral Call",先祖召唤（辅）
-Bloodlust,血怒（辅）
+Bloodlust,血怒
 Brutality,残暴(辅)
 "Burning Damage",增加燃烧伤害(辅)
-"Cast on Melee Kill",近战击败时施放(辅)
-"Cast when Damage Taken",受伤时施放(辅)
+"Cast on Melee Kill",近战击败时施放
+"Cast when Damage Taken",受伤时施放
 "Chance to Bleed",流血几率（辅）
 "Cold to Fire",寒冰转烈焰(辅)
 "Damage on Full Life",满血伤害（辅）
@@ -348,11 +348,11 @@ Fortify,护体（辅）
 Generosity,和善(辅)
 "Increased Duration",延长时间（辅）
 "Item Quantity",物品数量增幅(辅)
-Knockback,击退（辅）
+Knockback,击退
 "Less Duration",缩短时间（辅）
 "Life Gain on Hit",击中生命回复(辅)
 "Life Leech",生命偷取(辅)
-Maim,瘫痪（辅）
+Maim,瘫痪
 "Melee Physical Damage",近战物理伤害(辅)
 "Melee Splash",近战伤害扩散（辅）
 Multistrike,多重打击（辅）
@@ -360,14 +360,14 @@ Multistrike,多重打击（辅）
 Pulverise,粉碎（辅）
 Rage,怒火（辅）
 Inspiration,启迪（辅）
-Ruthless,无情(辅)
-"Spell Totem",法术图腾（辅）
+Ruthless,无情
+"Spell Totem",法术图腾
 Ambush,伏击
 Zealotry,奋锐光环
 "War Banner",战旗
 "Withering Step",凋零步
-"Withering Touch",凋零之触（辅）
-Unleash,释出（辅）
+"Withering Touch",凋零之触
+Unleash,释出
 Stun,眩晕（辅）
 "Chance to Poison",低阶毒化(辅)
 "Artillery Ballista",火力弩炮
@@ -415,10 +415,10 @@ Stun,眩晕（辅）
 "Kinetic Bolt",念动飞箭
 Spellslinger,法术节魔
 "Second Wind",助力之风（辅）
-Archmage,大法师（辅）
+Archmage,大法师
 "Awakened Increased Area of Effect",增大范围（强辅）
 "Awakened Elemental Damage with Attacks",武器元素伤害（强辅）
-"Sniper's Mark",狙击印记
+"Sniper's Mark",狙击之印
 "Splitting Steel",分裂钢刃
 "Creeping Frost",电光寒霜
 "Blazing Salvo",怒炎穿心
@@ -431,7 +431,7 @@ Hexblast,魔蛊爆炸
 "Arcanist Brand",奥法烙印
 "Void Sphere",虚空法球
 "Wintertide Brand",冬潮烙印
-"Infernal Cry",炼狱战吼
+"Infernal Cry",炽焰战吼
 "Ancestral Cry",先祖战吼
 Earthshatter,尖刺战吼
 "General's Cry",将军之吼
@@ -441,7 +441,7 @@ Snipe,狙击
 Hextouch,蛊咒（辅）
 "Awakened Hextouch",蛊咒【强辅】
 Predator,掠食（辅）
-"Impending Doom",末日将至（辅）
+"Impending Doom",末日将至
 Pinpoint,会心一击（辅）
 Swiftbrand,迅猛烙印（辅）
 "Fist of War",战争铁拳（辅）
@@ -486,7 +486,7 @@ NewPunishment,新惩戒
 "Lesser Reduced Mana Cost",低阶减小魔力消耗(辅)
 "Awakened Unleash",释出（强辅）
 "Urgent Orders",紧急号令（辅）
-Trinity,三位一体（辅）
+Trinity,三位一体
 Absolution,赦罪
 "Battlemage's Cry",魔武战号
 Boneshatter,七伤破
@@ -499,7 +499,7 @@ Exsanguinate,赤炼魔光
 Manabond,缚魔电场
 "Petrified Blood",赤血凝结
 "Rage Vortex",怒火漩涡
-Reap,绝命之镰
+Reap,赤炼收割
 "Shield Crush",盾牌碾压
 "Spectral Helix",灵幻旋斩
 "Storm Rain",暴雨箭
@@ -509,7 +509,7 @@ Arrogance,赤嚣（辅）
 "Critical Strike Affliction",毒化(辅)
 Bloodthirst,血气（辅）
 Cruelty,凌厉（辅）
-Lifetap,赤炼（辅）
+Lifetap,赤炼
 Earthbreaker,裂地之灵（辅）
 "Focused Ballista",弩炮集火（辅）
 Behead,斩首（辅）
@@ -521,7 +521,7 @@ Behead,斩首（辅）
 "Protective Link",防御羁绊
 "Intuitive Link",直觉羁绊
 "Destructive Link",毁灭羁绊
-Wildfire,地狱火群
+Wildfire,野火
 "Energy Blade",能量之刃
 "Lightning Conduit",闪电通道
 "Galvanic Field",电流场
@@ -547,9 +547,9 @@ Onslaught,猛攻(辅)
 "Divine Blessing",神圣祝福（辅）
 "Mark On Hit",击中时施加印记（辅）
 "Eternal Blessing","永恒祝福 （辅）"
-Overcharge,过载（辅）
-"Cursed Ground",诅咒之地辅助
-"Hex Bloom",魔蛊绽放辅助
+Overcharge,过载
+"Cursed Ground",诅咒之地
+"Hex Bloom",魔蛊绽放
 "Vaal Arctic Armour",瓦尔：极地装甲
 "Vaal Reap",瓦尔：绝命之镰
 "Vaal Animate Weapon",瓦尔：幻化武器
@@ -565,7 +565,7 @@ Overcharge,过载（辅）
 "Playtest Slam",无穷猛击
 Quickstep,疾步
 "Returning Projectiles",投射物归返（辅）
-Momentum,动量（辅）
+Momentum,动量
 "Manaforged Arrows",法铸箭矢（辅）
 "Prismatic Burst",棱光魔爆（辅）
 Trauma,内伤（辅）
@@ -575,12 +575,12 @@ Devour,吞噬（辅）
 Flamewood,焚木烈火（辅）
 "Corrupting Cry",腐化战吼（辅）
 "Guardian's Blessing",守卫祝福（辅）
-Sacrifice,牺牲（辅）
+Sacrifice,替代牺牲
 "Frigid Bond",冰冽连接（辅）
 "Locus Mine",核心地雷（辅）
 Sadism,凌虐（辅）
 "Controlled Blaze",精准炽炎（辅）
-Volatility,无常（辅）
+Volatility,无常
 Automation,自动化
 "Call to Arms",武装召唤
 "Sacred Wisps",圣洁鬼灵（辅）
@@ -893,7 +893,7 @@ Premeditation,先见之明
 "Armour Break I","护甲破损 I"
 "Armour Break II","护甲破损 II"
 "Armour Break III","护甲破损 III"
-Rupture,残破（辅）
+Rupture,残破
 "Dazing Cry",恍神咆哮
 "Elemental Armament I","元素军械 I"
 "Elemental Armament II","元素军械 II"
@@ -1266,7 +1266,7 @@ Inhibitor,抑制器
 "Hardy Totems II","坚韧图腾 II"
 "Tawhoa's Tending",塔赫亚的照料
 "Encroaching Ground",侵蚀地面
-"Living Lightning",活体闪电（辅）
+"Living Lightning",活体闪电
 "Living Lightning II","活体闪电 II"
 "Frozen Spite",冰冻怨恨
 "Piety's Mercy",派蒂的怜悯
@@ -1364,3 +1364,4 @@ Thunderstorm,雷霆风暴
 "Preserving Stillness",静谧守恒
 Windburst,风爆术（辅）
 "Kinetic Instability",念动失稳（辅）
+"Coursing Current",奔窜电流

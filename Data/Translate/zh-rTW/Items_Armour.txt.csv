@@ -68,7 +68,7 @@
 "Runic Gauntlets",魔符護手
 "Iron Greaves",鐵鍛脛甲
 "Steel Greaves",冷鋼脛甲
-"Plated Greaves",堅鐵脛甲
+"Plated Greaves",鎧甲脛甲
 "Reinforced Greaves",強化脛甲
 "Antique Greaves",古鋼脛甲
 "Ancient Greaves",遠古脛甲
@@ -79,7 +79,7 @@
 "Darksteel Treads",暗鋼鐵靴
 "Brimstone Treads",硫磺鐵靴
 "Kaom's Greaves",岡姆脛甲
-"Rawhide Boots",生皮短靴
+"Rawhide Boots",生皮長靴
 "Goathide Boots",羊皮短靴
 "Deerskin Boots",鹿皮短靴
 "Nubuck Boots",砂影短靴
@@ -147,7 +147,7 @@ Chestplate,胸甲
 "Sun Plate",日光之鎧
 "Colosseum Plate",決鬥之鎧
 "Majestic Plate",莊嚴之鎧
-"Golden Plate",金耀之鎧
+"Golden Plate",黃金鎧甲
 "Crusader Plate",征戰重鎧
 "Astral Plate",星芒戰鎧
 "Gladiator Plate",角鬥重鎧
@@ -314,14 +314,14 @@ Sallet,輕鐵護盔
 "Winter Crown",凜冬之冠
 "Blizzard Crown",暴雪之冠
 "Golden Wreath",金黃花環
-"Golden Visage",黃金頭飾
+"Golden Visage",黃金面紗
 "Bone Helmet",喚骨頭盔
 "Runic Helm",魔符頭飾
 "Runic Crest",魔符之冠
 "Runic Crown",魔符皇冠
 "Ambu's Charge",安姆布的戰甲
 Ashrend,拂燼
-"Belly of the Beast",獸腹
+"Belly of the Beast",巨獸之腹
 Bramblejack,刺棘寶甲
 Briskwrap,荒途
 "Bronn's Lithe",布隆的影衣
@@ -383,7 +383,7 @@ Hrimsorrow,冰冷之眼
 "Shackles of the Wretched",悲運之縛
 Slitherpinch,蒼蟒之鱗
 Snakebite,蝮吻
-Thunderfist,轟天雷
+Thunderfist,雷拳
 "Vaal Caress",瓦爾的靈手
 Abyssus,深淵之喚
 "Alpha's Howl",極地之嗥
@@ -702,7 +702,7 @@ Stormseeker,風暴千尋
 "Utula's Hunger",烏圖拉的飢餓
 "Akoya's Gaze",艾古亞的凝視
 "The Trickster's Smile",戲法師的微笑
-Pragmatism,實用主義
+Pragmatism,務實主義
 "Replica Covenant",贗品．血誓
 Gamblesprint,豪賭
 "Replica Heatshiver",贗品．寒焰
@@ -1508,3 +1508,4 @@ Scornflux,蔑視之流
 "The Caged Mammoth",囚籠猛獸
 "Refuge in Isolation",孤寂庇所
 "Rigwald's Hunt",瑞佛之狩
+"Sacrificial Regalia",獻祭法衣

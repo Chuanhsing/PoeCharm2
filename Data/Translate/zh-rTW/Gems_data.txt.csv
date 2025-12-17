@@ -130,7 +130,7 @@ Dash,幻步
 Desecrate,褻瀆
 Despair,絕望
 "Destructive Link",連結：破壞
-Determination,瓦爾．堅定
+Determination,堅定
 "Detonate Dead",屍體爆破
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬圖騰
@@ -194,7 +194,7 @@ Exsanguinate,抽血
 "Fire Weapon",烈焰武器
 Fireball,火球
 Firestorm,烈炎風暴
-"Flame Breath",火焰之息
+"Flame Breath",火焰吐息
 "Flame Dash",烈焰衝刺
 "Flame Link",連結：烈焰
 "Flame Surge",怒焰奔騰
@@ -214,7 +214,7 @@ Focus,專注
 "Forbidden Rite",禁忌儀式
 "Freeze Mine",冰凍地雷
 "Freezing Pulse",冰霜脈衝
-Frenzy,狂怒球
+Frenzy,狂怒
 "Frost Blades",冰霜之刃
 "Frost Bolt Channel",持續施法寒冰彈
 "Frost Bomb",寒霜爆
@@ -279,7 +279,7 @@ Lacerate,破空斬
 "Leap Slam",躍擊
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
-"Lightning Bolt",雷擊
+"Lightning Bolt",雷彈
 "Lightning Clone Retaliation",閃電複製體復仇
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
@@ -360,7 +360,7 @@ Riptide,激流
 "Shield Shatter",盾牌碎裂
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
-Shockwave,衝擊波
+Shockwave,震波
 "Shockwave Totem",震波圖騰
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
@@ -380,7 +380,7 @@ Spark,電球
 "Spectral Spinning Weapon",靈製武器
 "Spectral Spirits",幽魂之靈
 "Spectral Throw",靈體投擲
-Spellslinger,法術回音
+Spellslinger,拋法者
 "Spirit Burst",靈體爆破
 "Spirit Offering",靈魂奉獻
 "Split Arrow",分裂箭矢
@@ -397,7 +397,7 @@ Steelskin,鋼筋鐵骨
 "Storm of Judgement",審判風暴
 "Storm Rain",暴風雷雨
 Stormbind,風暴術符
-"Stormblast Mine",風爆地雷
+"Stormblast Mine",風暴地雷
 "Summon Arbalists",召喚弩兵
 "Summon Bestial Rhoa",召喚兇猛恐喙鳥
 "Summon Bestial Snake",召喚兇猛蟒蛇
@@ -439,7 +439,7 @@ Taunt,嘲諷
 "Tawhoa's Chosen",塔赫亞的抉擇
 "Tectonic Slam",破體之擊
 "Tempest Shield",暴風之盾
-"Temporal Chains",時空鎖鍊
+"Temporal Chains",時空鎖鏈
 "Temporal Rift",時空裂隙
 "Tentacle Whip",觸手鞭擊
 "Thirst for Blood",嗜血
@@ -795,8 +795,8 @@ Eviscerate,剔骨
 "Glacial Shield Swipe",冰川盾擊
 "Jet of Flame",烈焰噴射
 "Puncture of Shanking",腿脛放血
-"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的形象
-"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的形象
+"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的幻影
+"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻影
 "Summon Demon Beast",召喚惡魔野獸
 "Summon Demon Harpy",召喚惡魔鷹身
 "Summon Demon Imp",召喚惡魔小鬼
@@ -856,7 +856,7 @@ BurningNova,燃燒新星
 "Cluster Grenade",集束擲彈
 "Combat Frenzy",戰鬥狂怒
 Comet,彗星
-"Command: {0} ","命令：{0} "
+"Command: {0} ","號令：{0} "
 "Consume Corpse",噬屍
 "Crossbow Shot",十字弓射擊
 "Crystal Explosion",水晶爆炸
@@ -918,7 +918,7 @@ Hypothermia,急凍
 "Ice Bomb",寒冰炸彈
 "Ice Shard",寒冰碎片
 "Ice Shards",寒冰碎片
-"Ice Strike",冰擊
+"Ice Strike",霜星連擊
 Impale,穿刺
 "Incendiary Shot",烈焰射擊
 "Incendiary Siege Cascade",烈焰圍城爆發
@@ -938,12 +938,12 @@ Impale,穿刺
 "Load Hailstorm Rounds",裝填冰雹彈藥
 "Load High Velocity Rounds",裝填高速彈藥
 "Load Ice Shards",裝填寒冰碎片
-"Load Incendiary Shot",裝填烈焰矢
+"Load Incendiary Shot",裝填烈焰射擊
 "Load Permafrost Bolts",裝填永凍弩箭
 "Load Plasma Blast",電漿強擊矢彈藥
 "Load Rapid Shot",裝填疾射
 "Load Shockburst Rounds",裝填震爆彈藥
-"Load Siege Cascade",裝填圍城爆發
+"Load Siege Cascade",裝填圍城爆發彈藥
 "Load Stormblast Bolts",裝填雷暴彈藥
 "Mace Strike",錘之打擊
 "Magma Barrier",熔岩屏障
@@ -972,7 +972,7 @@ Meditate,冥想
 "Profane Ritual",瀆神祭祀
 Punch,正拳
 "Quarterstaff Strike",細杖打擊
-"Raging Spirits",怒炎之靈
+"Raging Spirits",憤怒狂靈
 "Raise Shield",展開護盾
 Rampage,暴怒
 "Rapid Assault",極速進攻
@@ -1007,8 +1007,8 @@ Sacrifice,獻祭
 "Sorcery Ward",巫術護盾
 "Soul Offering",靈魂獻祭
 Soulbreaker,破魂者
-"Spear Stab",長鋒刺擊
-Spearfield,長鋒之錐
+"Spear Stab",長矛刺擊
+Spearfield,長矛之錐
 "Spectre: {0} ",幽魂：{0}
 "Spinning Inferno",旋轉獄火
 "Spiral Volley",螺旋之弦
@@ -1026,7 +1026,7 @@ Stampede,踐踏
 "Summon Infernal Hound",召喚獄炎獵犬
 "Summon Rhoa Mount",召喚恐喙鳥座騎
 "Summon Spell Totem",召喚之術圖騰
-"Summon Wolf",召喚狼
+"Summon Wolf",召喚惡狼
 "Supercharged Slam",超載重擊
 "Sword Slash",劍刃斬
 "Tempest Bell",風暴之鐘
@@ -1123,7 +1123,7 @@ Convalescence,恢復期
 "Corpse Conservation",屍體保存
 Corrosion,衰敗
 "Corrupting Cry",汙染戰吼
-"Coursing Current",奔竄電流
+"Coursing Current",雷鳴湍流
 "Crackling Barrier",電流屏障
 "Crazed Minions",發狂召喚物
 Crescendo,逐漸增強
@@ -1178,7 +1178,7 @@ Execute,處刑
 Expanse,廣闊區域
 Expedite,疾速
 "Exploit Weakness",攻其之弱
-"Explosive Spear",爆炸長鋒
+"Explosive Spear",爆炸長矛
 Extraction,提取
 "Fangs of Frost",刺骨寒冰
 "Fast Forward",快速前進
@@ -1249,7 +1249,7 @@ Lifetap,活栓
 "Lightning Infusion",閃電灌注
 "Lightning Mastery",閃電專精
 "Lightning Penetration",閃電穿透
-"Lightning Spear",閃電長鋒
+"Lightning Spear",閃電長矛
 Lockdown,封鎖
 "Long Fuse",長引線
 Longshot,遠程射擊
@@ -1337,8 +1337,8 @@ Shroud,幽影
 "Soul Drain",靈魂吸取
 "Soul Thief",靈魂盜竊
 Spar,打擊練習
-"Spear Throw",長鋒投擲
-"Spear of Solaris",日耀長鋒
+"Spear Throw",長矛投擲
+"Spear of Solaris",日耀長矛
 "Spectral Volley",靈體齊射
 "Spell Cascade",法術湧流
 "Spell Echo",法術迴響
@@ -1457,7 +1457,7 @@ Snap,迸裂
 "Triggered Caustic Cloud",觸發腐蝕之雲
 "Valako's Charge",瓦拉庫的衝鋒
 "Void Illusion",虛空幻影
-"Volcanic Steps",火山之步
+"Volcanic Steps",熔火步伐
 "Arm Whack",手臂揮擊
 "Bladefall of Trarthus",特拉特斯虛空刀雨
 "Blast Rain of Trarthus",特拉特斯爆裂箭雨
@@ -1518,7 +1518,7 @@ Starfall,星空殞落
 "The Great Avalanche",浩劫雪崩
 "The Grey Wind Howls",灰風咆嘯
 Thunderburst,雷霆爆裂
-Thunderstorm,天雷暴雨
+Thunderstorm,閃電風暴
 "Violent Desire",暴力渴望
 "Wall of Force",力量之壁
 "Ward Shatter",保護碎裂
@@ -1526,3 +1526,67 @@ Thunderstorm,天雷暴雨
 "Will of the Lords",君主意志
 Windburst,風破
 "Wreathed in Light",光暈纏繞
+"Accelerated Growth",飛速生長
+"Align Fate",命運同調
+Annihilation,湮滅
+Apocalypse,壞滅災變
+"Arctic Howl",極地狂嚎
+Briarpatch,荊棘叢
+"Cackling Companions",奸笑鬣狗群
+"Catalysing Discharge",催化解放
+"Crash Lightning",雷殞
+"Creeping Chill",寒冰蔓延
+"Cross Slash",縱橫劈斬
+"Deadly Resolve",致死決意
+Devour,吞噬
+Electromagnetism,磁化電極
+"Empowered Sparks",強化電球
+Entangle,纏結
+"Eternal Rage",無盡怒火
+"Fan the Flames",灼炎扇舞
+"Feral Invocation",野性祈求
+"Fiery Reclamation",燃炎回收
+"Fury of the Mountain",山嶺之怒
+Hailstorm,冰雹
+"Kelari's Brutality",克拉里的殘酷
+"Kelari's Deception",克拉里的欺瞞
+"Kelari's Judgment",克拉里的審判
+"Kelari's Malediction",克拉里的惡言
+"Kelari, the Tainted Sands",黯染飛砂．克拉里
+"Lunar Assault",月光突襲
+"Lunar Blessing",月光賜福
+Meteor,隕石
+Meteors,隕石群
+"Mirage Deadeye",幻影銳眼
+"Mirror of Refraction",鏡面折射
+"Molten Crash",熔岩破滅
+"Moment of Vulnerability",可趁之刻
+Moonbeam,映月光束
+"Navira's Calming",納維拉的平撫
+"Navira's Embrace",納維拉的擁抱
+"Navira's Fracturing",納維拉的封凍
+"Navira's Oasis",納維拉的綠洲
+"Navira's Well",納維拉的水井
+"Navira, the Last Mirage",最終幻象．納維拉
+"Oil Barrage",黏油轟擊
+"Poison Spores",劇毒孢子
+Pounce,猛撲
+"Predator's Mark",掠食者印記
+"Primal Avatar",荒野化身
+Rend,撕扯
+"Ruzhan's Brand",魯兹安的烙印
+"Ruzhan's Fury",魯兹安的怒火
+"Ruzhan's Reckoning",魯兹安的清算
+"Ruzhan's Trap",魯兹安的陷阱
+"Ruzhan's Zealotry",魯兹安的狂熱
+"Ruzhan, the Blazing Sword",赤炎利劍．魯兹安
+Sandblast,黃沙爆破
+"Savage Fury",殘猛怒氣
+"Shattering Spite",憎惡碎綻
+Shred,裂碎
+"Spell Totem",法術圖騰
+"Static Shocks",靜電震盪
+"Thrashing Vines",藤蔓痛打
+"Walking Calamity",行走災厄
+"Wing Blast",翅翼猛襲
+"Wolf Pack",召喚惡狼

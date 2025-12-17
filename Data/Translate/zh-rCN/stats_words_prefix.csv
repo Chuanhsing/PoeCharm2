@@ -3,7 +3,7 @@ Fulcent,耀眼
 " Abyss"," 深渊"
 " Apex"," 绝境"
 " Bind"," 羁绊"
-" Cage",禁锢
+" Cage"," 囚笼"
 " Chambers"," 密室"
 " Coffers"," 冥棺"
 " Core"," 星核"
@@ -38,7 +38,7 @@ Fulcent,耀眼
 " Slag"," 残石"
 " Solitude"," 孤独之境"
 " Spires"," 尖塔"
-" Trap",陷阱
+" Trap"," 陷阱"
 " Vault"," 宝库"
 " View"," 美景"
 " Vine"," 藤壁"
@@ -85,13 +85,13 @@ Fulcent,耀眼
 " Butcher"," 屠斧"
 " Call"," 灵唤"
 " Carapace"," 魔甲"
-" Caress",抚触
+" Caress"," 加护"
 " Chant"," 圣曲"
 " Charm"," 礼器"
 " Choker"," 圣符"
 " Circle"," 魔环"
 " Clasp"," 扣环"
-" Claw",利爪
+" Claw",暗影爪
 " Cloak"," 隐袍"
 " Clutches"," 灵掌"
 " Coat"," 神袍"
@@ -127,9 +127,9 @@ Fulcent,耀眼
 " Gnash"," 石崩"
 " Goad"," 风唤"
 " Gorget"," 安魂符"
-" Grasp",抓握
+" Grasp"," 魂掌"
 " Grinder"," 灵杵"
-" Grip",紧攥
+" Grip"," 灵指"
 " Guard"," 军卫"
 " Guardian"," 守卫者"
 " Guide"," 真眼"
@@ -151,7 +151,7 @@ Fulcent,耀眼
 " Jack"," 保身"
 " Knell"," 丧仪"
 " Knot"," 魔语"
-" Knuckle",指节
+" Knuckle"," 灵具"
 " Lash"," 饰带"
 " League"," 盟誓"
 " Leash"," 护绳"
@@ -186,7 +186,7 @@ Fulcent,耀眼
 " Rain"," 之雨"
 " Ram"," 冲撞者"
 " Razor"," 剃刃"
-" Reach",触及
+" Reach"," 目光"
 " Rend"," 斩刃"
 " Road"," 之途"
 " Roar"," 咆哮"
@@ -210,7 +210,7 @@ Fulcent,耀眼
 " Shroud"," 幽影"
 " Siege"," 破城弩"
 " Skewer"," 锐刃"
-" Skin",表皮
+" Skin"," 钢肤"
 " Slayer"," 裂劈"
 " Slicer"," 斩灭"
 " Slippers"," 凉靴"
@@ -219,7 +219,7 @@ Fulcent,耀眼
 " Sole"," 之足"
 " Song"," 之曲"
 " Span"," 漫幕"
-" Spark",火花
+" Spark"," 夜星"
 " Spawn"," 再生"
 " Spear"," 长锋"
 " Spell"," 之术"
@@ -248,7 +248,7 @@ Fulcent,耀眼
 " Touch"," 温存"
 " Tower"," 之塔"
 " Track"," 踪迹"
-" Trail",踪痕
+" Trail"," 远道"
 " Tread"," 漫步"
 " Turn"," 弯环"
 " Twine"," 无尽之弦"
@@ -320,7 +320,7 @@ Fulcent,耀眼
 " Oculus"," 眼体"
 " Orb"," 天球"
 " Sepulchre"," 墓场"
-" Stone",赠礼
+" Stone"," 顽石"
 " Writ"," 书状"
 " Oath"," 誓约"
 " Deed"," 证书"
@@ -331,7 +331,7 @@ Fulcent,耀眼
 " Pact"," 协约"
 " Covenant"," 协议"
 " Testament"," 证据"
-" Vow",誓约
+" Vow"," 誓言"
 " Tool"," 工具"
 " Kit"," 工具包"
 " Gear"," 道具"
@@ -360,7 +360,7 @@ Fulcent,耀眼
 " Enterprise"," 进取的"
 " Exploration"," 探索"
 " Journey"," 旅程"
-" Expedition"," 先祖秘藏"
+" Expedition"," 远征"
 " Voyage"," 远航"
 " Trek"," 远行"
 " Campaign"," 战役"
