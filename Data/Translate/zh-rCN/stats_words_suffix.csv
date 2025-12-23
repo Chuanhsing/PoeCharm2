@@ -74,7 +74,7 @@ Tranquil,宁静
 Twisted,灾变
 Unholy,邪灵
 Warped,曲空
-Wraith,恶灵
+Wraith,凶灵
 Apocalypse,天启
 Armageddon,末日
 Beast,兽语
@@ -203,7 +203,7 @@ Timeworn,弥时
 Uneasy,躁动
 Skittering,飞掠
 Mobilised,流动
-Sacred,神圣
+Sacred,神圣的
 Forlorn,绝命
 Ransacked,洗劫的
 Plundered,掳掠的
@@ -217,7 +217,7 @@ Glimmering,微光
 Menacing,险恶
 Concealed,隐世
 Ravaged,摧残的
-Ageless,永恒
+Ageless,永恒的
 Evergreen,常青
 Filthy,脏污
 Destitute,潦倒
@@ -241,7 +241,7 @@ Murky,泥泞
 Polluted,污染
 Silted,淤塞
 Vast,广袤
-Wild,荒野
+Wild,狂野的
 Untamed,不羁
 Sprawling,广大
 Harsh,艰险
@@ -294,3 +294,10 @@ Tender,柔嫩
 Amorous,缱绻
 Infinite,无尽
 Flesh,血肉
+Druidic,德鲁伊的
+Maji,众神
+Wildwood,荒林
+Misty,迷雾的
+Draíocht,德莱契
+Wispborne,鬼灵之裔
+Primal,原始的
