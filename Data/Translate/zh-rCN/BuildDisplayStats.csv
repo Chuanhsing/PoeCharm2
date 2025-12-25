@@ -92,6 +92,7 @@ Lightning Max Hit:,闪电击中最大承受值:
 Chaos Max Hit:,混沌击中最大承受值:
 You do not have enough Accuracy for Precise Technique,你未拥有满足【技艺精湛】需求的命中值
 "Total Life:",最大生命:
+"%Inc Life:",生命上限提高:
 "%Inc Life from Tree:",生命加成(天赋):
 "Unreserved Life:",未保留生命:
 Your unreserved Life is below 1,你的未保留生命低于1
@@ -116,6 +117,8 @@ ES Recovery:,能量护盾恢复:
 "ES Leech/On Hit Rate:","能量护盾偷取(击中速率)"
 "ES Leech/Gain per Hit:","能量护盾偷取(击中获得)"
 Rage Regen:,怒火再生:
+"Total Spirit:",最大精魂:
+"Unreserved Spirit:",未保留精魂:
 "Evasion rating:",闪避值:
 "%Inc Evasion from Tree:",闪避加成(天赋):
 "Evade Chance:",闪避几率:
@@ -145,3 +148,4 @@ Minion Bleed DPS exceeds in game limit,召唤物流血DPS超过游戏上限
 Minion Ignite DPS exceeds in game limit,召唤物点燃DPS超过游戏上限
 Minion Poison dps exceeds in game limit,召唤物中毒DPS超过游戏上限
 Minion DoT DPS exceeds in game limit,召唤物持续伤DPS超过游戏上限
+"Presence Radius:",在场范围:
