@@ -1,7 +1,7 @@
 " Abyss"," 深淵"
 " Apex"," 絕境"
 " Bind"," 羈絆"
-" Cage"," 囚籠"
+" Cage",籠鎖
 " Chambers"," 密室"
 " Coffers"," 冥棺"
 " Core"," 星核"
@@ -37,7 +37,7 @@
 " Slag"," 殘石"
 " Solitude"," 孤獨之境"
 " Spires"," 尖塔"
-" Trap"," 陷阱"
+" Trap",陷阱
 " Vault"," 寶庫"
 " View"," 美景"
 " Vine"," 藤壁"
@@ -84,13 +84,13 @@
 " Butcher"," 屠斧"
 " Call"," 靈喚"
 " Carapace"," 魔甲"
-" Caress"," 加護"
+" Caress",撫觸
 " Chant"," 聖曲"
 " Charm"," 禮器"
 " Choker"," 聖符"
 " Circle"," 魔環"
 " Clasp"," 扣環"
-" Claw"," 殺手爪"
+" Claw",利爪
 " Cloak"," 隱袍"
 " Clutches"," 靈掌"
 " Coat"," 神袍"
@@ -126,9 +126,9 @@
 " Gnash"," 石崩"
 " Goad"," 風喚"
 " Gorget"," 安魂符"
-" Grasp"," 魂掌"
+" Grasp",握持
 " Grinder"," 靈杵"
-" Grip"," 靈指"
+" Grip",緊握
 " Guard"," 軍衛"
 " Guardian"," 守衛者"
 " Guide"," 真眼"
@@ -150,7 +150,7 @@
 " Jack"," 保身"
 " Knell"," 喪儀"
 " Knot"," 魔語"
-" Knuckle"," 靈具"
+" Knuckle",指節
 " Lash"," 飾帶"
 " League"," 盟誓"
 " Leash"," 護繩"
@@ -185,7 +185,7 @@
 " Rain"," 之雨"
 " Ram"," 衝撞者"
 " Razor"," 剃刃"
-" Reach"," 目光"
+" Reach",探伸
 " Rend"," 斬刃"
 " Road"," 之途"
 " Roar"," 巨吼"
@@ -209,7 +209,7 @@
 " Shroud"," 幽影"
 " Siege"," 破城弩"
 " Skewer"," 銳刃"
-" Skin"," 鋼膚"
+" Skin",皮囊
 " Slayer"," 裂劈"
 " Slicer"," 斬殺"
 " Slippers"," 涼靴"
@@ -218,9 +218,9 @@
 " Sole"," 之足"
 " Song"," 之曲"
 " Span"," 漫幕"
-" Spark"," 電球"
+" Spark",火花
 " Spawn"," 再生"
-" Spear"," 長矛"
+" Spear"," 長鋒"
 " Spell"," 之術"
 " Sphere",天體
 " Spike"," 尖矢"
@@ -247,7 +247,7 @@
 " Touch"," 溫存"
 " Tower"," 之塔"
 " Track"," 蹤跡"
-" Trail"," 遠道"
+" Trail",痕跡
 " Tread"," 漫步"
 " Turn"," 彎環"
 " Twine"," 無盡之弦"
@@ -293,7 +293,7 @@
 " Delirium",迷幻
 " Solace",撫慰
 " Wisdom",智慧
-" Desire",渴望
+" Desire",欲念
 " Creed",教則
 " Wound",傷口
 " Blood",鮮血
@@ -302,7 +302,7 @@
 " Essence",精華
 " Dew",露水
 " Ichor",蝕骨
-" Stone",石肌
+" Stone",石頭
 " Sliver",流銀
 " Splinter",碎片
 " Vessel"," 之器"
@@ -336,7 +336,7 @@
 " Pact","  協議"
 " Covenant","  盟約"
 " Testament","  遺囑"
-" Vow","  發誓"
+" Vow",誓約
 " Tool","  工具"
 " Kit","  套件"
 " Gear","  齒輪"
@@ -365,7 +365,7 @@
 " Enterprise","  企業"
 " Exploration","  勘探"
 " Journey","  旅行"
-" Expedition",探險
+" Expedition","  遠征"
 " Voyage","  航程"
 " Trek","  跋涉"
 " Campaign","  活動"
@@ -374,7 +374,7 @@
 " Colony","  殖民"
 " Outpost","  前哨"
 " Mandate","  授權"
-" Territory","  領土"
+" Territory",地盤
 " Lands","  土地"
 " Excavation","  挖掘"
 " Tale","  故事"
@@ -434,23 +434,23 @@
 " Course",航向
 " Path",路徑
 " Compass",羅盤
-" Crosscut",橫穿
+" Crosscut",橫切
 " Direction",方向
 " Navigation",導航
 " Route",路線
-" Trajectory",彈道
-" Bearings",方位
+" Trajectory",軌跡
+" Bearings",方位角
 " Intent",意圖
 " Vector",向量
 " Control",控制
 " Charge",能量球
-" Progression",進度
+" Progression",進展
 " Order",秩序
 " Choice",選擇
 " Resolve",決心
-" Determination",堅定
+" Determination",決意
 " Gambit",策略
-" Carving",雕刻的
+" Carving",雕刻
 " Full DPS",完整秒傷
 " Combined DPS",綜合秒傷
 " Hit DPS",擊中秒傷
@@ -578,3 +578,6 @@
 " Project",計畫的
 " Design",設計的
 " Terraform",改造的
+" Grind",研磨
+" Hustle",奔波
+" Toil",辛勞

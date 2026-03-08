@@ -1206,7 +1206,7 @@ Battlemage,戰法
 "Can Allocate Passives from the Marauder's starting point",可以從野蠻人的起點配置天賦
 "Can Allocate Passives from the Duelist's starting point",可以從決鬥者的起點配置天賦
 "Can Allocate Passives from the Shadow's starting point",可以從暗影刺客的起點配置天賦
-"Can Allocate Passives from the Templar's starting point",可以從聖騎士的起點配置天賦
+"Can Allocate Passives from the Templar's starting point",可以從聖堂武僧的起點配置天賦
 "+40 to Strength","+40 力量"
 "+40 to Dexterity","+40 敏捷"
 "+40 to Intelligence","+40 智慧"
@@ -1527,7 +1527,7 @@ Battlemage,戰法
 "Attacks with Two Handed Melee Weapons deal 10% increased Damage with Ailments","使用雙手近戰武器攻擊增加 10% 異常狀態傷害"
 "5% reduced Enemy Stun Threshold","減少 5% 敵人暈眩門檻"
 "20% increased Stun Duration with Two Handed Melee Weapons on Enemies","使用雙手近戰武器時增加 20% 敵人暈眩時間"
-"5% chance to deal Double Damage","5% 機率造成 2 倍傷害"
+"5% chance to deal Double Damage","5% 機率造成兩倍傷害"
 "20% increased Attack Critical Strike Chance while Dual Wielding","雙持時增加 20% 攻擊暴擊率"
 "30% increased Defences from Equipped Shield","增加 30% 從盾牌獲取的防禦"
 "Attack Skills deal 14% increased Damage with Ailments while holding a Shield","持盾時攻擊技能增加 14% 異常狀態傷害"
@@ -4512,13 +4512,13 @@ Battlemage,戰法
 "-20% to all [ElementalDamage|Elemental] [Resistances]","-20% 全[ElementalDamage|元素][Resistances|抗性]"
 "15% increased [Charm] Charges gained","增加 15% [Charm|護符]充能獲取"
 "25% increased bonuses gained from Equipped Rings and Amulets","增加 25%自已裝備戒指和項鍊獲得的加成"
-"+1 Ring Slot","戒指欄位 +1"
+"+1 Ring Slot","+1 戒指槽位"
 "20% more [Charm] Charges gained","獲得 20% 更多[Charm|護符]充能"
 "Can instead consume 25% of maximum Mana to trigger [Charm|Charms] with insufficient charges","[Charm|護符]的充能不足時，可改為消耗 25% 最大魔力觸發之"
 "10% increased Life Recovery rate per 5% missing Unreserved Life","每損失 5% 未保留生命，增加 10% 生命恢復率"
 "Ritual Sacrifice can be used on yourself to remove 20% of maximum Life and grant a random [MonsterModifiers|Monster Modifier]\nA maximum of one Modifer can be granted this way","儀式獻祭可對你自己使用，移除 20% 最大生命，並賦予一個隨機的[MonsterModifiers|怪物詞綴]\n以此方式賦予的詞綴最多為一個"
 "+3% to Chaos Resistance","+3% 混沌抗性"
-"Minions have 8% chance to deal Double Damage","召喚物有 8% 機率造成 2 倍傷害"
+"Minions have 8% chance to deal Double Damage","召喚物有 8% 機率造成兩倍傷害"
 "Lose all Defiance when you reach 10 Defiance","當你達到 10 層反抗，會失去所有反抗"
 "Gain Defiance for 10 seconds on losing Life to an Enemy Hit, no\nmore than once every 0.3 seconds","敵人擊中而失去生命時獲得抗爭 10 秒，每 0.3 秒不會超過一次"
 "Gain 3% of Missing Unreserved Life before being Hit by an Enemy Per Defiance","每有一層反抗，則在遭敵人擊中前，獲得 3% 失去的未保留生命"
@@ -4608,7 +4608,7 @@ Battlemage,戰法
 "Vaal Skills have 50% increased Area of Effect",瓦爾技能增加50%範圍效果
 "Gain 1 Vaal Soul per second","每秒獲得 1 個瓦爾靈魂"
 "Skills supported by Unleash have +3 to maximum number of Seals","被釋放輔助的技能 +3 封印最大數量"
-"Unsealed Spells gain 5% more Damage each time their effects Reoccur",未封印的法術每重複觸發效果1次就獲得5%更多傷害
+"Unsealed Spells gain 5% more Damage each time their effects Reoccur",釋放封印的法術每重複觸發效果1次就獲得5%更多傷害
 "Skills Supported by Unleash have 20% increased Seal gain frequency","被釋放輔助的技能增加 20% 封印獲得頻率"
 "+20 to Maximum Rage",增加+20最大怒氣
 "Lose all Rage on reaching Maximum Rage and gain Wild Savagery\nfor 1 second per 10 Rage lost this way","在達到最大盛怒時損失所有盛怒並獲得荒野蠻怒\n每10損失的盛怒使增益持續1秒"
@@ -5166,3 +5166,88 @@ Battlemage,戰法
 "Gain 1 fewer [Surge|Lightning Surge] from [Trigger|Triggering] Elemental Surge",[Trigger|觸發]元素波動時獲得1更少[Surge|閃電波動]
 "When you Consume a [Charges|Charge], [Trigger] Elemental Surge to gain 3 [Surge|Lightning Surges]",當你消耗[Charges|能量球]時，[Trigger|觸發]元素波動以獲得3[Surge|閃電波動]
 "15% more Damage against Enemies affected by Blood Boils",對被鮮血沸騰影響的敵人造成15%更多傷害
+"8% increased Area of Effect for Attacks","增加攻擊技能 8% 範圍效果"
+"40% increased Global Accuracy Rating while you have at least 1 nearby Ally",當你周遭至少有1名友方時，增加40%全域命中率
+"15% increased Area of Effect for Attacks while you have at least 1 nearby Ally",當你周遭至少有1名友方時，增加15%攻擊範圍效果
+"Curse Skills have 15% increased Cast Speed","詛咒技能增加 15% 施放速度"
+"Refresh Duration of Chill and Shock on Enemies you Curse",刷新你所詛咒的敵人身上的冰緩和感電
+"20% increased Effect of Consecrated Ground you create","增加 20% 你製造奉獻地面的效果"
+"Consecrated Ground you create grants 30% increased Accuracy Rating to you and Allies",你創造的奉獻地面會增加30%你和友方的命中值
+"10% increased Effect of Consecrated Ground you create","增加 10% 你製造奉獻地面的效果"
+"Enemies you or your Totems Kill have 10% chance to Explode, dealing 250% of their maximum Life as Fire Damage","你或你圖騰擊殺的敵人有 10% 機率爆炸，造成 250% 它們最大生命的火焰傷害"
+"-25 Damage taken of each Damage Type from Spell Hits per Bark",擊中每層木質外膚的每種傷害類型會-25承受法術傷害
+"100% more Elemental Damage while Unbound","無縛狀態下，增加 100% 元素傷害"
+"When you kill a Poisoned Enemy during any Flask Effect, Enemies within 1.5 metres are Poisoned",當你在任何藥劑狀態下擊殺中毒的敵人時，使1.5公尺內的敵人中毒
+"Arcane Surge also grants 20% more Spell Damage to you",秘能波動同時會賦予你20%更多法術傷害
+"Every 4 seconds, remove Curses and Ailments from you",每4秒，移除自身的詛咒和異常狀態
+"20% increased magnitude of Hallowing Flame you inflict",增加20%你施加的聖徒烈火幅度
+"You can inflict +1 Hallowing Flame on Enemies",你可以對敵人施加+1聖徒烈火
+"Inflict Hallowing Flame on Melee Hit",近戰擊中施加聖徒烈火
+"Gain 10% of Physical Damage as Extra Lightning Damage for each of your Hallowing Flames that have been removed by an allied hit recently, up to 80%",近期來自友方的擊中每移除一層你的聖徒烈火，你即獲得10%物理傷害的額外閃電傷害，最高80%
+"Damage cannot be Reflected",傷害不能被反射
+"Damage of Enemies Hitting you is Unlucky",敵人擊中你的傷害很不幸
+"50% increased Cooldown Recovery Rate","增加 50% 冷卻恢復速度"
+"30% less Damage with Triggered Spells","被觸發的法術有 30% 更少傷害"
+"Arcane Surge also grants 10% more Spell Damage to you",秘能波動同時會賦予你10%更多法術傷害
+"Grants Level 30 Purity of Elements Skill","獲得等級 30 的元素淨化技能"
+"Purity of Elements has 100% increased Mana Reservation Efficiency","元素淨化增加 100% 魔力保留效用"
+"+60 to all Attributes","+60 全能力"
+"Debuffs on you expire 100% faster","加速減益效果失效 100%"
+"Gain a Frenzy Charge on Critical Strike",暴擊時獲得狂怒球
+"60% chance to Impale on Spell Hit","法術擊中有 60% 機率造成穿刺"
+"40% of Damage taken Recouped as Life","承受 40% 傷害補償為生命"
+"Skills Cost Life instead of 50% of Mana Cost","技能 50% 的魔力消耗，改為消耗生命"
+"Spells deal added Chaos Damage equal to 5% of your maximum Life","法術附加等同 5% 你最大生命的混沌傷害"
+"You cannot have more than 2 Summoned Totems of the same type",你無法擁有2個以上相同類型的召喚圖騰
+"+3 to maximum number of Summoned Totems","+3 召喚圖騰的最大數量"
+"Minions' Base Attack Critical Strike Chance is equal to the Critical\nStrike Chance of your Main Hand Weapon","召喚物的基礎攻擊暴擊率\n等同你主手武器的暴擊率"
+"75% increased bonuses gained from Equipped Quiver","增加 75% 你箭袋詞綴的效果"
+"80% increased Evasion Rating while moving","移動時增加 80% 閃避值"
+"Skills fire 2 additional Projectiles if you've used a Movement Skill Recently","若你近期有使用位移技能，技能發射 2 個額外投射物"
+"Grants Level 30 Thirst for Blood Skill","獲得等級 30 的嗜血技能"
+"+2 to Level of all Aura Skill Gems",+2所有光環技能寶石等級
+"40% increased Area of Effect of Aura Skills","增加光環技能 40% 範圍效果"
+"15% increased Reservation Efficiency of Skills","增加 15% 技能的保留效用"
+"25% chance to Avoid Elemental Ailments","25% 機率避免元素異常狀態"
+"40% chance for Elemental Resistances to count as being 90% against Enemy Hits","有 40% 機率使元素抗性以 90% 的值對抗敵人的擊中"
+"20% increased Movement Speed","增加 20% 移動速度"
+"33% of Chaos Damage taken does not bypass Energy Shield","33% 承受的混沌傷害不會無視能量護盾"
+"33% of Non-Chaos Damage taken bypasses Energy Shield","33% 承受的非混沌傷害無視能量護盾"
+"Gain 10% of Maximum Life as Extra Maximum Energy Shield","獲得等同 10% 最大生命值的額外能量護盾"
+"Armour from Equipped Shield is doubled",來自已裝備盾牌的護甲值加倍
+"Gain no Armour from Equipped Body Armour",無法從已裝備的身體護甲獲得護甲值
+"Spell Skills have 25% increased Area of Effect","法術技能增加 25% 範圍效果"
+"Nova Spells Cast at the targeted location instead of around you",新星技能會在目標位置施放而不是以你為中心
+"Spells fire 2 additional Projectiles","法術發射 2 個額外投射物"
+"Projectiles cannot continue after colliding with targets",投射物撞擊目標後無法繼續行進
+"Gain 20 Life per Enemy Hit with Spells","每用法術擊中一個敵人，獲得 20 生命"
+"8% increased Spell Damage per 5% Chance to Block Attack Damage","每 5% 攻擊傷害格擋率增加 8% 法術傷害"
+"Enemies Killed by your Hits are destroyed",被你擊中擊殺的敵人被摧毀
+"Recover 5% of Life on Kill","擊殺時恢復 5% 生命"
+"+2 to maximum number of Sacred Wisps\n+2 to number of Sacred Wisps Summoned","+2 聖潔妖精的最大數量\n+2 召喚聖潔妖精數量"
+"Strength provides no bonus to Maximum Life",力量不再提供最大生命加成
+"+3% to all maximum Elemental Resistances","+3% 全部最大元素抗性"
+"Take no Extra Damage from Critical Strikes",不會受到暴擊產成的額外暴擊傷害
+"50% increased Effect of your Marks while Elusive",靈巧時增加50%你印記的效果
+"Skills gain Added Chaos Damage equal to 25% of Life Cost, if Life Cost is not higher than the maximum you could spend","若生命消耗沒有高於你最大可消耗的值，技能附加等同25% 生命消耗的混沌傷害"
+"Minions deal 20% more Damage while they are on Low Life",召喚物貧血時造成20%更多傷害
+"Discipline has 50% increased Aura Effect while at Minimum Power Charges",擁有最大暴擊球時，增加50%紀律光環效果
+"Determination has 50% increased Aura Effect while at Minimum Endurance Charges",擁有最大耐力球時，增加50%堅定光環效果
+"Grace has 50% increased Aura Effect while at Minimum Frenzy Charges",擁有最大狂怒球時，增加50%優雅光環效果
+"67% of Cold Damage Converted to Chaos Damage","67% 冰冷傷害轉換為混沌傷害"
+"67% of Fire Damage Converted to Chaos Damage","67% 火焰傷害轉換為混沌傷害"
+"67% of Lightning Damage Converted to Chaos Damage","67% 閃電傷害轉換為混沌傷害"
+"70% increased Ward from Equipped Armour Items",70%增加裝備道具所賦予的保護
+"50% less Damage Taken from Damage over Time while you have Unbroken Ward",當你有尚未被破壞的保護時，承受50%更少持續傷害
+"30% faster Restoration of Ward per Enemy Hit taken Recently",近期每被1名敵人擊中，增加30%保護回復速度
+"4% increased Attack Speed per Minion, up to a maximum of 80%","每個召喚物使攻擊速度增加 4%，最多 80%"
+"Elemental Hit's Added Damage cannot be replaced this way",元素打擊的附加傷害無法以此方式被取代
+"You gain Added Cold Damage instead of Added Damage of other types if Dexterity exceeds both other Attributes",若你的敏捷為你最高的能力值，你的其他附加傷害種類會改為附加冰冷傷害
+"You gain Added Lighting Damage instead of Added Damage of other types if Intelligence exceeds both other Attributes",若你的智慧為你最高的能力值，你的其他附加傷害種類會改為附加閃電傷害
+"Maximum Baryatic Tension is equal to 30% of maximum Life",最大巨靈壓迫數量等同於30%最大生命
+"When you take a Savage Hit, lose Baryatic Tension to recover that much Life, up to maximum",當你承受殘暴打擊時，損失所有巨靈壓迫以回復同等生命，直到上限
+"Gain 20 Baryatic Tension per 20 Life Spent on Upfront Costs of Spells",每消耗20生命於前期消耗，獲得20巨靈壓迫
+"Damageable Minions deal 30% increased Damage for each second they have been alive,\nup to a maximum of 150%","可被傷害的召喚物會根據存活時間每秒增加30%傷害\n，最大150%"
+"Damageable Minions take 5% increased Damage for each second they have been alive,\nup to a maximum of 50%","可被傷害的召喚物會根據存活時間每秒增加5%承受傷害\n，最大50%"
+"Skills from Equipped Main Hand Weapon are supported by level 1 Cruelty",來自已裝備主手武器的技能被等級1的殘酷輔助
+"+8% to Damage over Time Multiplier","+8% 持續傷害加成"

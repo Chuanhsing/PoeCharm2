@@ -130,7 +130,7 @@ Dash,幻步
 Desecrate,褻瀆
 Despair,絕望
 "Destructive Link",連結：破壞
-Determination,堅定
+Determination,瓦爾．堅定
 "Detonate Dead",屍體爆破
 "Detonate Mines",引爆地雷
 "Devouring Totem",吞噬圖騰
@@ -194,7 +194,7 @@ Exsanguinate,抽血
 "Fire Weapon",烈焰武器
 Fireball,火球
 Firestorm,烈炎風暴
-"Flame Breath",火焰吐息
+"Flame Breath",火焰之息
 "Flame Dash",烈焰衝刺
 "Flame Link",連結：烈焰
 "Flame Surge",怒焰奔騰
@@ -214,7 +214,7 @@ Focus,專注
 "Forbidden Rite",禁忌儀式
 "Freeze Mine",冰凍地雷
 "Freezing Pulse",冰霜脈衝
-Frenzy,狂怒
+Frenzy,狂怒球
 "Frost Blades",冰霜之刃
 "Frost Bolt Channel",持續施法寒冰彈
 "Frost Bomb",寒霜爆
@@ -279,7 +279,7 @@ Lacerate,破空斬
 "Leap Slam",躍擊
 "Lightning Aegis",閃電聖盾
 "Lightning Arrow",閃電箭矢
-"Lightning Bolt",雷彈
+"Lightning Bolt",雷擊
 "Lightning Clone Retaliation",閃電複製體復仇
 "Lightning Conduit",導雷
 "Lightning Spire Trap",鋒雷陷阱
@@ -360,7 +360,7 @@ Riptide,激流
 "Shield Shatter",盾牌碎裂
 "Shock Ground",感電地面
 "Shock Nova",閃電新星
-Shockwave,震波
+Shockwave,衝擊波
 "Shockwave Totem",震波圖騰
 "Shrapnel Ballista",彈片砲塔
 "Siege Ballista",攻城炮台
@@ -380,7 +380,7 @@ Spark,電球
 "Spectral Spinning Weapon",靈製武器
 "Spectral Spirits",幽魂之靈
 "Spectral Throw",靈體投擲
-Spellslinger,拋法者
+Spellslinger,法術回音
 "Spirit Burst",靈體爆破
 "Spirit Offering",靈魂奉獻
 "Split Arrow",分裂箭矢
@@ -397,7 +397,7 @@ Steelskin,鋼筋鐵骨
 "Storm of Judgement",審判風暴
 "Storm Rain",暴風雷雨
 Stormbind,風暴術符
-"Stormblast Mine",風暴地雷
+"Stormblast Mine",風爆地雷
 "Summon Arbalists",召喚弩兵
 "Summon Bestial Rhoa",召喚兇猛恐喙鳥
 "Summon Bestial Snake",召喚兇猛蟒蛇
@@ -439,7 +439,7 @@ Taunt,嘲諷
 "Tawhoa's Chosen",塔赫亞的抉擇
 "Tectonic Slam",破體之擊
 "Tempest Shield",暴風之盾
-"Temporal Chains",時空鎖鏈
+"Temporal Chains",時空鎖鍊
 "Temporal Rift",時空裂隙
 "Tentacle Whip",觸手鞭擊
 "Thirst for Blood",嗜血
@@ -671,7 +671,7 @@ Sit!,坐下！
 "Galvanic Arrow of Surging",電流箭矢．波動
 "Bladefall of Volleys",虛空刀雨．齊射
 "Bladefall of Impaling",虛空刀雨．穿刺
-"Frost Bomb of Instability",寒霜爆．不穩定
+"Frost Bomb of Instability",寒霜爆．不定
 "Frost Bomb of Forthcoming",寒霜爆．來臨
 "Summon Stone Golem of Hordes",召喚巨石魔像．部落
 "Summon Stone Golem of Safeguarding",召喚巨石魔像．保安
@@ -773,15 +773,15 @@ Affliction,禁咒
 Pacify,平靜
 Ravenous,貪婪
 "Elemental Hit of the Spectrum",元素打擊．光譜
-"Ice Shot of Penetration",穿透之冰霜射擊
+"Ice Shot of Penetration","冰霜射擊 ．穿透"
 "Incinerate of Expanse",燒毀．蔓延
 "Incinerate of Venting",燒毀．通風
-"Kinetic Blast of Clustering",聚集之力量爆破
-"Summon Holy Relic of Conviction",信念之召喚聖物
-"Artillery Ballista of Cross Strafe",交叉掃射之火砲砲塔
-"Artillery Ballista of Focus Fire",集火之火砲砲塔
-"Poisonous Concoction of Bouncing",彈炸之毒藥
-"Tornado of Elemental Turbulence",元素湍流之龍捲風
+"Kinetic Blast of Clustering",力量爆破．聚集
+"Summon Holy Relic of Conviction",召喚聖物．信念
+"Artillery Ballista of Cross Strafe","火砲砲塔 ．掃射"
+"Artillery Ballista of Focus Fire","火砲砲塔 ．集火"
+"Poisonous Concoction of Bouncing","毒藥 ．彈炸"
+"Tornado of Elemental Turbulence","龍捲風 ．湍流"
 "Transform into Mimic",變形成寶箱
 Automation,自動化
 "Call to Arms",武裝召喚
@@ -795,8 +795,8 @@ Eviscerate,剔骨
 "Glacial Shield Swipe",冰川盾擊
 "Jet of Flame",烈焰噴射
 "Puncture of Shanking",腿脛放血
-"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的幻影
-"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的幻影
+"Summon an image of Beidat, Archangel of Death",召喚死亡天使．貝達特的形象
+"Summon an image of K'tash, the Hate Shepherd",召喚仇恨牧人．克塔什的形象
 "Summon Demon Beast",召喚惡魔野獸
 "Summon Demon Harpy",召喚惡魔鷹身
 "Summon Demon Imp",召喚惡魔小鬼
@@ -1478,7 +1478,7 @@ Icicles,碎霜彈幕
 "Ignition Blast",燃炎爆
 "Kinetic Anomaly",力量反常
 "Kinetic Flux",力量流束
-"Kinetic Fusillade",力量齊射
+"Kinetic Fusillade",力量猛射
 "Kinetic Rain",力量驟雨
 "Kinetic Rain of Impact",力量驟雨．衝擊
 "Living Lightning Zap",活躍閃電電擊
@@ -1518,7 +1518,7 @@ Starfall,星空殞落
 "The Great Avalanche",浩劫雪崩
 "The Grey Wind Howls",灰風咆嘯
 Thunderburst,雷霆爆裂
-Thunderstorm,閃電風暴
+Thunderstorm,天雷暴雨
 "Violent Desire",暴力渴望
 "Wall of Force",力量之壁
 "Ward Shatter",保護碎裂
@@ -1590,3 +1590,36 @@ Shred,裂碎
 "Walking Calamity",行走災厄
 "Wing Blast",翅翼猛襲
 "Wolf Pack",召喚惡狼
+"Blazing Glare",熾炎灼視
+"Bursting Toad","爆裂蟾蜍
+"
+"Caustic Retribution",酸蝕報復
+"Ceaseless Flesh",無休血肉
+"Charged Dash of Projection",雷霆衝鋒．投射
+Cinders,餘灰燼矢
+"Creeping Frost of Floes",寒霜滲透．浮冰
+"Divine Blast",神聖爆破
+Fissure,"裂隙之擊 "
+"Flamethrower Trap of Stability",噴火陷阱．穩定
+Foulgrasp,穢邪攫取
+"Frost Wall of Encroachment",冰牆．侵襲
+"Holy Hammers",神聖之錘
+"Holy Strike",神聖打擊
+"Holy Sweep",神聖橫掃
+"Kinetic Fusillade of Detonation",力量猛射．引爆
+Mesmerize,催眠指令
+"Orb of Storms of Squalls",風暴漩渦．颮風
+"Return to Mirage Portal",蜃景回歸
+"Rings of Light",聖芒之環
+"Searing Bond of Detonation",灼熱連結．引爆
+"Shield of Light",聖光盾擊
+"Shock Nova of Procession",閃電新星．行進
+"Shockwave Totem of Authority",震波圖騰．威權
+"Siphoning Trap of Pain",虹吸陷阱．苦痛
+"Static Strike of Gathering Lightning",充能打擊．聚雷
+"Storm Burst of Repulsion",風爆．排斥
+"Summon Hiveborn",召喚巢裔
+"Suspend in Time",時禁凝滯
+"Tears of Rot",腐朽淚滴
+"Void Shockwave",虛空震波
+Voidstorm,虛空風暴

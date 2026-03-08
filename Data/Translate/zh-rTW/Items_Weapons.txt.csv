@@ -162,7 +162,7 @@ Tomahawk,征戰之斧
 "Barbed Club",銳刺木棒
 "Rock Breaker",破岩錘
 "Battle Hammer",強化戰錘
-"Flanged Mace",輪緣之錘
+"Flanged Mace",護體之錘
 "Ornate Mace",華麗之錘
 "Phantom Mace",幻象之錘
 "Dragon Mace",龍之錘
@@ -325,7 +325,7 @@ Sekhem,威能權杖
 "Oscillating Sceptre",猶疑權杖
 "Stabilising Sceptre",安定權杖
 "Alternating Sceptre",輪迴權杖
-"Fishing Rod",釣竿
+"Fishing Rod",魚竿
 "Carving Knife",雕刻刀
 "Boot Knife",戰亂刀
 "Copper Kris",銅器波刃
@@ -673,7 +673,7 @@ Widowhail,鰥寡之托
 "Maata's Teaching",瑪塔的教導
 "Rakiata's Dance",萊基亞塔的舞步
 "Ethereal Bow",以太之弓
-"The Burden of Shadows",暗影重擔
+"The Burden of Shadows",沉重陰影
 Nametaker,奪名
 "Grace of the Goddess",女神恩典
 "Serle's Masterwork",瑟雷的傑作
@@ -1145,3 +1145,11 @@ Starcaller,喚星者
 "Atziri's Contempt",阿茲里的蔑視
 "Hysseg's Claw",希塞格之爪
 "The Flesh Poppet",血肉傀儡
+"The Sands of Time",時間之砂
+Skysunder,墜天者
+Fleshrender,血肉撕扯者
+"The Sacred Chalice",神浸聖盃
+"The Desecrated Chalice",瀆染髒盃
+"The Flame of Hope",希望之焰
+"The Broken Elegy",破碎輓歌
+"The Bane of Hope",希望之終
