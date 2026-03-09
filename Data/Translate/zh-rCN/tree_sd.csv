@@ -2695,7 +2695,7 @@
 "Claw Attacks deal 15% increased Damage with Ailments","爪类攻击造成的异常状态伤害提高 15%"
 "6% of Damage taken Recouped as Life",将所受伤害的6%吸纳为生命
 "15% increased Damage","伤害提高 15%"
-"Regenerate 10 Life per second","每秒再生 10 生命"
+"Regenerate 10 Life per second","生命每秒再生 10"
 "Enemies Shocked or Frozen by you take 5% increased Elemental Damage","被你冻结或感电的敌人受到的元素伤害提高 5%"
 "15% increased Accuracy Rating with Swords","剑类攻击的命中值提高 15%"
 "45% increased Critical Strike Chance with Swords","剑类攻击的暴击率提高 45%"
@@ -6275,3 +6275,4 @@ Battlemage,战斗法师
 "Damageable Minions take 5% increased Damage for each second they have been alive,\nup to a maximum of 50%","受击召唤生物存活的时间每有 1 秒，受到的伤害就提高 5%，\n最多提高 50%"
 "Skills from Equipped Main Hand Weapon are supported by level 1 Cruelty","装备的主手武器上的技能受到 1 级凌厉辅助"
 "+8% to Damage over Time Multiplier","+8% 持续伤害加成"
+"Elemental Hit's Added Damage cannot be replaced this way",元素打击的附加伤害无法通过该方式被替换

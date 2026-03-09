@@ -50,7 +50,7 @@ Lacerate,破空斩
 "Mirror Arrow",魅影射击
 "Pestilent Strike",致疫打击
 "Phase Run",暗影迷踪
-"Plague Bearer",瘟疫使徒
+"Plague Bearer",灾难使徒
 "Poacher's Mark",盗猎者印记
 Precision,精准
 Puncture,放血
@@ -89,14 +89,14 @@ Bane,混沌之毒
 Blight,菌潮
 "Vaal Blight",瓦尔：枯萎
 Bodyswap,灵体转换
-"Bone Offering",骸骨奉献
+"Bone Offering",装甲奉献
 "Brand Recall",烙印召回
 Clarity,清晰
 "Vaal Clarity",瓦尔：清晰
 "Cold Snap",霜暴
 "Vaal Cold Snap",瓦尔：霜暴
 Conductivity,导电
-Contagion,瘟疫
+Contagion,顽疾
 "Conversion Trap",迷魅陷阱
 Convocation,号召
 "Dark Pact",暗夜血契
@@ -1470,3 +1470,60 @@ Gorge,狼吞虎咽
 "Catalysing Elements",元素催化
 "Nova Projectiles II","新星投射物 II"
 "Charged Mark",充能印记
+"Holy Sweep",神圣横扫
+"Holy Hammers",神圣之锤
+"Shield of Light",光明之盾
+"Holy Strike",神圣打击
+"Divine Blast",神圣冲击
+"Multiple Projectiles",多重投射（辅）
+"Greater Spell Cascade",高阶多重施法范围（辅）
+Eclipse,月蚀（辅）
+"Invert the Rules",逆转规则（辅）
+"Cast on Ward Break",结界破碎时释放（辅）
+Ward,结界（辅）
+"Vaal Sacrifice",瓦尔献祭（辅）
+"Greater Spell Echo",高阶施法回响（辅）
+"Vaal Temptation",瓦尔诱惑（辅）
+Machinations,诡诈阴谋（辅）
+Pyre,燃焰（辅）
+Bonespire,白骨尖塔（辅）
+Foulgrasp,邪秽之握（辅）
+Hiveborn,裂隙虫群（辅）
+"Scornful Herald",蔑视使者（辅）
+"Cull the Weak",弱肉强食（辅）
+"Greater Ancestral Call",高阶先祖召唤（辅）
+Fissure,裂缝（辅）
+Hextoad,魔蛊蟾蜍（辅）
+Hexpass,魔蛊通道（辅）
+"Greater Fork",高阶分裂（辅）
+"Greater Chain",高阶连锁（辅）
+"Lethal Dose",致死剂量（辅）
+Companionship,忠诚伙伴（辅）
+"Divine Sentinel",神圣哨兵（辅）
+Annihilation,抹灭（辅）
+Edify,启发（辅）
+Invention,发明（辅）
+"Greater Kinetic Instability",高阶念动失稳（辅）
+"Cooldown Recovery",冷却回复（辅）
+Voidstorm,虚空风暴（辅）
+"Void Shockwave",虚空震波（辅）
+"Eldritch Blasphemy",古神亵渎（辅）
+Gluttony,暴食（辅）
+Overheat,过热（辅）
+"Greater Multistrike",高阶多重打击（辅）
+Congregation,亡灵大军（辅）
+Frostmage,寒霜法师（辅）
+"Greater Devour",高阶吞噬（辅）
+Magnetism,磁力（辅）
+"Greater Unleash",高阶释出（辅）
+Pacifism,和平主义（辅）
+"Bloodsoaked Banner",血染旗帜（辅）
+"Minion Pact",随从契约（辅）
+"Harrowing Throng",亡灵大军（辅）
+"Unholy Trinity",不洁三体（辅）
+"Overloaded Intensity",过载强度（辅）
+Transfusion,渗透（辅）
+Excommunicate,神圣驱逐(辅）
+Exemplar,英勇典范（辅）
+"Blessed Call",祝福呼唤（辅）
+Hallow,圣化（辅）

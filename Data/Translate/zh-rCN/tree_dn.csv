@@ -432,7 +432,7 @@ Gemini,双灵刃
 "Hunter's Gambit",猎人之势
 "Bow Damage",弓类伤害
 Fervour,激情
-"Evasion Per Frenzy Charge",狂怒球闪避
+"Evasion Per Frenzy Charge",每个狂怒球的闪避值
 "Frenzy Charge Duration",狂怒球持续时间
 Frenetic,狂热
 "Blood Drinker",汲血者
@@ -529,7 +529,7 @@ Disemboweling,开肠剖肚
 "Melee Critical Strike Chance",近战暴击率
 "Melee Critical Mastery",近战暴击专精
 "Damage Over Time and Life Regeneration",持续伤害与生命回复
-"Damage Over Time",持续伤害
+"Damage Over Time",持续伤害加成
 "Growth and Decay",成长与衰变
 "Chaos Mastery",混沌专精
 "Lethal Assault",王牌射手
@@ -1893,7 +1893,7 @@ Hearty,热忱
 "Block Mastery",格挡专精
 "Elemental Mastery",元素专精
 "Evasion and Energy Shield Mastery",闪避和能量护盾专精
-"Armour and Evasion Mastery",护甲和闪避值专精
+"Armour and Evasion Mastery",护甲和闪避专精
 "Physical Mastery",物理专精
 "Minion Offence Mastery",召唤生物斗志专精
 "Minion Defence Mastery",召唤生物防御专精
@@ -1919,7 +1919,7 @@ Introspection,内省
 "Aggressive Defence",以攻为守
 "Minion Life",召唤物生命
 "Minion Life and Chaos Resistance",召唤生物生命和混沌抗性
-"Minion Damage",召唤物伤害
+"Minion Damage",召唤生物伤害
 "Lightning Critical Strike Multiplier",闪电暴击伤害加成
 "Lightning Damage",闪电伤害
 "Fire Damage",火焰伤害
@@ -3998,3 +3998,45 @@ Oracle,神谕者
 "Mirage Deadeye",蜃影神射
 "Path Seeker",寻路者
 "Path of the Sorceress",魔巫道途
+"Attack Area of Effect and Accuracy",攻击范围效果与命中
+"Glory of Command",统御之荣
+"Shining Justice",辉光正义
+"Consecrated Ground Effect",奉献地面效果
+"Consecrated Ground Effect and Accuracy",奉献地面效果与命中
+"Hallowing Flame Effect",圣焰效果
+"Marshal of Divinity",神性统帅
+"Caster Weapon Display",施法者武器展示台
+"Martial Weapon Display",战斗武器展示台
+"Armour Display",护甲展示台
+"Jewellery Display",首饰展示台
+"Tear of Purity",纯净之泪
+Astramentis,均衡之符
+"Warped Timepiece",时空扭曲
+"Terminus Est",行刑之刃
+"Replica Heartbreaker",裂心刃【仿品】
+"Maw of Conquest",征服之口
+"The Burden of Shadows",暗影的重负
+"Cadigan's Authority",卡迪甘的权威
+"Maata's Teaching",玛塔之指教
+Widowhail,遗孀之雹
+"Beltimber Blade",芯木腰刀
+"Jack, the Axe",刽子手.杰克
+"Victario's Influence",维多里奥之绝响
+"Kiloava's Bluster",基洛瓦之风暴
+"Veruso's Ambition",维鲁索的壮怀
+"The Burden of Truth",真相之担
+"Prospero's Protection",普洛斯彼罗的守护
+"Astral Projector",星界投影
+"Mystic Refractor",神秘折射镜
+"Cybil's Paw",希比尔的冰爪
+"Kitava's Feast",奇塔弗之盛宴
+"Grace of the Goddess",女神的恩典
+"The Brass Dome",巨铜之顶
+Scavenger,寻觅者
+"Holy Word",圣言
+"Fiery Aegis",烈焰圣护
+Cryogenesis,寒霜之源
+Necromantic,死灵法术
+"Bound Flesh",束缚血肉
+"Afarud Ritual",阿法鲁德仪式
+"Bitter Lash",苦痛鞭笞
