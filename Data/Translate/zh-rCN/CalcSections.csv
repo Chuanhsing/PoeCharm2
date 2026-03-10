@@ -92,6 +92,8 @@ Max Impale Stacks:,最大穿刺层数:
 Stacks on Enemy:,对敌人层数:
 Impale Chance:,穿刺几率:
 Crit Impale Chance:,暴击穿刺几率:
+Impale Dur. Mod:,穿刺持续时间修正:
+Impale Duration:,穿刺持续时间:
 Stored Damage:,存储伤害:
 Damage Mod.:,伤害修正:
 MH Impale Chance:,穿刺几率(主手):
@@ -219,6 +221,13 @@ Bleed Duration:,流血持续时间:
 Poison:,中毒:
 Chance to Poison:,中毒几率:
 Poison Stacks:,中毒层数:
+% chance to inflict 1 additional poison:,额外施加一层中毒几率:
+% chance to inflict 1 additional poison (Main Hand):,额外施加一层中毒几率(主手):
+% chance to inflict 1 additional poison (Off Hand):,额外施加一层中毒几率(副手):
+inflict # additional poisons:,额外施加中毒层数:
+inflict # additional poisons (Main Hand):,额外施加中毒层数(主手):
+inflict # additional poisons (Off Hand):,额外施加中毒层数(副手):
+Poison Stack Limits:,中毒层数限制:
 Eff. DoT Multi:,有效持续伤加成:
 Source Physical:,物理来源:
 Source Lightning:,闪电来源:
@@ -465,6 +474,10 @@ Curse Effect on You:,自身受诅咒效果:
 Exposure Effect:,暴露效果:
 Wither Effect:,凋零效果:
 Debuff Dur. Mult.:,负面效果时间加成:
+Fortification:,护体:
+Maximum Stacks:,最大叠层:
+Minimum Stacks:,最小叠层:
+Less Dmg. Taken:,承受伤害总降:
 Stun Duration:,眩晕持续时间:
 Stun Avoid Chance:,避免眩晕几率:
 Stun Chance:,眩晕几率:
