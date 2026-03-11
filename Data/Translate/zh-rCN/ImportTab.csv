@@ -14,8 +14,8 @@
 "Character import status: Passive tree and jewels successfully imported.","角色导入状态: 天赋树和珠宝导入完成"
 "To start importing a character, enter the character's account name:","输入'角色帐号名'后点击'开始'以导入角色"
 Removes account from the dropdown list,从下拉列表中移除账号
-"Note: if the account name contains non-ASCII characters it must be pasted into the textbox,"注意:如果帐号名包含非'ASCII'字符,则必须粘贴入输入框,"
-not typed manually.,不可手动输入。
+"Note: if the account name contains non-ASCII characters it must be pasted into the textbox,","注意:如果帐号名包含非'ASCII'字符,则必须粘贴入输入框，"
+"not typed manually.","不可手动输入。"
 
 Privacy Settings,隐私设置
 Choose character to import data from:,选择角色后导入数据:
